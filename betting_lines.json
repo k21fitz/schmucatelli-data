@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 0,
   "status": "live",
-  "updated": "2026-08-28",
+  "updated": "2026-08-28T17:51:12+00:00",
   "games": [
     {
       "date": "8/29",
@@ -17,29 +17,29 @@
         "openHome": -7.5,
         "books": {
           "DK": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 8.5,
+            "home": -8.5
           },
           "FD": {
             "away": 8.5,
             "home": -8.5
           },
           "MGM": {
-            "away": 7.5,
-            "home": -7.5
+            "away": 9.5,
+            "home": -9.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW \u2014 North Carolina +9.5 (DraftKings)"
+        "action": "REVIEW \u2014 North Carolina +9.5 (BetMGM)"
       },
       "total": {
         "open": 47.5,
         "books": {
           "DK": 46.5,
-          "FD": 47.5,
+          "FD": 46.5,
           "MGM": 46.5,
           "CZR": null
         },
@@ -68,34 +68,34 @@
         "openHome": -38.5,
         "books": {
           "DK": {
-            "away": 39.5,
-            "home": -39.5
+            "away": 38.5,
+            "home": -38.5
           },
           "FD": {
             "away": 38.5,
             "home": -38.5
           },
           "MGM": {
-            "away": 39.5,
-            "home": -39.5
+            "away": 39,
+            "home": -39
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY \u2014 San Jose State +39.5 (DraftKings)"
+        "action": "PLAY \u2014 San Jose State +39 (BetMGM)"
       },
       "total": {
         "open": 60.5,
         "books": {
-          "DK": 60.5,
-          "FD": 60.5,
+          "DK": 61.5,
+          "FD": 61.5,
           "MGM": 61.5,
           "CZR": null
         },
         "model": 54,
-        "action": "PLAY \u2014 UNDER 60.5"
+        "action": "REVIEW \u2014 UNDER 61.5"
       },
       "moneyline": {
         "away": null,
@@ -119,16 +119,16 @@
         "openHome": -5.5,
         "books": {
           "DK": {
-            "away": 4.0,
-            "home": -4.0
+            "away": 4,
+            "home": -4
           },
           "FD": {
             "away": 4.5,
             "home": -4.5
           },
           "MGM": {
-            "away": 4.5,
-            "home": -4.5
+            "away": 4,
+            "home": -4
           },
           "CZR": {
             "away": null,
@@ -140,13 +140,13 @@
       "total": {
         "open": 53.5,
         "books": {
-          "DK": 52.5,
-          "FD": 53.5,
-          "MGM": 53.5,
+          "DK": 51.5,
+          "FD": 51.5,
+          "MGM": 51.5,
           "CZR": null
         },
         "model": 56.4,
-        "action": "PASS \u2014 OVER 53.5"
+        "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
         "away": 160,
@@ -164,29 +164,29 @@
       "away": "Jax State",
       "home": "N Dakota St",
       "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/7131aeaa-fe7c-4ecc-9dba-d16556c5bb4f/Jacksonville%2BState.png",
-      "homeLogo": "",
+      "homeLogo": null,
       "spread": {
-        "openAway": 7.0,
-        "openHome": -7.0,
+        "openAway": 6.5,
+        "openHome": -6.5,
         "books": {
           "DK": {
-            "away": 7.0,
-            "home": -7.0
+            "away": 7,
+            "home": -7
           },
           "FD": {
-            "away": 7.5,
-            "home": -7.5
+            "away": 6.5,
+            "home": -6.5
           },
           "MGM": {
-            "away": 7.0,
-            "home": -7.0
+            "away": 7,
+            "home": -7
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 N Dakota St -7"
+        "action": "PASS \u2014 N Dakota St -6.5"
       },
       "total": {
         "open": 46.5,
@@ -214,35 +214,35 @@
       "time": "6:30 PM",
       "away": "Sac State",
       "home": "Eastern Michigan",
-      "awayLogo": "",
+      "awayLogo": null,
       "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/a3ec43de-bf16-4ade-8268-2fff7f652781/Eastern%2BMichigan.png",
       "spread": {
         "openAway": 9.5,
         "openHome": -9.5,
         "books": {
           "DK": {
-            "away": 10.0,
-            "home": -10.0
+            "away": 9.5,
+            "home": -9.5
           },
           "FD": {
-            "away": 10.5,
-            "home": -10.5
+            "away": 9.5,
+            "home": -9.5
           },
           "MGM": {
-            "away": 10.0,
-            "home": -10.0
+            "away": 9.5,
+            "home": -9.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY \u2014 Sac State +10.5 (FanDuel)"
+        "action": "PLAY \u2014 Sac State +9.5 (DraftKings)"
       },
       "total": {
         "open": 52.5,
         "books": {
-          "DK": 54.5,
+          "DK": 53.5,
           "FD": 53.5,
           "MGM": 53.5,
           "CZR": null
@@ -268,27 +268,27 @@
       "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/9173300c-f748-47ae-a65f-34a45427c731/Hawaii.png",
       "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0d687967-8849-45b9-9dee-b71fdd1e2d9b/Stanford.png",
       "spread": {
-        "openAway": 4.0,
-        "openHome": -4.0,
+        "openAway": 4,
+        "openHome": -4,
         "books": {
           "DK": {
-            "away": 4.0,
-            "home": -4.0
+            "away": 4,
+            "home": -4
           },
           "FD": {
-            "away": 3.5,
-            "home": -3.5
+            "away": 4.5,
+            "home": -4.5
           },
           "MGM": {
-            "away": 4.0,
-            "home": -4.0
+            "away": 4,
+            "home": -4
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 Stanford -3.5"
+        "action": "PASS \u2014 Stanford -4"
       },
       "total": {
         "open": 48.5,
@@ -323,30 +323,30 @@
         "openHome": -31.5,
         "books": {
           "DK": {
-            "away": 30.5,
-            "home": -30.5
-          },
-          "FD": {
             "away": 31.5,
             "home": -31.5
           },
+          "FD": {
+            "away": 32.5,
+            "home": -32.5
+          },
           "MGM": {
-            "away": 31.0,
-            "home": -31.0
+            "away": 31.5,
+            "home": -31.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW \u2014 New Mexico St +31.5 (FanDuel)"
+        "action": "REVIEW \u2014 New Mexico St +32.5 (FanDuel)"
       },
       "total": {
         "open": 52.5,
         "books": {
           "DK": 53.5,
-          "FD": 52.5,
-          "MGM": 53.5,
+          "FD": 53.5,
+          "MGM": 54.5,
           "CZR": null
         },
         "model": 53.3,
@@ -382,15 +382,15 @@
             "home": -4.5
           },
           "MGM": {
-            "away": 4.5,
-            "home": -4.5
+            "away": 4,
+            "home": -4
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 UNLV -4.5"
+        "action": "PASS \u2014 UNLV -4"
       },
       "total": {
         "open": 56.5,
