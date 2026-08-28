@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 0,
   "status": "live",
-  "updated": "2026-08-28T17:51:12+00:00",
+  "updated": "2026-08-28T17:56:30+00:00",
   "games": [
     {
       "date": "8/29",
@@ -17,8 +17,8 @@
         "openHome": -7.5,
         "books": {
           "DK": {
-            "away": 8.5,
-            "home": -8.5
+            "away": 9.5,
+            "home": -9.5
           },
           "FD": {
             "away": 8.5,
@@ -33,7 +33,7 @@
             "home": null
           }
         },
-        "action": "REVIEW \u2014 North Carolina +9.5 (BetMGM)"
+        "action": "REVIEW \u2014 North Carolina +9.5 (DraftKings)"
       },
       "total": {
         "open": 47.5,
@@ -280,15 +280,15 @@
             "home": -4.5
           },
           "MGM": {
-            "away": 4,
-            "home": -4
+            "away": 3.5,
+            "home": -3.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 Stanford -4"
+        "action": "PASS \u2014 Stanford -3.5"
       },
       "total": {
         "open": 48.5,
@@ -331,8 +331,8 @@
             "home": -32.5
           },
           "MGM": {
-            "away": 31.5,
-            "home": -31.5
+            "away": 32,
+            "home": -32
           },
           "CZR": {
             "away": null,
