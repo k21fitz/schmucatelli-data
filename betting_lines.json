@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 0,
   "status": "live",
-  "updated": "2026-08-28T18:02:27+00:00",
+  "updated": "2026-08-28T18:08:52+00:00",
   "games": [
     {
       "date": "8/29",
@@ -47,13 +47,13 @@
         "action": "PASS \u2014 OVER 46.5"
       },
       "moneyline": {
-        "away": 285,
-        "home": -235,
+        "away": 290,
+        "home": -350,
         "awayProb": 0.265,
         "homeProb": 0.735,
-        "edge": 0.023,
-        "ev": 0.048,
-        "action": "LEAN \u2014 TCU -235"
+        "edge": 0.014,
+        "ev": 0.033,
+        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
       }
     },
     {
@@ -149,13 +149,13 @@
         "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
-        "away": 160,
-        "home": -145,
+        "away": 150,
+        "home": -180,
         "awayProb": 0.293,
         "homeProb": 0.707,
-        "edge": 0.106,
-        "ev": 0.194,
-        "action": "PLAY \u2014 Virginia -145"
+        "edge": 0.089,
+        "ev": 0.1,
+        "action": "LEAN \u2014 Virginia -180"
       }
     },
     {
@@ -251,13 +251,13 @@
         "action": "OUT OF UNIVERSE"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
+        "away": 295,
+        "home": -350,
         "awayProb": 0.434,
         "homeProb": 0.566,
-        "edge": null,
-        "ev": null,
-        "action": "OUT OF UNIVERSE"
+        "edge": 0.186,
+        "ev": 0.714,
+        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
       }
     },
     {
@@ -302,13 +302,13 @@
         "action": "PASS \u2014 OVER 48.5"
       },
       "moneyline": {
-        "away": 160,
-        "home": -170,
+        "away": 164,
+        "home": -190,
         "awayProb": 0.299,
         "homeProb": 0.701,
-        "edge": 0.082,
-        "ev": 0.114,
-        "action": "PLAY \u2014 Stanford -170"
+        "edge": 0.069,
+        "ev": 0.07,
+        "action": "LEAN \u2014 Stanford -190"
       }
     },
     {
@@ -353,13 +353,13 @@
         "action": "PASS \u2014 UNDER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
+        "away": 3500,
+        "home": -10000,
         "awayProb": 0.038,
         "homeProb": 0.962,
-        "edge": null,
-        "ev": null,
-        "action": "NO MARKET"
+        "edge": 0.009,
+        "ev": 0.368,
+        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
       }
     },
     {
@@ -404,12 +404,12 @@
         "action": "PASS \u2014 OVER 56.5"
       },
       "moneyline": {
-        "away": 154,
-        "home": -170,
+        "away": 160,
+        "home": -190,
         "awayProb": 0.388,
         "homeProb": 0.612,
-        "edge": 0.002,
-        "ev": -0.015,
+        "edge": 0.016,
+        "ev": 0.009,
         "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
       }
     }
