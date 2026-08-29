@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 0,
   "status": "live",
-  "updated": "2026-08-28T18:17:28+00:00",
+  "updated": "2026-08-29T13:12:07+00:00",
   "games": [
     {
       "date": "8/29",
@@ -17,29 +17,29 @@
         "openHome": -7.5,
         "books": {
           "DK": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 8.5,
+            "home": -8.5
           },
           "FD": {
             "away": 8.5,
             "home": -8.5
           },
           "MGM": {
-            "away": 9.5,
-            "home": -9.5
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW \u2014 North Carolina +9.5 (DraftKings)"
+        "action": "PLAY \u2014 North Carolina +8.5 (DraftKings)"
       },
       "total": {
         "open": 47.5,
         "books": {
           "DK": 46.5,
-          "FD": 46.5,
+          "FD": 45.5,
           "MGM": 46.5,
           "CZR": null
         },
@@ -47,13 +47,31 @@
         "action": "PASS \u2014 OVER 46.5"
       },
       "moneyline": {
-        "away": 290,
-        "home": -350,
+        "away": 285,
+        "home": -340,
         "awayProb": 0.265,
         "homeProb": 0.735,
-        "edge": 0.014,
-        "ev": 0.033,
-        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
+        "books": {
+          "DK": {
+            "away": 270,
+            "home": -340
+          },
+          "FD": {
+            "away": 285,
+            "home": -360
+          },
+          "MGM": {
+            "away": 275,
+            "home": -350
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": -0.01,
+        "ev": -0.049,
+        "action": "PASS \u2014 TCU -340"
       }
     },
     {
@@ -76,15 +94,15 @@
             "home": -38.5
           },
           "MGM": {
-            "away": 39,
-            "home": -39
+            "away": 38.5,
+            "home": -38.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY \u2014 San Jose State +39 (BetMGM)"
+        "action": "PLAY \u2014 San Jose State +38.5 (DraftKings)"
       },
       "total": {
         "open": 60.5,
@@ -102,6 +120,24 @@
         "home": null,
         "awayProb": 0.039,
         "homeProb": 0.961,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
         "edge": null,
         "ev": null,
         "action": "NO MARKET"
@@ -149,13 +185,31 @@
         "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
-        "away": 150,
-        "home": -180,
+        "away": 155,
+        "home": -176,
         "awayProb": 0.293,
         "homeProb": 0.707,
-        "edge": 0.089,
-        "ev": 0.1,
-        "action": "LEAN \u2014 Virginia -180"
+        "books": {
+          "DK": {
+            "away": 154,
+            "home": -185
+          },
+          "FD": {
+            "away": 146,
+            "home": -176
+          },
+          "MGM": {
+            "away": 155,
+            "home": -185
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": 0.088,
+        "ev": 0.109,
+        "action": "PLAY \u2014 Virginia -176"
       }
     },
     {
@@ -170,16 +224,16 @@
         "openHome": -6.5,
         "books": {
           "DK": {
-            "away": 7,
-            "home": -7
+            "away": 6.5,
+            "home": -6.5
           },
           "FD": {
             "away": 6.5,
             "home": -6.5
           },
           "MGM": {
-            "away": 7,
-            "home": -7
+            "away": 6.5,
+            "home": -6.5
           },
           "CZR": {
             "away": null,
@@ -221,43 +275,61 @@
         "openHome": -9.5,
         "books": {
           "DK": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 8.5,
+            "home": -8.5
           },
           "FD": {
             "away": 9.5,
             "home": -9.5
           },
           "MGM": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 8.5,
+            "home": -8.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY \u2014 Sac State +9.5 (DraftKings)"
+        "action": "PLAY \u2014 Sac State +9.5 (FanDuel)"
       },
       "total": {
         "open": 52.5,
         "books": {
-          "DK": 53.5,
+          "DK": 54.5,
           "FD": 53.5,
-          "MGM": 53.5,
+          "MGM": 54.5,
           "CZR": null
         },
         "model": 42.7,
         "action": "OUT OF UNIVERSE"
       },
       "moneyline": {
-        "away": 295,
-        "home": -350,
+        "away": 280,
+        "home": -345,
         "awayProb": 0.434,
         "homeProb": 0.566,
-        "edge": 0.186,
-        "ev": 0.714,
-        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
+        "books": {
+          "DK": {
+            "away": 275,
+            "home": -345
+          },
+          "FD": {
+            "away": 280,
+            "home": -360
+          },
+          "MGM": {
+            "away": 275,
+            "home": -350
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": -0.18,
+        "ev": -0.27,
+        "action": "PASS \u2014 Eastern Michigan -345"
       }
     },
     {
@@ -280,15 +352,15 @@
             "home": -4.5
           },
           "MGM": {
-            "away": 3.5,
-            "home": -3.5
+            "away": 4,
+            "home": -4
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 Stanford -3.5"
+        "action": "PASS \u2014 Stanford -4"
       },
       "total": {
         "open": 48.5,
@@ -302,13 +374,31 @@
         "action": "PASS \u2014 OVER 48.5"
       },
       "moneyline": {
-        "away": 164,
-        "home": -190,
+        "away": 155,
+        "home": -185,
         "awayProb": 0.299,
         "homeProb": 0.701,
-        "edge": 0.069,
-        "ev": 0.07,
-        "action": "LEAN \u2014 Stanford -190"
+        "books": {
+          "DK": {
+            "away": 154,
+            "home": -185
+          },
+          "FD": {
+            "away": 155,
+            "home": -188
+          },
+          "MGM": {
+            "away": 155,
+            "home": -190
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": 0.077,
+        "ev": 0.08,
+        "action": "LEAN \u2014 Stanford -185"
       }
     },
     {
@@ -327,39 +417,57 @@
             "home": -31.5
           },
           "FD": {
-            "away": 32.5,
-            "home": -32.5
+            "away": 31.5,
+            "home": -31.5
           },
           "MGM": {
-            "away": 32,
-            "home": -32
+            "away": 31,
+            "home": -31
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW \u2014 New Mexico St +32.5 (FanDuel)"
+        "action": "REVIEW \u2014 New Mexico St +31.5 (DraftKings)"
       },
       "total": {
         "open": 52.5,
         "books": {
           "DK": 53.5,
-          "FD": 53.5,
-          "MGM": 54.5,
+          "FD": 54.5,
+          "MGM": 53.5,
           "CZR": null
         },
         "model": 53.3,
         "action": "PASS \u2014 UNDER 53.5"
       },
       "moneyline": {
-        "away": 3500,
+        "away": 3000,
         "home": -10000,
         "awayProb": 0.038,
         "homeProb": 0.962,
-        "edge": 0.009,
-        "ev": 0.368,
-        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
+        "books": {
+          "DK": {
+            "away": 3000,
+            "home": -10000
+          },
+          "FD": {
+            "away": 2800,
+            "home": -10000
+          },
+          "MGM": {
+            "away": 3000,
+            "home": -10000
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": -0.006,
+        "ev": -0.028,
+        "action": "PASS \u2014 Florida State -10000"
       }
     },
     {
@@ -374,8 +482,8 @@
         "openHome": -5.5,
         "books": {
           "DK": {
-            "away": 4.5,
-            "home": -4.5
+            "away": 4,
+            "home": -4
           },
           "FD": {
             "away": 4.5,
@@ -405,12 +513,30 @@
       },
       "moneyline": {
         "away": 160,
-        "home": -190,
+        "home": -188,
         "awayProb": 0.388,
         "homeProb": 0.612,
-        "edge": 0.016,
-        "ev": 0.009,
-        "action": "OUT OF OPERATING DOMAIN \u2014 +MONEY"
+        "books": {
+          "DK": {
+            "away": 160,
+            "home": -192
+          },
+          "FD": {
+            "away": 155,
+            "home": -188
+          },
+          "MGM": {
+            "away": 160,
+            "home": -190
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": -0.017,
+        "ev": -0.062,
+        "action": "PASS \u2014 UNLV -188"
       }
     }
   ]
