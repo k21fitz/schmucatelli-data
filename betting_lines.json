@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-08-31T17:04:37+00:00",
+  "updated": "2026-08-31T17:10:27+00:00",
   "games": [
     {
       "date": "9/3",
@@ -316,7 +316,7 @@
         "books": {
           "DK": 55.5,
           "FD": 55.5,
-          "MGM": 55.5,
+          "MGM": 56.5,
           "CZR": null
         },
         "model": 50.9,
@@ -2807,11 +2807,11 @@
         "action": "PASS \u2014 UNDER 55.5"
       },
       "moneyline": {
-        "away": 220,
+        "away": 215,
         "home": -235,
         "awayProb": 0.165,
         "homeProb": 0.835,
-        "edge": 0.147,
+        "edge": 0.15,
         "ev": 0.19,
         "action": "PLAY",
         "books": {
@@ -2820,8 +2820,8 @@
             "home": null
           },
           "FD": {
-            "away": 220,
-            "home": -275
+            "away": 215,
+            "home": -265
           },
           "MGM": {
             "away": 195,
