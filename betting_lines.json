@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-08-31T17:10:27+00:00",
+  "updated": "2026-08-31T17:16:22+00:00",
   "games": [
     {
       "date": "9/3",
@@ -784,8 +784,8 @@
             "home": -6.5
           },
           "MGM": {
-            "away": 7,
-            "home": -7
+            "away": 6.5,
+            "home": -6.5
           },
           "CZR": {
             "away": null,
@@ -807,11 +807,11 @@
       },
       "moneyline": {
         "away": 225,
-        "home": -250,
+        "home": -258,
         "awayProb": 0.22,
         "homeProb": 0.78,
-        "edge": 0.085,
-        "ev": 0.092,
+        "edge": 0.083,
+        "ev": 0.082,
         "action": "LEAN",
         "books": {
           "DK": {
@@ -824,7 +824,7 @@
           },
           "MGM": {
             "away": 210,
-            "home": -250
+            "home": -275
           },
           "CZR": {
             "away": null,
@@ -2785,8 +2785,8 @@
             "home": -6.5
           },
           "MGM": {
-            "away": 6.5,
-            "home": -6.5
+            "away": 7,
+            "home": -7
           },
           "CZR": {
             "away": null,
@@ -2807,12 +2807,12 @@
         "action": "PASS \u2014 UNDER 55.5"
       },
       "moneyline": {
-        "away": 215,
-        "home": -235,
+        "away": 220,
+        "home": -265,
         "awayProb": 0.165,
         "homeProb": 0.835,
-        "edge": 0.15,
-        "ev": 0.19,
+        "edge": 0.136,
+        "ev": 0.15,
         "action": "PLAY",
         "books": {
           "DK": {
@@ -2824,8 +2824,8 @@
             "home": -265
           },
           "MGM": {
-            "away": 195,
-            "home": -235
+            "away": 220,
+            "home": -275
           },
           "CZR": {
             "away": null,
