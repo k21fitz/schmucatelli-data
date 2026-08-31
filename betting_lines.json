@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-08-31T15:58:58+00:00",
+  "updated": "2026-08-31T17:04:37+00:00",
   "games": [
     {
       "date": "9/3",
@@ -314,33 +314,33 @@
       "total": {
         "open": 54.5,
         "books": {
-          "DK": 54.5,
-          "FD": 54.5,
-          "MGM": 54.5,
+          "DK": 55.5,
+          "FD": 55.5,
+          "MGM": 55.5,
           "CZR": null
         },
         "model": 50.9,
-        "action": "LEAN \u2014 UNDER 54.5"
+        "action": "LEAN \u2014 UNDER 55.5"
       },
       "moneyline": {
-        "away": 154,
+        "away": 146,
         "home": -175,
         "awayProb": 0.264,
         "homeProb": 0.736,
-        "edge": 0.119,
+        "edge": 0.127,
         "ev": 0.156,
         "action": "PLAY",
         "books": {
           "DK": {
-            "away": 154,
-            "home": -185
+            "away": 145,
+            "home": -175
           },
           "FD": {
-            "away": 150,
-            "home": -182
+            "away": 146,
+            "home": -178
           },
           "MGM": {
-            "away": 145,
+            "away": 140,
             "home": -175
           },
           "CZR": {
@@ -1420,7 +1420,7 @@
         "books": {
           "DK": 49.5,
           "FD": 49.5,
-          "MGM": 50.5,
+          "MGM": 49.5,
           "CZR": null
         },
         "model": 54.41,
@@ -1487,13 +1487,13 @@
       "total": {
         "open": 54.5,
         "books": {
-          "DK": 53.5,
-          "FD": 53.5,
+          "DK": 52.5,
+          "FD": 52.5,
           "MGM": 53.5,
           "CZR": null
         },
         "model": 57.88,
-        "action": "LEAN \u2014 OVER 53.5"
+        "action": "PLAY \u2014 OVER 52.5"
       },
       "moneyline": {
         "away": 1600,
@@ -2186,11 +2186,11 @@
         "action": "LEAN \u2014 UNDER 51.5"
       },
       "moneyline": {
-        "away": 330,
+        "away": 320,
         "home": -380,
         "awayProb": 0.33,
         "homeProb": 0.67,
-        "edge": -0.1,
+        "edge": -0.099,
         "ev": -0.154,
         "action": "PASS",
         "books": {
@@ -2199,8 +2199,8 @@
             "home": -380
           },
           "FD": {
-            "away": 330,
-            "home": -430
+            "away": 320,
+            "home": -420
           },
           "MGM": {
             "away": 320,
