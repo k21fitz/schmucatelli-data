@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-08-31T17:16:22+00:00",
+  "updated": "2026-08-31T17:24:01+00:00",
   "games": [
     {
       "date": "9/3",
@@ -113,7 +113,7 @@
           "CZR": null
         },
         "model": 52.24,
-        "action": "LEAN \u2014 OVER 48.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 48.5"
       },
       "moneyline": {
         "away": 1500,
@@ -122,7 +122,7 @@
         "homeProb": 0.816,
         "edge": -0.121,
         "ev": -0.156,
-        "action": "PASS",
+        "action": "PASS \u2014 Wake Forest -3000",
         "books": {
           "DK": {
             "away": 1400,
@@ -182,7 +182,7 @@
           "CZR": null
         },
         "model": 53.79,
-        "action": "LEAN \u2014 OVER 50.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 50.5"
       },
       "moneyline": {
         "away": 220,
@@ -191,7 +191,7 @@
         "homeProb": 0.818,
         "edge": 0.129,
         "ev": 0.146,
-        "action": "PLAY",
+        "action": "PLAY \u2014 Georgia Tech -250",
         "books": {
           "DK": {
             "away": 220,
@@ -251,7 +251,7 @@
           "CZR": null
         },
         "model": 55.03,
-        "action": "PASS \u2014 UNDER 55.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 55.5"
       },
       "moneyline": {
         "away": 2200,
@@ -260,7 +260,7 @@
         "homeProb": 0.858,
         "edge": -0.097,
         "ev": -0.125,
-        "action": "PASS",
+        "action": "PASS \u2014 Illinois -5000",
         "books": {
           "DK": {
             "away": 2000,
@@ -320,7 +320,7 @@
           "CZR": null
         },
         "model": 50.9,
-        "action": "LEAN \u2014 UNDER 55.5"
+        "action": "LEAN \u00e2\u20ac\u201d UNDER 55.5"
       },
       "moneyline": {
         "away": 146,
@@ -329,7 +329,7 @@
         "homeProb": 0.736,
         "edge": 0.127,
         "ev": 0.156,
-        "action": "PLAY",
+        "action": "PLAY \u2014 Eastern Michigan -175",
         "books": {
           "DK": {
             "away": 145,
@@ -389,7 +389,7 @@
           "CZR": null
         },
         "model": 52.39,
-        "action": "PLAY \u2014 OVER 46.5"
+        "action": "PLAY \u00e2\u20ac\u201d OVER 46.5"
       },
       "moneyline": {
         "away": 333,
@@ -398,7 +398,7 @@
         "homeProb": 0.58,
         "edge": -0.198,
         "ev": -0.284,
-        "action": "PASS",
+        "action": "PASS \u2014 Michigan State -425",
         "books": {
           "DK": {
             "away": 330,
@@ -458,7 +458,7 @@
           "CZR": null
         },
         "model": 53.54,
-        "action": "LEAN \u2014 OVER 50.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 50.5"
       },
       "moneyline": {
         "away": null,
@@ -527,7 +527,7 @@
           "CZR": null
         },
         "model": 53.36,
-        "action": "PASS \u2014 OVER 51.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 51.5"
       },
       "moneyline": {
         "away": 1350,
@@ -536,7 +536,7 @@
         "homeProb": 0.896,
         "edge": -0.034,
         "ev": -0.068,
-        "action": "PASS",
+        "action": "PASS \u2014 USC -2500",
         "books": {
           "DK": {
             "away": 1300,
@@ -596,7 +596,7 @@
           "CZR": null
         },
         "model": 50.59,
-        "action": "LEAN \u2014 OVER 47.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 47.5"
       },
       "moneyline": {
         "away": -3000,
@@ -605,7 +605,7 @@
         "homeProb": 0.176,
         "edge": -0.119,
         "ev": -0.149,
-        "action": "PASS",
+        "action": "PASS \u2014 Miami -3000",
         "books": {
           "DK": {
             "away": -4500,
@@ -665,7 +665,7 @@
           "CZR": null
         },
         "model": 56.33,
-        "action": "PASS \u2014 UNDER 56.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 56.5"
       },
       "moneyline": {
         "away": 1100,
@@ -674,7 +674,7 @@
         "homeProb": 0.769,
         "edge": -0.146,
         "ev": -0.188,
-        "action": "PASS",
+        "action": "PASS \u2014 West Virginia -1800",
         "books": {
           "DK": {
             "away": 1000,
@@ -734,7 +734,7 @@
           "CZR": null
         },
         "model": 54.42,
-        "action": "PASS \u2014 OVER 53.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 53.5"
       },
       "moneyline": {
         "away": 3000,
@@ -743,7 +743,7 @@
         "homeProb": 0.9,
         "edge": -0.065,
         "ev": -0.091,
-        "action": "PASS",
+        "action": "PASS \u2014 Alabama -10000",
         "books": {
           "DK": {
             "away": 3000,
@@ -803,7 +803,7 @@
           "CZR": null
         },
         "model": 53.96,
-        "action": "PASS \u2014 OVER 52.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 52.5"
       },
       "moneyline": {
         "away": 225,
@@ -812,7 +812,7 @@
         "homeProb": 0.78,
         "edge": 0.083,
         "ev": 0.082,
-        "action": "LEAN",
+        "action": "LEAN \u2014 James Madison -258",
         "books": {
           "DK": {
             "away": 210,
@@ -872,7 +872,7 @@
           "CZR": null
         },
         "model": 60.47,
-        "action": "LEAN \u2014 OVER 55.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 55.5"
       },
       "moneyline": {
         "away": null,
@@ -941,7 +941,7 @@
           "CZR": null
         },
         "model": 51.43,
-        "action": "LEAN \u2014 OVER 47.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 47.5"
       },
       "moneyline": {
         "away": 1600,
@@ -950,7 +950,7 @@
         "homeProb": 0.876,
         "edge": -0.059,
         "ev": -0.093,
-        "action": "PASS",
+        "action": "PASS \u2014 Nebraska -2800",
         "books": {
           "DK": {
             "away": 1300,
@@ -1010,7 +1010,7 @@
           "CZR": null
         },
         "model": 51.16,
-        "action": "PASS \u2014 OVER 50.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 50.5"
       },
       "moneyline": {
         "away": 1000,
@@ -1019,7 +1019,7 @@
         "homeProb": 0.848,
         "edge": -0.065,
         "ev": -0.099,
-        "action": "PASS",
+        "action": "PASS \u2014 Houston -1600",
         "books": {
           "DK": {
             "away": 1000,
@@ -1079,7 +1079,7 @@
           "CZR": null
         },
         "model": 46.97,
-        "action": "REVIEW \u2014 UNDER 56.5"
+        "action": "REVIEW \u00e2\u20ac\u201d UNDER 56.5"
       },
       "moneyline": {
         "away": null,
@@ -1148,7 +1148,7 @@
           "CZR": null
         },
         "model": 57.22,
-        "action": "REVIEW \u2014 OVER 48.5"
+        "action": "REVIEW \u00e2\u20ac\u201d OVER 48.5"
       },
       "moneyline": {
         "away": 580,
@@ -1217,7 +1217,7 @@
           "CZR": null
         },
         "model": 52.32,
-        "action": "PASS \u2014 UNDER 53.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 53.5"
       },
       "moneyline": {
         "away": 5000,
@@ -1226,7 +1226,7 @@
         "homeProb": 0.929,
         "edge": -0.051,
         "ev": -0.07,
-        "action": "PASS",
+        "action": "PASS \u2014 South Carolina -100000",
         "books": {
           "DK": {
             "away": 5000,
@@ -1286,7 +1286,7 @@
           "CZR": null
         },
         "model": 54.25,
-        "action": "PLAY \u2014 UNDER 59.5"
+        "action": "PLAY \u00e2\u20ac\u201d UNDER 59.5"
       },
       "moneyline": {
         "away": 240,
@@ -1295,7 +1295,7 @@
         "homeProb": 0.787,
         "edge": 0.079,
         "ev": 0.073,
-        "action": "LEAN",
+        "action": "LEAN \u2014 Auburn -275",
         "books": {
           "DK": {
             "away": 240,
@@ -1355,7 +1355,7 @@
           "CZR": null
         },
         "model": 55.88,
-        "action": "LEAN \u2014 OVER 51.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 51.5"
       },
       "moneyline": {
         "away": 1650,
@@ -1364,7 +1364,7 @@
         "homeProb": 0.938,
         "edge": -0.003,
         "ev": -0.03,
-        "action": "PASS",
+        "action": "PASS \u2014 Oregon -3000",
         "books": {
           "DK": {
             "away": 1600,
@@ -1424,7 +1424,7 @@
           "CZR": null
         },
         "model": 54.41,
-        "action": "LEAN \u2014 OVER 49.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 49.5"
       },
       "moneyline": {
         "away": 245,
@@ -1433,7 +1433,7 @@
         "homeProb": 0.743,
         "edge": 0.024,
         "ev": -0.005,
-        "action": "PASS",
+        "action": "PASS \u2014 Cincinnati -295",
         "books": {
           "DK": {
             "away": 240,
@@ -1493,7 +1493,7 @@
           "CZR": null
         },
         "model": 57.88,
-        "action": "PLAY \u2014 OVER 52.5"
+        "action": "PLAY \u00e2\u20ac\u201d OVER 52.5"
       },
       "moneyline": {
         "away": 1600,
@@ -1502,7 +1502,7 @@
         "homeProb": 0.855,
         "edge": -0.086,
         "ev": -0.117,
-        "action": "PASS",
+        "action": "PASS \u2014 Penn State -3000",
         "books": {
           "DK": {
             "away": 1600,
@@ -1562,7 +1562,7 @@
           "CZR": null
         },
         "model": 58.19,
-        "action": "PASS \u2014 UNDER 59.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 59.5"
       },
       "moneyline": {
         "away": 3000,
@@ -1571,7 +1571,7 @@
         "homeProb": 0.924,
         "edge": -0.041,
         "ev": -0.067,
-        "action": "PASS",
+        "action": "PASS \u2014 Texas -10000",
         "books": {
           "DK": {
             "away": 3000,
@@ -1631,7 +1631,7 @@
           "CZR": null
         },
         "model": 55.34,
-        "action": "LEAN \u2014 OVER 51.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 51.5"
       },
       "moneyline": {
         "away": 300,
@@ -1640,7 +1640,7 @@
         "homeProb": 0.654,
         "edge": -0.097,
         "ev": -0.159,
-        "action": "PASS",
+        "action": "PASS \u2014 Duke -350",
         "books": {
           "DK": {
             "away": 300,
@@ -1700,7 +1700,7 @@
           "CZR": null
         },
         "model": 50.61,
-        "action": "REVIEW \u2014 UNDER 59.5"
+        "action": "REVIEW \u00e2\u20ac\u201d UNDER 59.5"
       },
       "moneyline": {
         "away": -550,
@@ -1709,7 +1709,7 @@
         "homeProb": 0.691,
         "edge": -0.512,
         "ev": -0.634,
-        "action": "PASS",
+        "action": "PASS \u2014 Oklahoma State -550",
         "books": {
           "DK": {
             "away": -575,
@@ -1769,7 +1769,7 @@
           "CZR": null
         },
         "model": 45.06,
-        "action": "PASS \u2014 UNDER 45.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 45.5"
       },
       "moneyline": {
         "away": 5000,
@@ -1778,7 +1778,7 @@
         "homeProb": 0.907,
         "edge": -0.074,
         "ev": -0.092,
-        "action": "PASS",
+        "action": "PASS \u2014 Iowa -100000",
         "books": {
           "DK": {
             "away": 5000,
@@ -1838,7 +1838,7 @@
           "CZR": null
         },
         "model": 44.17,
-        "action": "PASS \u2014 UNDER 46.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 46.5"
       },
       "moneyline": {
         "away": 136,
@@ -1847,7 +1847,7 @@
         "homeProb": 0.703,
         "edge": 0.114,
         "ev": 0.159,
-        "action": "PLAY",
+        "action": "PLAY \u2014 Colorado State -154",
         "books": {
           "DK": {
             "away": 136,
@@ -1907,7 +1907,7 @@
           "CZR": null
         },
         "model": 53.85,
-        "action": "PASS \u2014 OVER 52.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 52.5"
       },
       "moneyline": {
         "away": 310,
@@ -1916,7 +1916,7 @@
         "homeProb": 0.822,
         "edge": 0.056,
         "ev": 0.03,
-        "action": "LEAN",
+        "action": "LEAN \u2014 Memphis -395",
         "books": {
           "DK": {
             "away": 310,
@@ -2045,7 +2045,7 @@
           "CZR": null
         },
         "model": 55.03,
-        "action": "PASS \u2014 OVER 53.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 53.5"
       },
       "moneyline": {
         "away": null,
@@ -2114,7 +2114,7 @@
           "CZR": null
         },
         "model": 54.3,
-        "action": "PASS \u2014 OVER 53.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 53.5"
       },
       "moneyline": {
         "away": 650,
@@ -2123,7 +2123,7 @@
         "homeProb": 0.835,
         "edge": -0.033,
         "ev": -0.061,
-        "action": "PASS",
+        "action": "PASS \u2014 Troy -800",
         "books": {
           "DK": {
             "away": 650,
@@ -2183,7 +2183,7 @@
           "CZR": null
         },
         "model": 48.16,
-        "action": "LEAN \u2014 UNDER 51.5"
+        "action": "LEAN \u00e2\u20ac\u201d UNDER 51.5"
       },
       "moneyline": {
         "away": 320,
@@ -2192,7 +2192,7 @@
         "homeProb": 0.67,
         "edge": -0.099,
         "ev": -0.154,
-        "action": "PASS",
+        "action": "PASS \u2014 LSU -380",
         "books": {
           "DK": {
             "away": 300,
@@ -2321,7 +2321,7 @@
           "CZR": null
         },
         "model": 46.92,
-        "action": "PASS \u2014 UNDER 48.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 48.5"
       },
       "moneyline": {
         "away": 2500,
@@ -2330,7 +2330,7 @@
         "homeProb": 0.9,
         "edge": -0.056,
         "ev": -0.082,
-        "action": "PASS",
+        "action": "PASS \u2014 Michigan -5000",
         "books": {
           "DK": {
             "away": 1800,
@@ -2390,7 +2390,7 @@
           "CZR": null
         },
         "model": 55.25,
-        "action": "LEAN \u2014 UNDER 59.5"
+        "action": "LEAN \u00e2\u20ac\u201d UNDER 59.5"
       },
       "moneyline": {
         "away": 1800,
@@ -2399,7 +2399,7 @@
         "homeProb": 0.889,
         "edge": -0.058,
         "ev": -0.091,
-        "action": "PASS",
+        "action": "PASS \u2014 Florida -4500",
         "books": {
           "DK": {
             "away": 1800,
@@ -2459,7 +2459,7 @@
           "CZR": null
         },
         "model": 50.68,
-        "action": "LEAN \u2014 OVER 46.5"
+        "action": "LEAN \u00e2\u20ac\u201d OVER 46.5"
       },
       "moneyline": {
         "away": 333,
@@ -2468,7 +2468,7 @@
         "homeProb": 0.728,
         "edge": -0.047,
         "ev": -0.099,
-        "action": "PASS",
+        "action": "PASS \u2014 New Mexico -420",
         "books": {
           "DK": {
             "away": null,
@@ -2528,7 +2528,7 @@
           "CZR": null
         },
         "model": 56.33,
-        "action": "PASS \u2014 UNDER 58.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 58.5"
       },
       "moneyline": {
         "away": -142,
@@ -2537,7 +2537,7 @@
         "homeProb": 0.482,
         "edge": -0.045,
         "ev": -0.117,
-        "action": "PASS",
+        "action": "PASS \u2014 UNLV -142",
         "books": {
           "DK": {
             "away": null,
@@ -2597,7 +2597,7 @@
           "CZR": null
         },
         "model": 50.91,
-        "action": "PASS \u2014 UNDER 53.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 53.5"
       },
       "moneyline": {
         "away": -120,
@@ -2606,7 +2606,7 @@
         "homeProb": 0.752,
         "edge": -0.278,
         "ev": -0.545,
-        "action": "PASS",
+        "action": "PASS \u2014 UCLA -120",
         "books": {
           "DK": {
             "away": null,
@@ -2666,7 +2666,7 @@
           "CZR": null
         },
         "model": 50.93,
-        "action": "PASS \u2014 UNDER 52.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 52.5"
       },
       "moneyline": {
         "away": -135,
@@ -2675,7 +2675,7 @@
         "homeProb": 0.424,
         "edge": 0.025,
         "ev": 0.002,
-        "action": "LEAN",
+        "action": "LEAN \u2014 WKU -135",
         "books": {
           "DK": {
             "away": null,
@@ -2735,7 +2735,7 @@
           "CZR": null
         },
         "model": 49.38,
-        "action": "PASS \u2014 UNDER 50.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 50.5"
       },
       "moneyline": {
         "away": 1500,
@@ -2744,7 +2744,7 @@
         "homeProb": 0.851,
         "edge": -0.084,
         "ev": -0.121,
-        "action": "PASS",
+        "action": "PASS \u2014 Washington -3000",
         "books": {
           "DK": {
             "away": null,
@@ -2804,7 +2804,7 @@
           "CZR": null
         },
         "model": 53.14,
-        "action": "PASS \u2014 UNDER 55.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 55.5"
       },
       "moneyline": {
         "away": 220,
@@ -2813,7 +2813,7 @@
         "homeProb": 0.835,
         "edge": 0.136,
         "ev": 0.15,
-        "action": "PLAY",
+        "action": "PLAY \u2014 Ole Miss -265",
         "books": {
           "DK": {
             "away": null,
@@ -2873,7 +2873,7 @@
           "CZR": null
         },
         "model": 46.21,
-        "action": "PASS \u2014 UNDER 47.5"
+        "action": "PASS \u00e2\u20ac\u201d UNDER 47.5"
       },
       "moneyline": {
         "away": 1000,
@@ -2882,7 +2882,7 @@
         "homeProb": 0.938,
         "edge": 0.028,
         "ev": 0.005,
-        "action": "LEAN",
+        "action": "LEAN \u2014 Notre Dame -1400",
         "books": {
           "DK": {
             "away": null,
@@ -2942,7 +2942,7 @@
           "CZR": null
         },
         "model": 54.84,
-        "action": "PASS \u2014 OVER 53.5"
+        "action": "PASS \u00e2\u20ac\u201d OVER 53.5"
       },
       "moneyline": {
         "away": -160,
@@ -2951,7 +2951,7 @@
         "homeProb": 0.697,
         "edge": -0.288,
         "ev": -0.508,
-        "action": "PASS",
+        "action": "PASS \u2014 SMU -160",
         "books": {
           "DK": {
             "away": null,
