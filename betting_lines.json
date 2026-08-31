@@ -1,28 +1,28 @@
 {
   "site": "Schmucatelli Analytics",
   "season": 2026,
-  "week": 0,
+  "week": 1,
   "status": "live",
-  "updated": "2026-08-29T13:12:07+00:00",
+  "updated": "2026-08-31T13:39:09+00:00",
   "games": [
     {
-      "date": "8/29",
-      "time": "12:00 PM",
-      "away": "North Carolina",
-      "home": "TCU",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/c4f32601-4450-4a96-aa65-9d5524c09da6/North%2BCarolina.png",
-      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/6226630b-8b2b-4f15-af7e-70488ef279d2/TCU.png",
+      "date": "9/3",
+      "time": "6:00 PM",
+      "away": "Massachusetts",
+      "home": "Rutgers",
+      "awayLogo": null,
+      "homeLogo": null,
       "spread": {
-        "openAway": 7.5,
-        "openHome": -7.5,
+        "openAway": 0,
+        "openHome": 0,
         "books": {
           "DK": {
-            "away": 8.5,
-            "home": -8.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 8.5,
-            "home": -8.5
+            "away": null,
+            "home": null
           },
           "MGM": {
             "away": null,
@@ -33,93 +33,24 @@
             "home": null
           }
         },
-        "action": "PLAY \u2014 North Carolina +8.5 (DraftKings)"
+        "action": "NO MARKET"
       },
       "total": {
-        "open": 47.5,
+        "open": null,
         "books": {
-          "DK": 46.5,
-          "FD": 45.5,
-          "MGM": 46.5,
+          "DK": null,
+          "FD": null,
+          "MGM": null,
           "CZR": null
         },
-        "model": 48.4,
-        "action": "PASS \u2014 OVER 46.5"
-      },
-      "moneyline": {
-        "away": 285,
-        "home": -340,
-        "awayProb": 0.265,
-        "homeProb": 0.735,
-        "books": {
-          "DK": {
-            "away": 270,
-            "home": -340
-          },
-          "FD": {
-            "away": 285,
-            "home": -360
-          },
-          "MGM": {
-            "away": 275,
-            "home": -350
-          },
-          "CZR": {
-            "away": null,
-            "home": null
-          }
-        },
-        "edge": -0.01,
-        "ev": -0.049,
-        "action": "PASS \u2014 TCU -340"
-      }
-    },
-    {
-      "date": "8/29",
-      "time": "3:00 PM",
-      "away": "San Jose State",
-      "home": "USC",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/d2a6efd9-d492-4383-9b50-288ef9caf9f5/San%2BJose%2BState.png",
-      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0943b471-cc9e-49cb-bb0c-3da95f119a3a/USC.png",
-      "spread": {
-        "openAway": 38.5,
-        "openHome": -38.5,
-        "books": {
-          "DK": {
-            "away": 38.5,
-            "home": -38.5
-          },
-          "FD": {
-            "away": 38.5,
-            "home": -38.5
-          },
-          "MGM": {
-            "away": 38.5,
-            "home": -38.5
-          },
-          "CZR": {
-            "away": null,
-            "home": null
-          }
-        },
-        "action": "PLAY \u2014 San Jose State +38.5 (DraftKings)"
-      },
-      "total": {
-        "open": 60.5,
-        "books": {
-          "DK": 61.5,
-          "FD": 61.5,
-          "MGM": 61.5,
-          "CZR": null
-        },
-        "model": 54,
-        "action": "REVIEW \u2014 UNDER 61.5"
+        "model": null,
+        "action": "NO MARKET"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": 0.039,
-        "homeProb": 0.961,
+        "awayProb": null,
+        "homeProb": null,
         "books": {
           "DK": {
             "away": null,
@@ -140,84 +71,84 @@
         },
         "edge": null,
         "ev": null,
-        "action": "NO MARKET"
+        "action": "NO MODEL"
       }
     },
     {
-      "date": "8/29",
-      "time": "3:30 PM",
-      "away": "NC State",
-      "home": "Virginia",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/e8d7c4a2-0a59-4902-b042-c67948232909/NC%2BState.png",
-      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/3b0b8d16-dc46-4134-8c6a-63c5703124b3/Virginia.png",
+      "date": "9/3",
+      "time": "7:00 PM",
+      "away": "Akron",
+      "home": "Wake Forest",
+      "awayLogo": null,
+      "homeLogo": null,
       "spread": {
-        "openAway": 5.5,
-        "openHome": -5.5,
+        "openAway": 24.5,
+        "openHome": -24.5,
         "books": {
           "DK": {
-            "away": 4,
-            "home": -4
+            "away": 24.5,
+            "home": -24.5
           },
           "FD": {
-            "away": 4.5,
-            "home": -4.5
+            "away": 24.5,
+            "home": -24.5
           },
           "MGM": {
-            "away": 4,
-            "home": -4
+            "away": 24.5,
+            "home": -24.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 Virginia -4"
+        "action": "PASS \u2014 Wake Forest -24.5"
       },
       "total": {
-        "open": 53.5,
+        "open": 48.5,
         "books": {
-          "DK": 51.5,
-          "FD": 51.5,
-          "MGM": 51.5,
+          "DK": 48.5,
+          "FD": 48.5,
+          "MGM": 48.5,
           "CZR": null
         },
-        "model": 56.4,
-        "action": "LEAN \u2014 OVER 51.5"
+        "model": null,
+        "action": "LEAN"
       },
       "moneyline": {
-        "away": 155,
-        "home": -176,
-        "awayProb": 0.293,
-        "homeProb": 0.707,
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
         "books": {
           "DK": {
-            "away": 154,
-            "home": -185
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 146,
-            "home": -176
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 155,
-            "home": -185
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "edge": 0.088,
-        "ev": 0.109,
-        "action": "PLAY \u2014 Virginia -176"
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
       }
     },
     {
-      "date": "8/29",
-      "time": "5:30 PM",
-      "away": "Jax State",
-      "home": "N Dakota St",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/7131aeaa-fe7c-4ecc-9dba-d16556c5bb4f/Jacksonville%2BState.png",
+      "date": "9/3",
+      "time": "8:00 PM",
+      "away": "Colorado",
+      "home": "Georgia Tech",
+      "awayLogo": null,
       "homeLogo": null,
       "spread": {
         "openAway": 6.5,
@@ -240,174 +171,1641 @@
             "home": null
           }
         },
-        "action": "PASS \u2014 N Dakota St -6.5"
+        "action": "PASS \u2014 Georgia Tech -6.5"
       },
       "total": {
-        "open": 46.5,
+        "open": 50.5,
         "books": {
-          "DK": 46.5,
-          "FD": 46.5,
-          "MGM": 46.5,
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 50.5,
           "CZR": null
         },
         "model": null,
-        "action": "OUT OF UNIVERSE"
+        "action": "LEAN"
       },
       "moneyline": {
         "away": null,
         "home": null,
         "awayProb": null,
         "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
         "edge": null,
         "ev": null,
-        "action": "OUT OF UNIVERSE"
+        "action": "NO MODEL"
       }
     },
     {
-      "date": "8/29",
-      "time": "6:30 PM",
-      "away": "Sac State",
-      "home": "Eastern Michigan",
+      "date": "9/3",
+      "time": "9:00 PM",
+      "away": "Indiana",
+      "home": "Utah",
       "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": null,
+        "openHome": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "NO MARKET"
+      },
+      "total": {
+        "open": null,
+        "books": {
+          "DK": null,
+          "FD": null,
+          "MGM": null,
+          "CZR": null
+        },
+        "model": null,
+        "action": "NO MARKET"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/3",
+      "time": "9:00 PM",
+      "away": "UAB",
+      "home": "Illinois",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 28.5,
+        "openHome": -28.5,
+        "books": {
+          "DK": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "FD": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "MGM": {
+            "away": 28.5,
+            "home": -28.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Illinois -27.5"
+      },
+      "total": {
+        "open": 55.5,
+        "books": {
+          "DK": 55.5,
+          "FD": 55.5,
+          "MGM": 55.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/4",
+      "time": "6:30 PM",
+      "away": "San Jose State",
+      "home": "Eastern Michigan",
+      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/d2a6efd9-d492-4383-9b50-288ef9caf9f5/San%2BJose%2BState.png",
       "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/a3ec43de-bf16-4ade-8268-2fff7f652781/Eastern%2BMichigan.png",
+      "spread": {
+        "openAway": 3.5,
+        "openHome": -3.5,
+        "books": {
+          "DK": {
+            "away": 3.5,
+            "home": -3.5
+          },
+          "FD": {
+            "away": 3.5,
+            "home": -3.5
+          },
+          "MGM": {
+            "away": 3.5,
+            "home": -3.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Eastern Michigan -3.5"
+      },
+      "total": {
+        "open": 54.5,
+        "books": {
+          "DK": 54.5,
+          "FD": 54.5,
+          "MGM": 54.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/4",
+      "time": "8:00 PM",
+      "away": "Toledo",
+      "home": "Michigan State",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 10,
+        "openHome": -10,
+        "books": {
+          "DK": {
+            "away": 10,
+            "home": -10
+          },
+          "FD": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "MGM": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Michigan State -10"
+      },
+      "total": {
+        "open": 49.5,
+        "books": {
+          "DK": 49.5,
+          "FD": 48.5,
+          "MGM": 49.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/4",
+      "time": "8:00 PM",
+      "away": "UTEP",
+      "home": "Oklahoma",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 41.5,
+        "openHome": -41.5,
+        "books": {
+          "DK": {
+            "away": 41.5,
+            "home": -41.5
+          },
+          "FD": {
+            "away": 41.5,
+            "home": -41.5
+          },
+          "MGM": {
+            "away": 42,
+            "home": -42
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 UTEP +42"
+      },
+      "total": {
+        "open": 50.5,
+        "books": {
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 50.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/4",
+      "time": "9:00 PM",
+      "away": "Fresno State",
+      "home": "USC",
+      "awayLogo": null,
+      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0943b471-cc9e-49cb-bb0c-3da95f119a3a/USC.png",
+      "spread": {
+        "openAway": 22.5,
+        "openHome": -22.5,
+        "books": {
+          "DK": {
+            "away": 22.5,
+            "home": -22.5
+          },
+          "FD": {
+            "away": 22.5,
+            "home": -22.5
+          },
+          "MGM": {
+            "away": 22.5,
+            "home": -22.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 USC -22.5"
+      },
+      "total": {
+        "open": 51.5,
+        "books": {
+          "DK": 51.5,
+          "FD": 51.5,
+          "MGM": 51.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/4",
+      "time": "9:00 PM",
+      "away": "Miami",
+      "home": "Stanford",
+      "awayLogo": null,
+      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0d687967-8849-45b9-9dee-b71fdd1e2d9b/Stanford.png",
+      "spread": {
+        "openAway": -24.5,
+        "openHome": 24.5,
+        "books": {
+          "DK": {
+            "away": -24.5,
+            "home": 24.5
+          },
+          "FD": {
+            "away": -24.5,
+            "home": 24.5
+          },
+          "MGM": {
+            "away": -24.5,
+            "home": 24.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "REVIEW \u2014 Stanford +24.5 (DraftKings)"
+      },
+      "total": {
+        "open": 47.5,
+        "books": {
+          "DK": 47.5,
+          "FD": 47.5,
+          "MGM": 47.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:00 PM",
+      "away": "Coastal Carolina",
+      "home": "West Virginia",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 21.5,
+        "openHome": -21.5,
+        "books": {
+          "DK": {
+            "away": 21.5,
+            "home": -21.5
+          },
+          "FD": {
+            "away": 21.5,
+            "home": -21.5
+          },
+          "MGM": {
+            "away": 21.5,
+            "home": -21.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Coastal Carolina +21.5 (DraftKings)"
+      },
+      "total": {
+        "open": 56.5,
+        "books": {
+          "DK": 55.5,
+          "FD": 56.5,
+          "MGM": 55.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:00 PM",
+      "away": "East Carolina",
+      "home": "Alabama",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 28.5,
+        "openHome": -28.5,
+        "books": {
+          "DK": {
+            "away": 28.5,
+            "home": -28.5
+          },
+          "FD": {
+            "away": 28.5,
+            "home": -28.5
+          },
+          "MGM": {
+            "away": 28.5,
+            "home": -28.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 East Carolina +28.5 (DraftKings)"
+      },
+      "total": {
+        "open": 54.5,
+        "books": {
+          "DK": 53.5,
+          "FD": 54.5,
+          "MGM": 54.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:00 PM",
+      "away": "Liberty",
+      "home": "James Madison",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 6.5,
+        "openHome": -6.5,
+        "books": {
+          "DK": {
+            "away": 6.5,
+            "home": -6.5
+          },
+          "FD": {
+            "away": 6.5,
+            "home": -6.5
+          },
+          "MGM": {
+            "away": 6.5,
+            "home": -6.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "REVIEW \u2014 James Madison -6.5 (DraftKings)"
+      },
+      "total": {
+        "open": 52.5,
+        "books": {
+          "DK": 52.5,
+          "FD": 52.5,
+          "MGM": 52.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:00 PM",
+      "away": "North Texas",
+      "home": "Indiana",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 40.5,
+        "openHome": -40.5,
+        "books": {
+          "DK": {
+            "away": 40.5,
+            "home": -40.5
+          },
+          "FD": {
+            "away": 40.5,
+            "home": -40.5
+          },
+          "MGM": {
+            "away": 40.5,
+            "home": -40.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 North Texas +40.5 (DraftKings)"
+      },
+      "total": {
+        "open": 55.5,
+        "books": {
+          "DK": 55.5,
+          "FD": 55.5,
+          "MGM": 55.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:00 PM",
+      "away": "Ohio",
+      "home": "Nebraska",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 23.5,
+        "openHome": -23.5,
+        "books": {
+          "DK": {
+            "away": 23.5,
+            "home": -23.5
+          },
+          "FD": {
+            "away": 23.5,
+            "home": -23.5
+          },
+          "MGM": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Ohio +24.5 (BetMGM)"
+      },
+      "total": {
+        "open": 47.5,
+        "books": {
+          "DK": 47.5,
+          "FD": 47.5,
+          "MGM": 47.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:00 PM",
+      "away": "Oregon State",
+      "home": "Houston",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 20.5,
+        "openHome": -20.5,
+        "books": {
+          "DK": {
+            "away": 20.5,
+            "home": -20.5
+          },
+          "FD": {
+            "away": 20.5,
+            "home": -20.5
+          },
+          "MGM": {
+            "away": 20.5,
+            "home": -20.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Houston -20.5"
+      },
+      "total": {
+        "open": 50.5,
+        "books": {
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 51.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:30 PM",
+      "away": "Ball State",
+      "home": "Ohio State",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 50.5,
+        "openHome": -50.5,
+        "books": {
+          "DK": {
+            "away": 50.5,
+            "home": -50.5
+          },
+          "FD": {
+            "away": 50.5,
+            "home": -50.5
+          },
+          "MGM": {
+            "away": 50.5,
+            "home": -50.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Ohio State -50.5"
+      },
+      "total": {
+        "open": 56.5,
+        "books": {
+          "DK": 56.5,
+          "FD": 56.5,
+          "MGM": 56.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "REVIEW"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:30 PM",
+      "away": "Miami",
+      "home": "Pittsburgh",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": -0.25,
+        "openHome": 0.25,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "NO MARKET"
+      },
+      "total": {
+        "open": null,
+        "books": {
+          "DK": null,
+          "FD": null,
+          "MGM": null,
+          "CZR": null
+        },
+        "model": null,
+        "action": "NO MARKET"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "12:45 PM",
+      "away": "Kent State",
+      "home": "South Carolina",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 36.5,
+        "openHome": -36.5,
+        "books": {
+          "DK": {
+            "away": 36.5,
+            "home": -36.5
+          },
+          "FD": {
+            "away": 36.5,
+            "home": -36.5
+          },
+          "MGM": {
+            "away": 36.5,
+            "home": -36.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "REVIEW \u2014 Kent State +36.5 (DraftKings)"
+      },
+      "total": {
+        "open": 53.5,
+        "books": {
+          "DK": 53.5,
+          "FD": 54.5,
+          "MGM": 53.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "3:30 PM",
+      "away": "Baylor",
+      "home": "Auburn",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 7.5,
+        "openHome": -7.5,
+        "books": {
+          "DK": {
+            "away": 7,
+            "home": -7
+          },
+          "FD": {
+            "away": 7.5,
+            "home": -7.5
+          },
+          "MGM": {
+            "away": 7.5,
+            "home": -7.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Baylor +7.5"
+      },
+      "total": {
+        "open": 58.5,
+        "books": {
+          "DK": 58.5,
+          "FD": 58.5,
+          "MGM": 59.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "3:30 PM",
+      "away": "Boise State",
+      "home": "Oregon",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 24.5,
+        "openHome": -24.5,
+        "books": {
+          "DK": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "FD": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "MGM": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Oregon -24.5 (DraftKings)"
+      },
+      "total": {
+        "open": 52.5,
+        "books": {
+          "DK": 52.5,
+          "FD": 52.5,
+          "MGM": 52.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "3:30 PM",
+      "away": "Boston College",
+      "home": "Cincinnati",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 7.5,
+        "openHome": -7.5,
+        "books": {
+          "DK": {
+            "away": 7.5,
+            "home": -7.5
+          },
+          "FD": {
+            "away": 7.5,
+            "home": -7.5
+          },
+          "MGM": {
+            "away": 7.5,
+            "home": -7.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Cincinnati -7.5 (DraftKings)"
+      },
+      "total": {
+        "open": 51.5,
+        "books": {
+          "DK": 51.5,
+          "FD": 51.5,
+          "MGM": 51.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "3:30 PM",
+      "away": "Marshall",
+      "home": "Penn State",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 24.5,
+        "openHome": -24.5,
+        "books": {
+          "DK": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "FD": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "MGM": {
+            "away": 24.5,
+            "home": -24.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Penn State -24.5"
+      },
+      "total": {
+        "open": 54.5,
+        "books": {
+          "DK": 54.5,
+          "FD": 54.5,
+          "MGM": 54.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "3:30 PM",
+      "away": "Texas State",
+      "home": "Texas",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 30.5,
+        "openHome": -30.5,
+        "books": {
+          "DK": {
+            "away": 30.5,
+            "home": -30.5
+          },
+          "FD": {
+            "away": 30.5,
+            "home": -30.5
+          },
+          "MGM": {
+            "away": 30.5,
+            "home": -30.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Texas -30.5 (DraftKings)"
+      },
+      "total": {
+        "open": 60.5,
+        "books": {
+          "DK": 59.5,
+          "FD": 60.5,
+          "MGM": 60.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "3:30 PM",
+      "away": "Tulane",
+      "home": "Duke",
+      "awayLogo": null,
+      "homeLogo": null,
       "spread": {
         "openAway": 9.5,
         "openHome": -9.5,
         "books": {
           "DK": {
-            "away": 8.5,
-            "home": -8.5
+            "away": 9.5,
+            "home": -9.5
           },
           "FD": {
             "away": 9.5,
             "home": -9.5
           },
           "MGM": {
-            "away": 8.5,
-            "home": -8.5
+            "away": 9.5,
+            "home": -9.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY \u2014 Sac State +9.5 (FanDuel)"
+        "action": "PLAY \u2014 Tulane +9.5 (DraftKings)"
       },
       "total": {
-        "open": 52.5,
+        "open": 50.5,
         "books": {
-          "DK": 54.5,
-          "FD": 53.5,
-          "MGM": 54.5,
+          "DK": 50.5,
+          "FD": 51.5,
+          "MGM": 51.5,
           "CZR": null
         },
-        "model": 42.7,
-        "action": "OUT OF UNIVERSE"
+        "model": null,
+        "action": "LEAN"
       },
       "moneyline": {
-        "away": 280,
-        "home": -345,
-        "awayProb": 0.434,
-        "homeProb": 0.566,
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
         "books": {
           "DK": {
-            "away": 275,
-            "home": -345
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 280,
-            "home": -360
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 275,
-            "home": -350
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "edge": -0.18,
-        "ev": -0.27,
-        "action": "PASS \u2014 Eastern Michigan -345"
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
       }
     },
     {
-      "date": "8/29",
-      "time": "7:00 PM",
-      "away": "Hawaii",
-      "home": "Stanford",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/9173300c-f748-47ae-a65f-34a45427c731/Hawaii.png",
-      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0d687967-8849-45b9-9dee-b71fdd1e2d9b/Stanford.png",
+      "date": "9/5",
+      "time": "3:45 PM",
+      "away": "Oklahoma State",
+      "home": "Tulsa",
+      "awayLogo": null,
+      "homeLogo": null,
       "spread": {
-        "openAway": 4,
-        "openHome": -4,
+        "openAway": -14,
+        "openHome": 14,
         "books": {
           "DK": {
-            "away": 4,
-            "home": -4
+            "away": -14,
+            "home": 14
           },
           "FD": {
-            "away": 4.5,
-            "home": -4.5
+            "away": -13.5,
+            "home": 13.5
           },
           "MGM": {
-            "away": 4,
-            "home": -4
+            "away": -14,
+            "home": 14
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 Stanford -4"
+        "action": "REVIEW \u2014 Tulsa +14 (DraftKings)"
       },
       "total": {
-        "open": 48.5,
+        "open": 59.5,
         "books": {
-          "DK": 48.5,
-          "FD": 48.5,
-          "MGM": 48.5,
+          "DK": 59.5,
+          "FD": 59.5,
+          "MGM": 59.5,
           "CZR": null
         },
-        "model": 50.5,
-        "action": "PASS \u2014 OVER 48.5"
+        "model": null,
+        "action": "REVIEW"
       },
       "moneyline": {
-        "away": 155,
-        "home": -185,
-        "awayProb": 0.299,
-        "homeProb": 0.701,
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
         "books": {
           "DK": {
-            "away": 154,
-            "home": -185
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 155,
-            "home": -188
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 155,
-            "home": -190
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "edge": 0.077,
-        "ev": 0.08,
-        "action": "LEAN \u2014 Stanford -185"
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
       }
     },
     {
-      "date": "8/29",
-      "time": "7:00 PM",
-      "away": "New Mexico St",
-      "home": "Florida State",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/5cbdf28f-134c-45dc-8d3d-d05857271d0c/New%2BMexico%2BState.png",
-      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0b0041ec-aef2-4619-b1bd-c35403761d5d/Florida%2BState.png",
+      "date": "9/5",
+      "time": "4:15 PM",
+      "away": "Northern Illinois",
+      "home": "Iowa",
+      "awayLogo": null,
+      "homeLogo": null,
       "spread": {
         "openAway": 31.5,
         "openHome": -31.5,
@@ -421,122 +1819,1226 @@
             "home": -31.5
           },
           "MGM": {
-            "away": 31,
-            "home": -31
+            "away": 31.5,
+            "home": -31.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW \u2014 New Mexico St +31.5 (DraftKings)"
+        "action": "PASS \u2014 Iowa -31.5"
+      },
+      "total": {
+        "open": 46.5,
+        "books": {
+          "DK": 46.5,
+          "FD": 46.5,
+          "MGM": 46.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "6:00 PM",
+      "away": "Wyoming",
+      "home": "Colorado State",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 3.5,
+        "openHome": -3.5,
+        "books": {
+          "DK": {
+            "away": 3,
+            "home": -3
+          },
+          "FD": {
+            "away": 3.5,
+            "home": -3.5
+          },
+          "MGM": {
+            "away": 3.5,
+            "home": -3.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Colorado State -3"
+      },
+      "total": {
+        "open": 47.5,
+        "books": {
+          "DK": 47.5,
+          "FD": 46.5,
+          "MGM": 47.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:00 PM",
+      "away": "Arkansas State",
+      "home": "Memphis",
+      "awayLogo": null,
+      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/6d4414f6-c9b9-4f9d-99f3-4720671c9fc4/Memphis.png",
+      "spread": {
+        "openAway": 9.5,
+        "openHome": -9.5,
+        "books": {
+          "DK": {
+            "away": 10,
+            "home": -10
+          },
+          "FD": {
+            "away": 9.5,
+            "home": -9.5
+          },
+          "MGM": {
+            "away": 9.5,
+            "home": -9.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Memphis -9.5 (FanDuel)"
+      },
+      "total": {
+        "open": 53.5,
+        "books": {
+          "DK": 52.5,
+          "FD": 52.5,
+          "MGM": 53.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:00 PM",
+      "away": "Florida Intl",
+      "home": "South Florida",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 0.75,
+        "openHome": -0.75,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "NO MARKET"
+      },
+      "total": {
+        "open": null,
+        "books": {
+          "DK": null,
+          "FD": null,
+          "MGM": null,
+          "CZR": null
+        },
+        "model": null,
+        "action": "NO MARKET"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:00 PM",
+      "away": "Missouri State",
+      "home": "Texas A&M",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 41.5,
+        "openHome": -41.5,
+        "books": {
+          "DK": {
+            "away": 41.5,
+            "home": -41.5
+          },
+          "FD": {
+            "away": 41.5,
+            "home": -41.5
+          },
+          "MGM": {
+            "away": 41,
+            "home": -41
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "REVIEW \u2014 Missouri State +41.5 (DraftKings)"
+      },
+      "total": {
+        "open": 53.5,
+        "books": {
+          "DK": 53.5,
+          "FD": 53.5,
+          "MGM": 53.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:00 PM",
+      "away": "Sam Houston",
+      "home": "Troy",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 16.5,
+        "openHome": -16.5,
+        "books": {
+          "DK": {
+            "away": 16.5,
+            "home": -16.5
+          },
+          "FD": {
+            "away": 16.5,
+            "home": -16.5
+          },
+          "MGM": {
+            "away": 16.5,
+            "home": -16.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Sam Houston +16.5"
+      },
+      "total": {
+        "open": 53.5,
+        "books": {
+          "DK": 53.5,
+          "FD": 53.5,
+          "MGM": 53.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:30 PM",
+      "away": "Clemson",
+      "home": "LSU",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 10.5,
+        "openHome": -10.5,
+        "books": {
+          "DK": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "FD": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "MGM": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 LSU -10.5"
+      },
+      "total": {
+        "open": 51.5,
+        "books": {
+          "DK": 51.5,
+          "FD": 51.5,
+          "MGM": 51.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:30 PM",
+      "away": "Louisiana Monroe",
+      "home": "Mississippi State",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 0,
+        "openHome": 0,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "NO MARKET"
+      },
+      "total": {
+        "open": null,
+        "books": {
+          "DK": null,
+          "FD": null,
+          "MGM": null,
+          "CZR": null
+        },
+        "model": null,
+        "action": "NO MARKET"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:30 PM",
+      "away": "Western Michigan",
+      "home": "Michigan",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 27.5,
+        "openHome": -27.5,
+        "books": {
+          "DK": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "FD": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "MGM": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Western Michigan +27.5"
+      },
+      "total": {
+        "open": 48.5,
+        "books": {
+          "DK": 48.5,
+          "FD": 48.5,
+          "MGM": 48.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "7:45 PM",
+      "away": "Florida Atlantic",
+      "home": "Florida",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 27.5,
+        "openHome": -27.5,
+        "books": {
+          "DK": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "FD": {
+            "away": 26.5,
+            "home": -26.5
+          },
+          "MGM": {
+            "away": 27.5,
+            "home": -27.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Florida Atlantic +27.5"
+      },
+      "total": {
+        "open": 59.5,
+        "books": {
+          "DK": 59.5,
+          "FD": 59.5,
+          "MGM": 59.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "10:00 PM",
+      "away": "Central Michigan",
+      "home": "New Mexico",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 10.5,
+        "openHome": -10.5,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "MGM": {
+            "away": 10.5,
+            "home": -10.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 New Mexico -10.5 (FanDuel)"
+      },
+      "total": {
+        "open": 46.5,
+        "books": {
+          "DK": null,
+          "FD": 46.5,
+          "MGM": 46.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "LEAN"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "10:00 PM",
+      "away": "UNLV",
+      "home": "Hawaii",
+      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/faeb46e5-e24d-4a6e-a077-ab8443c769e6/UNLV.png",
+      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/9173300c-f748-47ae-a65f-34a45427c731/Hawaii.png",
+      "spread": {
+        "openAway": -3.25,
+        "openHome": 3.25,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": -3.5,
+            "home": 3.5
+          },
+          "MGM": {
+            "away": -3,
+            "home": 3
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Hawaii +3.5 (FanDuel)"
+      },
+      "total": {
+        "open": 58.5,
+        "books": {
+          "DK": null,
+          "FD": 58.5,
+          "MGM": 58.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "10:30 PM",
+      "away": "UCLA",
+      "home": "California",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": -1.5,
+        "openHome": 1.5,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": -1.5,
+            "home": 1.5
+          },
+          "MGM": {
+            "away": -1.5,
+            "home": 1.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 California +1.5 (FanDuel)"
+      },
+      "total": {
+        "open": 53.5,
+        "books": {
+          "DK": null,
+          "FD": 53.5,
+          "MGM": 53.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/5",
+      "time": "10:30 PM",
+      "away": "WKU",
+      "home": "Nevada",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": -2.5,
+        "openHome": 2.5,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": -2.5,
+            "home": 2.5
+          },
+          "MGM": {
+            "away": -2.5,
+            "home": 2.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 WKU -2.5"
       },
       "total": {
         "open": 52.5,
         "books": {
-          "DK": 53.5,
-          "FD": 54.5,
-          "MGM": 53.5,
+          "DK": null,
+          "FD": 52.5,
+          "MGM": 52.5,
           "CZR": null
         },
-        "model": 53.3,
-        "action": "PASS \u2014 UNDER 53.5"
+        "model": null,
+        "action": "PASS"
       },
       "moneyline": {
-        "away": 3000,
-        "home": -10000,
-        "awayProb": 0.038,
-        "homeProb": 0.962,
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
         "books": {
           "DK": {
-            "away": 3000,
-            "home": -10000
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 2800,
-            "home": -10000
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 3000,
-            "home": -10000
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "edge": -0.006,
-        "ev": -0.028,
-        "action": "PASS \u2014 Florida State -10000"
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
       }
     },
     {
-      "date": "8/29",
-      "time": "10:00 PM",
-      "away": "Memphis",
-      "home": "UNLV",
-      "awayLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/6d4414f6-c9b9-4f9d-99f3-4720671c9fc4/Memphis.png",
-      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/faeb46e5-e24d-4a6e-a077-ab8443c769e6/UNLV.png",
+      "date": "9/6",
+      "time": "4:00 PM",
+      "away": "Washington State",
+      "home": "Washington",
+      "awayLogo": null,
+      "homeLogo": null,
       "spread": {
-        "openAway": 5.5,
-        "openHome": -5.5,
+        "openAway": 23.5,
+        "openHome": -23.5,
         "books": {
           "DK": {
-            "away": 4,
-            "home": -4
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 4.5,
-            "home": -4.5
+            "away": 23.5,
+            "home": -23.5
           },
           "MGM": {
-            "away": 4,
-            "home": -4
+            "away": 23.5,
+            "home": -23.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS \u2014 UNLV -4"
+        "action": "PASS \u2014 Washington State +23.5"
       },
       "total": {
-        "open": 56.5,
+        "open": 50.5,
         "books": {
-          "DK": 56.5,
-          "FD": 56.5,
-          "MGM": 56.5,
+          "DK": null,
+          "FD": 50.5,
+          "MGM": 50.5,
           "CZR": null
         },
-        "model": 58.1,
-        "action": "PASS \u2014 OVER 56.5"
+        "model": null,
+        "action": "PASS"
       },
       "moneyline": {
-        "away": 160,
-        "home": -188,
-        "awayProb": 0.388,
-        "homeProb": 0.612,
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
         "books": {
           "DK": {
-            "away": 160,
-            "home": -192
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 155,
-            "home": -188
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 160,
-            "home": -190
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "edge": -0.017,
-        "ev": -0.062,
-        "action": "PASS \u2014 UNLV -188"
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/6",
+      "time": "7:30 PM",
+      "away": "Louisville",
+      "home": "Ole Miss",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 6.5,
+        "openHome": -6.5,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": 6.5,
+            "home": -6.5
+          },
+          "MGM": {
+            "away": 6.5,
+            "home": -6.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Ole Miss -6.5"
+      },
+      "total": {
+        "open": 55.5,
+        "books": {
+          "DK": null,
+          "FD": 55.5,
+          "MGM": 55.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/6",
+      "time": "7:30 PM",
+      "away": "Wisconsin",
+      "home": "Notre Dame",
+      "awayLogo": null,
+      "homeLogo": null,
+      "spread": {
+        "openAway": 20.5,
+        "openHome": -20.5,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": 20.5,
+            "home": -20.5
+          },
+          "MGM": {
+            "away": 20.5,
+            "home": -20.5
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PLAY \u2014 Wisconsin +20.5 (FanDuel)"
+      },
+      "total": {
+        "open": 47.5,
+        "books": {
+          "DK": null,
+          "FD": 47.5,
+          "MGM": 47.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
+      }
+    },
+    {
+      "date": "9/7",
+      "time": "7:30 PM",
+      "away": "SMU",
+      "home": "Florida State",
+      "awayLogo": null,
+      "homeLogo": "https://images.squarespace-cdn.com/content/v1/68ec19ddccbb4359adf0ba70/0b0041ec-aef2-4619-b1bd-c35403761d5d/Florida%2BState.png",
+      "spread": {
+        "openAway": -3.25,
+        "openHome": 3.25,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": -3.5,
+            "home": 3.5
+          },
+          "MGM": {
+            "away": -3,
+            "home": 3
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "action": "PASS \u2014 Florida State +3.5"
+      },
+      "total": {
+        "open": 53.5,
+        "books": {
+          "DK": null,
+          "FD": 53.5,
+          "MGM": 53.5,
+          "CZR": null
+        },
+        "model": null,
+        "action": "PASS"
+      },
+      "moneyline": {
+        "away": null,
+        "home": null,
+        "awayProb": null,
+        "homeProb": null,
+        "books": {
+          "DK": {
+            "away": null,
+            "home": null
+          },
+          "FD": {
+            "away": null,
+            "home": null
+          },
+          "MGM": {
+            "away": null,
+            "home": null
+          },
+          "CZR": {
+            "away": null,
+            "home": null
+          }
+        },
+        "edge": null,
+        "ev": null,
+        "action": "NO MODEL"
       }
     }
   ]
