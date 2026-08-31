@@ -3,7 +3,7 @@
   "week": 1,
   "previous_week": 0,
   "updated": "2026-08-31T06:00:06.619000",
-  "count": 131,
+  "count": 136,
   "teams": [
     {
       "rank": 1,
@@ -1002,6 +1002,18 @@
       "donchess": 0.3031
     },
     {
+      "rank": 85,
+      "team": "Hawaii",
+      "conference": "MWC",
+      "schmuckatelli": -5.022741429653267,
+      "delta_rank": -2,
+      "previous_rank": 83,
+      "fpi": -4.0,
+      "sagarin": 60.58,
+      "massey": 47.46,
+      "donchess": 0.5789
+    },
+    {
       "rank": 86,
       "team": "Western Michigan",
       "conference": "MAC",
@@ -1024,6 +1036,18 @@
       "sagarin": 61.61,
       "massey": 50.35,
       "donchess": 0.2947
+    },
+    {
+      "rank": 88,
+      "team": "WKU",
+      "conference": "CUSA",
+      "schmuckatelli": -6.202439810851051,
+      "delta_rank": 2,
+      "previous_rank": 90,
+      "fpi": -4.9,
+      "sagarin": 57.94,
+      "massey": 48.69,
+      "donchess": 0.4463
     },
     {
       "rank": 89,
@@ -1278,6 +1302,18 @@
       "donchess": 0.0487
     },
     {
+      "rank": 110,
+      "team": "Jax State",
+      "conference": "CUSA",
+      "schmuckatelli": -10.57892344652116,
+      "delta_rank": -12,
+      "previous_rank": 98,
+      "fpi": -13.9,
+      "sagarin": 55.87,
+      "massey": 43.1,
+      "donchess": 0.3045
+    },
+    {
       "rank": 111,
       "team": "Kennesaw State",
       "conference": "CUSA",
@@ -1470,6 +1506,18 @@
       "donchess": -0.7255
     },
     {
+      "rank": 127,
+      "team": "New Mexico St",
+      "conference": "CUSA",
+      "schmuckatelli": -15.63523867994623,
+      "delta_rank": 0,
+      "previous_rank": 127,
+      "fpi": -14.0,
+      "sagarin": 48.39,
+      "massey": 38.65,
+      "donchess": -0.787
+    },
+    {
       "rank": 128,
       "team": "Akron",
       "conference": "MAC",
@@ -1492,6 +1540,18 @@
       "sagarin": 47.38,
       "massey": 39.26,
       "donchess": -1.2027
+    },
+    {
+      "rank": 130,
+      "team": "MTSU",
+      "conference": "CUSA",
+      "schmuckatelli": -17.57700550775827,
+      "delta_rank": 0,
+      "previous_rank": 130,
+      "fpi": -16.1,
+      "sagarin": 46.11,
+      "massey": 38.05,
+      "donchess": -1.0407
     },
     {
       "rank": 131,
