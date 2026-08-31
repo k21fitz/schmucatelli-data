@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-08-31T14:22:25+00:00",
+  "updated": "2026-08-31T15:58:58+00:00",
   "games": [
     {
       "date": "9/3",
@@ -13,8 +13,8 @@
       "awayLogo": null,
       "homeLogo": null,
       "spread": {
-        "openAway": 0,
-        "openHome": 0,
+        "openAway": null,
+        "openHome": null,
         "books": {
           "DK": {
             "away": null,
@@ -43,14 +43,17 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 52.46,
         "action": "NO MARKET"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.067,
+        "homeProb": 0.933,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -68,10 +71,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -112,35 +112,35 @@
           "MGM": 48.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 52.24,
+        "action": "LEAN \u2014 OVER 48.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1500,
+        "home": -3000,
+        "awayProb": 0.184,
+        "homeProb": 0.816,
+        "edge": -0.121,
+        "ev": -0.156,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1400,
+            "home": -3200
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1400,
+            "home": -4000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1500,
+            "home": -3000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -181,35 +181,35 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 53.79,
+        "action": "LEAN \u2014 OVER 50.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 220,
+        "home": -250,
+        "awayProb": 0.182,
+        "homeProb": 0.818,
+        "edge": 0.129,
+        "ev": 0.146,
+        "action": "PLAY",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 220,
+            "home": -270
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 205,
+            "home": -255
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 200,
+            "home": -250
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -232,8 +232,8 @@
             "home": -27.5
           },
           "MGM": {
-            "away": 28,
-            "home": -28
+            "away": 27.5,
+            "home": -27.5
           },
           "CZR": {
             "away": null,
@@ -250,35 +250,35 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 55.03,
+        "action": "PASS \u2014 UNDER 55.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 2200,
+        "home": -5000,
+        "awayProb": 0.142,
+        "homeProb": 0.858,
+        "edge": -0.097,
+        "ev": -0.125,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 2000,
+            "home": -6500
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 2000,
+            "home": -7000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 2200,
+            "home": -5000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -319,35 +319,35 @@
           "MGM": 54.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 50.9,
+        "action": "LEAN \u2014 UNDER 54.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 154,
+        "home": -175,
+        "awayProb": 0.264,
+        "homeProb": 0.736,
+        "edge": 0.119,
+        "ev": 0.156,
+        "action": "PLAY",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 154,
+            "home": -185
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 150,
+            "home": -182
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 145,
+            "home": -175
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -383,40 +383,40 @@
       "total": {
         "open": 49.5,
         "books": {
-          "DK": 48.5,
-          "FD": 48.5,
-          "MGM": 48.5,
+          "DK": 47.5,
+          "FD": 46.5,
+          "MGM": 46.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 52.39,
+        "action": "PLAY \u2014 OVER 46.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 333,
+        "home": -425,
+        "awayProb": 0.42,
+        "homeProb": 0.58,
+        "edge": -0.198,
+        "ev": -0.284,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 330,
+            "home": -425
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 330,
+            "home": -430
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 333,
+            "home": -450
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -457,14 +457,17 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 53.54,
+        "action": "LEAN \u2014 OVER 50.5"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.07,
+        "homeProb": 0.93,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -482,10 +485,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -504,8 +504,8 @@
             "home": -22.5
           },
           "FD": {
-            "away": 22.5,
-            "home": -22.5
+            "away": 21.5,
+            "home": -21.5
           },
           "MGM": {
             "away": 22,
@@ -516,7 +516,7 @@
             "home": null
           }
         },
-        "action": "PASS \u2014 USC -22"
+        "action": "PLAY \u2014 USC -21.5 (FanDuel)"
       },
       "total": {
         "open": 51.5,
@@ -526,35 +526,35 @@
           "MGM": 51.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 53.36,
+        "action": "PASS \u2014 OVER 51.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1350,
+        "home": -2500,
+        "awayProb": 0.104,
+        "homeProb": 0.896,
+        "edge": -0.034,
+        "ev": -0.068,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1300,
+            "home": -2800
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1200,
+            "home": -3000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1350,
+            "home": -2500
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -595,35 +595,35 @@
           "MGM": 47.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 50.59,
+        "action": "LEAN \u2014 OVER 47.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": -3000,
+        "home": 1700,
+        "awayProb": 0.824,
+        "homeProb": 0.176,
+        "edge": -0.119,
+        "ev": -0.149,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -4500,
+            "home": 1700
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": -4000,
+            "home": 1400
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": -3000,
+            "home": 1700
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -661,38 +661,38 @@
         "books": {
           "DK": 55.5,
           "FD": 56.5,
-          "MGM": 55.5,
+          "MGM": 56.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 56.33,
+        "action": "PASS \u2014 UNDER 56.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1100,
+        "home": -1800,
+        "awayProb": 0.231,
+        "homeProb": 0.769,
+        "edge": -0.146,
+        "ev": -0.188,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1000,
+            "home": -1800
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1000,
+            "home": -2100
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1100,
+            "home": -2000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -729,39 +729,39 @@
         "open": 54.5,
         "books": {
           "DK": 53.5,
-          "FD": 54.5,
-          "MGM": 54.5,
+          "FD": 53.5,
+          "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 54.42,
+        "action": "PASS \u2014 OVER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 3000,
+        "home": -10000,
+        "awayProb": 0.1,
+        "homeProb": 0.9,
+        "edge": -0.065,
+        "ev": -0.091,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 3000,
+            "home": -10000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 2400,
+            "home": -10000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 2800,
+            "home": -10000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -784,8 +784,8 @@
             "home": -6.5
           },
           "MGM": {
-            "away": 6.5,
-            "home": -6.5
+            "away": 7,
+            "home": -7
           },
           "CZR": {
             "away": null,
@@ -802,35 +802,35 @@
           "MGM": 52.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 53.96,
+        "action": "PASS \u2014 OVER 52.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 225,
+        "home": -250,
+        "awayProb": 0.22,
+        "homeProb": 0.78,
+        "edge": 0.085,
+        "ev": 0.092,
+        "action": "LEAN",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 210,
+            "home": -258
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 225,
+            "home": -280
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 210,
+            "home": -250
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -871,14 +871,17 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 60.47,
+        "action": "LEAN \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.172,
+        "homeProb": 0.828,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -896,10 +899,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -940,35 +940,35 @@
           "MGM": 47.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 51.43,
+        "action": "LEAN \u2014 OVER 47.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1600,
+        "home": -2800,
+        "awayProb": 0.124,
+        "homeProb": 0.876,
+        "edge": -0.059,
+        "ev": -0.093,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1300,
+            "home": -2800
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1600,
+            "home": -4500
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1300,
+            "home": -3000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1006,38 +1006,38 @@
         "books": {
           "DK": 50.5,
           "FD": 50.5,
-          "MGM": 51.5,
+          "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 51.16,
+        "action": "PASS \u2014 OVER 50.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1000,
+        "home": -1600,
+        "awayProb": 0.152,
+        "homeProb": 0.848,
+        "edge": -0.065,
+        "ev": -0.099,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1000,
+            "home": -1800
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1000,
+            "home": -2100
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1000,
+            "home": -1600
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1078,14 +1078,17 @@
           "MGM": 56.5,
           "CZR": null
         },
-        "model": null,
-        "action": "REVIEW"
+        "model": 46.97,
+        "action": "REVIEW \u2014 UNDER 56.5"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.018,
+        "homeProb": 0.982,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -1103,10 +1106,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1142,40 +1142,40 @@
       "total": {
         "open": 49.5,
         "books": {
-          "DK": 49.5,
-          "FD": 49.5,
-          "MGM": 49.5,
+          "DK": 48.5,
+          "FD": 48.5,
+          "MGM": 48.5,
           "CZR": null
         },
-        "model": null,
-        "action": "REVIEW"
+        "model": 57.22,
+        "action": "REVIEW \u2014 OVER 48.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
+        "away": 580,
+        "home": -750,
         "awayProb": null,
         "homeProb": null,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 575,
+            "home": -850
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 580,
+            "home": -880
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 575,
+            "home": -750
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1216,18 +1216,21 @@
           "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 52.32,
+        "action": "PASS \u2014 UNDER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 5000,
+        "home": -100000,
+        "awayProb": 0.071,
+        "homeProb": 0.929,
+        "edge": -0.051,
+        "ev": -0.07,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 5000,
+            "home": -100000
           },
           "FD": {
             "away": null,
@@ -1241,10 +1244,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1280,40 +1280,40 @@
       "total": {
         "open": 58.5,
         "books": {
-          "DK": 58.5,
+          "DK": 59.5,
           "FD": 58.5,
           "MGM": 59.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 54.25,
+        "action": "PLAY \u2014 UNDER 59.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 240,
+        "home": -275,
+        "awayProb": 0.213,
+        "homeProb": 0.787,
+        "edge": 0.079,
+        "ev": 0.073,
+        "action": "LEAN",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 240,
+            "home": -298
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 220,
+            "home": -275
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 225,
+            "home": -275
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1349,40 +1349,40 @@
       "total": {
         "open": 52.5,
         "books": {
-          "DK": 52.5,
-          "FD": 52.5,
-          "MGM": 52.5,
+          "DK": 51.5,
+          "FD": 51.5,
+          "MGM": 51.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 55.88,
+        "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1650,
+        "home": -3000,
+        "awayProb": 0.062,
+        "homeProb": 0.938,
+        "edge": -0.003,
+        "ev": -0.03,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1600,
+            "home": -4000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1400,
+            "home": -4000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1650,
+            "home": -3000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1418,40 +1418,40 @@
       "total": {
         "open": 51.5,
         "books": {
-          "DK": 51.5,
-          "FD": 51.5,
-          "MGM": 51.5,
+          "DK": 49.5,
+          "FD": 49.5,
+          "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 54.41,
+        "action": "LEAN \u2014 OVER 49.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 245,
+        "home": -295,
+        "awayProb": 0.257,
+        "homeProb": 0.743,
+        "edge": 0.024,
+        "ev": -0.005,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 240,
+            "home": -298
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 245,
+            "home": -310
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 240,
+            "home": -295
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1487,40 +1487,40 @@
       "total": {
         "open": 54.5,
         "books": {
-          "DK": 54.5,
-          "FD": 54.5,
-          "MGM": 54.5,
+          "DK": 53.5,
+          "FD": 53.5,
+          "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 57.88,
+        "action": "LEAN \u2014 OVER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1600,
+        "home": -3000,
+        "awayProb": 0.145,
+        "homeProb": 0.855,
+        "edge": -0.086,
+        "ev": -0.117,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1600,
+            "home": -4000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1400,
+            "home": -4000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1600,
+            "home": -3000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1561,22 +1561,25 @@
           "MGM": 59.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 58.19,
+        "action": "PASS \u2014 UNDER 59.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 3000,
+        "home": -10000,
+        "awayProb": 0.076,
+        "homeProb": 0.924,
+        "edge": -0.041,
+        "ev": -0.067,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 3000,
+            "home": -10000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 2400,
+            "home": -10000
           },
           "MGM": {
             "away": null,
@@ -1586,10 +1589,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1630,35 +1630,35 @@
           "MGM": 51.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 55.34,
+        "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 300,
+        "home": -350,
+        "awayProb": 0.346,
+        "homeProb": 0.654,
+        "edge": -0.097,
+        "ev": -0.159,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 300,
+            "home": -380
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 280,
+            "home": -360
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 275,
+            "home": -350
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1699,35 +1699,35 @@
           "MGM": 59.5,
           "CZR": null
         },
-        "model": null,
-        "action": "REVIEW"
+        "model": 50.61,
+        "action": "REVIEW \u2014 UNDER 59.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": -550,
+        "home": 460,
+        "awayProb": 0.309,
+        "homeProb": 0.691,
+        "edge": -0.512,
+        "ev": -0.634,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -575,
+            "home": 425
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": -650,
+            "home": 460
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": -550,
+            "home": 425
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1764,22 +1764,25 @@
         "open": 46.5,
         "books": {
           "DK": 45.5,
-          "FD": 44.5,
+          "FD": 45.5,
           "MGM": 46.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 45.06,
+        "action": "PASS \u2014 UNDER 45.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 5000,
+        "home": -100000,
+        "awayProb": 0.093,
+        "homeProb": 0.907,
+        "edge": -0.074,
+        "ev": -0.092,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 5000,
+            "home": -100000
           },
           "FD": {
             "away": null,
@@ -1793,10 +1796,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1837,35 +1837,35 @@
           "MGM": 46.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 44.17,
+        "action": "PASS \u2014 UNDER 46.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 136,
+        "home": -154,
+        "awayProb": 0.297,
+        "homeProb": 0.703,
+        "edge": 0.114,
+        "ev": 0.159,
+        "action": "PLAY",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 136,
+            "home": -162
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 128,
+            "home": -154
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 135,
+            "home": -160
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1880,16 +1880,16 @@
         "openHome": -9.5,
         "books": {
           "DK": {
-            "away": 10,
-            "home": -10
+            "away": 10.5,
+            "home": -10.5
           },
           "FD": {
             "away": 9.5,
             "home": -9.5
           },
           "MGM": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 10.5,
+            "home": -10.5
           },
           "CZR": {
             "away": null,
@@ -1906,35 +1906,35 @@
           "MGM": 52.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 53.85,
+        "action": "PASS \u2014 OVER 52.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 310,
+        "home": -395,
+        "awayProb": 0.178,
+        "homeProb": 0.822,
+        "edge": 0.056,
+        "ev": 0.03,
+        "action": "LEAN",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 310,
+            "home": -395
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 310,
+            "home": -400
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 310,
+            "home": -400
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -1975,14 +1975,17 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 62.58,
         "action": "NO MARKET"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.143,
+        "homeProb": 0.857,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -2000,10 +2003,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2044,14 +2044,17 @@
           "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 55.03,
+        "action": "PASS \u2014 OVER 53.5"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.047,
+        "homeProb": 0.953,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -2069,10 +2072,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2113,35 +2113,35 @@
           "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 54.3,
+        "action": "PASS \u2014 OVER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 650,
+        "home": -800,
+        "awayProb": 0.165,
+        "homeProb": 0.835,
+        "edge": -0.033,
+        "ev": -0.061,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 650,
+            "home": -1000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 640,
+            "home": -1000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 600,
+            "home": -800
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2182,35 +2182,35 @@
           "MGM": 51.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 48.16,
+        "action": "LEAN \u2014 UNDER 51.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 330,
+        "home": -380,
+        "awayProb": 0.33,
+        "homeProb": 0.67,
+        "edge": -0.1,
+        "ev": -0.154,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 300,
+            "home": -380
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 330,
+            "home": -430
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 320,
+            "home": -425
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2221,8 +2221,8 @@
       "awayLogo": null,
       "homeLogo": null,
       "spread": {
-        "openAway": 0,
-        "openHome": 0,
+        "openAway": null,
+        "openHome": null,
         "books": {
           "DK": {
             "away": null,
@@ -2251,14 +2251,17 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 54.08,
         "action": "NO MARKET"
       },
       "moneyline": {
         "away": null,
         "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "awayProb": 0.054,
+        "homeProb": 0.946,
+        "edge": null,
+        "ev": null,
+        "action": "NO MARKET",
         "books": {
           "DK": {
             "away": null,
@@ -2276,10 +2279,7 @@
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2320,35 +2320,35 @@
           "MGM": 48.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 46.92,
+        "action": "PASS \u2014 UNDER 48.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 2500,
+        "home": -5000,
+        "awayProb": 0.1,
+        "homeProb": 0.9,
+        "edge": -0.056,
+        "ev": -0.082,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1800,
+            "home": -5000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 2200,
+            "home": -8000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 2500,
+            "home": -10000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2389,35 +2389,35 @@
           "MGM": 59.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 55.25,
+        "action": "LEAN \u2014 UNDER 59.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1800,
+        "home": -4500,
+        "awayProb": 0.111,
+        "homeProb": 0.889,
+        "edge": -0.058,
+        "ev": -0.091,
+        "action": "PASS",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1800,
+            "home": -5000
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1600,
+            "home": -4500
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1800,
+            "home": -5000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2458,35 +2458,35 @@
           "MGM": 46.5,
           "CZR": null
         },
-        "model": null,
-        "action": "LEAN"
+        "model": 50.68,
+        "action": "LEAN \u2014 OVER 46.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 333,
+        "home": -420,
+        "awayProb": 0.272,
+        "homeProb": 0.728,
+        "edge": -0.047,
+        "ev": -0.099,
+        "action": "PASS",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 320,
+            "home": -420
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 333,
+            "home": -425
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2527,35 +2527,35 @@
           "MGM": 58.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 56.33,
+        "action": "PASS \u2014 UNDER 58.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": -142,
+        "home": 120,
+        "awayProb": 0.518,
+        "homeProb": 0.482,
+        "edge": -0.045,
+        "ev": -0.117,
+        "action": "PASS",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": -142,
+            "home": 118
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": -145,
+            "home": 120
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2596,35 +2596,35 @@
           "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 50.91,
+        "action": "PASS \u2014 UNDER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": -120,
+        "home": 104,
+        "awayProb": 0.248,
+        "homeProb": 0.752,
+        "edge": -0.278,
+        "ev": -0.545,
+        "action": "PASS",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": -125,
+            "home": 104
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": -120,
+            "home": 100
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2665,35 +2665,35 @@
           "MGM": 52.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 50.93,
+        "action": "PASS \u2014 UNDER 52.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": -135,
+        "home": 115,
+        "awayProb": 0.576,
+        "homeProb": 0.424,
+        "edge": 0.025,
+        "ev": 0.002,
+        "action": "LEAN",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": -138,
+            "home": 115
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": -135,
+            "home": 110
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2734,35 +2734,35 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 49.38,
+        "action": "PASS \u2014 UNDER 50.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1500,
+        "home": -3000,
+        "awayProb": 0.149,
+        "homeProb": 0.851,
+        "edge": -0.084,
+        "ev": -0.121,
+        "action": "PASS",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1280,
+            "home": -3500
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 1500,
+            "home": -3000
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2803,35 +2803,35 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 53.14,
+        "action": "PASS \u2014 UNDER 55.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 220,
+        "home": -235,
+        "awayProb": 0.165,
+        "homeProb": 0.835,
+        "edge": 0.147,
+        "ev": 0.19,
+        "action": "PLAY",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 220,
+            "home": -275
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 195,
+            "home": -235
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2872,35 +2872,35 @@
           "MGM": 47.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 46.21,
+        "action": "PASS \u2014 UNDER 47.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": 1000,
+        "home": -1400,
+        "awayProb": 0.062,
+        "homeProb": 0.938,
+        "edge": 0.028,
+        "ev": 0.005,
+        "action": "LEAN",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 1000,
+            "home": -2100
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 950,
+            "home": -1400
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     },
     {
@@ -2941,35 +2941,35 @@
           "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "PASS"
+        "model": 54.84,
+        "action": "PASS \u2014 OVER 53.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
-        "awayProb": null,
-        "homeProb": null,
+        "away": -160,
+        "home": 135,
+        "awayProb": 0.303,
+        "homeProb": 0.697,
+        "edge": -0.288,
+        "ev": -0.508,
+        "action": "PASS",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": -162,
+            "home": 134
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": -160,
+            "home": 135
           },
           "CZR": {
             "away": null,
             "home": null
           }
-        },
-        "edge": null,
-        "ev": null,
-        "action": "NO MODEL"
+        }
       }
     }
   ]
