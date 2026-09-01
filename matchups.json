@@ -2,7 +2,7 @@
   "season": 2026,
   "week": 1,
   "power_rating_week": 1,
-  "updated": "2026-09-01T13:34:11.751318",
+  "updated": "2026-09-01T15:50:45.503365",
   "count": 43,
   "games": [
     {
@@ -148,18 +148,34 @@
         "latitude": 40.513611,
         "longitude": -74.465278,
         "forecast_time_unix": 1788472800,
-        "temperature_f": 81.2,
-        "humidity_pct": 70,
+        "temperature_f": 83.7,
+        "humidity_pct": 67,
         "precipitation_probability_pct": 29,
         "precipitation_in": 0.0,
         "weather_code": 3,
         "condition": "Overcast",
-        "wind_mph": 6.1,
+        "wind_mph": 5.4,
         "wind_gust_mph": 15.0,
-        "wind_direction_deg": 260,
+        "wind_direction_deg": 268,
         "wind_direction": "W",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/umass-minutemen/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/rutgers-scarlet-knights/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -305,21 +321,37 @@
         "latitude": 36.1305507,
         "longitude": -80.2545851,
         "forecast_time_unix": 1788476400,
-        "temperature_f": 85.0,
-        "humidity_pct": 54,
+        "temperature_f": 97.0,
+        "humidity_pct": 29,
         "precipitation_probability_pct": 4,
-        "precipitation_in": 0.004,
-        "weather_code": 51,
-        "condition": "Light Drizzle",
-        "wind_mph": 11.8,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 6.1,
         "wind_gust_mph": 23.3,
-        "wind_direction_deg": 295,
-        "wind_direction": "WNW",
+        "wind_direction_deg": 253,
+        "wind_direction": "WSW",
         "impact": "MODERATE",
         "impact_reasons": [
-          "Sustained wind 11.8 mph",
-          "Gusts 23.3 mph"
+          "Gusts 23.3 mph",
+          "Temperature 97 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/akron-zips/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/wake-forest-demon-deacons/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -465,18 +497,59 @@
         "latitude": 33.7724449,
         "longitude": -84.3928054,
         "forecast_time_unix": 1788480000,
-        "temperature_f": 93.0,
+        "temperature_f": 93.7,
         "humidity_pct": 36,
         "precipitation_probability_pct": 3,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 7.8,
+        "wind_mph": 7.2,
         "wind_gust_mph": 11.4,
-        "wind_direction_deg": 162,
+        "wind_direction_deg": 154,
         "wind_direction": "SSE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/colorado-buffaloes/injuries",
+          "players": [
+            {
+              "player": "Z. Atkins",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Atkins is tending to an undisclosed injury, and it remains to be seen if he will take the field against Georgia Tech on Thursday, September 3rd."
+            },
+            {
+              "player": "D. Scudero",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Sun, Aug 16",
+              "note": "Scudero is tending to a foot injury, and it remains to be seen if he will take the field against Georgia Tech on Thursday, September 3rd."
+            },
+            {
+              "player": "K. Perry",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Elbow",
+              "updated": "Tue, Aug 11",
+              "note": "Perry is hampered by an elbow injury, and it remains to be seen if he will take the field against Georgia Tech on Thursday, September 3rd."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/georgia-tech-yellow-jackets/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -622,18 +695,164 @@
         "latitude": 40.0993268,
         "longitude": -88.2359569,
         "forecast_time_unix": 1788483600,
-        "temperature_f": 81.8,
-        "humidity_pct": 74,
+        "temperature_f": 80.9,
+        "humidity_pct": 67,
         "precipitation_probability_pct": 3,
         "precipitation_in": 0.0,
-        "weather_code": 3,
-        "condition": "Overcast",
-        "wind_mph": 7.4,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 4.5,
         "wind_gust_mph": 14.1,
-        "wind_direction_deg": 92,
-        "wind_direction": "E",
+        "wind_direction_deg": 63,
+        "wind_direction": "ENE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/uab-blazers/injuries",
+          "players": [
+            {
+              "player": "J. Elder",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Tue, Sep 1",
+              "note": "Elder who is nursing an undisclosed injury, and it unknown if he will take the field against Illinois on September 3rd, Thursday."
+            },
+            {
+              "player": "R. Robinson II",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Robinson II is dealing with an undisclosed injury, and it has yet to be determined if he will be active against Illinois on Thursday, September 3rd."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/illinois-fighting-illini/injuries",
+          "players": [
+            {
+              "player": "D. Brown",
+              "position": "LB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 28",
+              "note": "Brown is managing with an undisclosed injury, and he is not expected to partake against UAB on Thursday, September 3rd."
+            },
+            {
+              "player": "J. Platt",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 28",
+              "note": "Platt is managing with an undisclosed injury, and he is not expected to partake against UAB on Thursday, September 3rd."
+            },
+            {
+              "player": "G. Smith",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 23",
+              "note": "Smith is laid up with an undisclosed injury, and he will be idle for the remainder of the season."
+            },
+            {
+              "player": "K. Alston",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Mon, Aug 17",
+              "note": "Alston is managing with an undisclosed injury, and it remains to be seen if he will be active for the opening matchup against UAB on Thursday, September 3th."
+            },
+            {
+              "player": "J. Anderson",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Mon, Aug 17",
+              "note": "Anderson is nursing due to an undisclosed injury, and it has yet to be determined if he will take the field against UAB on Thursday, September 3rd."
+            },
+            {
+              "player": "H. Clement",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 14",
+              "note": "Clement is dealing with an undisclosed injury, and it remains to be seen if he will be active for the opening matchup against UAB on Thursday, September 3th."
+            },
+            {
+              "player": "W. Vala III",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 14",
+              "note": "Vala III is tending to an undisclosed injury, and it has yet to be determined if he will take the field against UAB on Thursday, September 3rd."
+            },
+            {
+              "player": "N. Rankin",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Leg",
+              "updated": "Fri, Aug 14",
+              "note": "Rankin is nursing with a leg injury, and it is unclear whether he will play against UAB on Thursday, September 3th."
+            },
+            {
+              "player": "B. Thurman",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Foot",
+              "updated": "Thu, Aug 13",
+              "note": "Thurman is laid up with foot surgery, and he is likely to miss the remainder of the season."
+            },
+            {
+              "player": "A. Perry",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Shoulder",
+              "updated": "Thu, Aug 13",
+              "note": "Perry is batting with a shoulder injury and will undergo surgery, and team officials have yet to provide an exact return date."
+            },
+            {
+              "player": "J. Harvey",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 12",
+              "note": "Harvey is dealing with an undisclosed injury, and it remains to be seen if he will be active for the opening matchup against UAB on Thursday, September 3th."
+            },
+            {
+              "player": "J. Forster",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Wed, Aug 12",
+              "note": "Forster is nursing with a knee injury, and it is unclear whether he will play against UAB on Thursday, September 3th."
+            },
+            {
+              "player": "J. Eberhart",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Eberhart is tending to an undisclosed injury, and it has yet to be determined if he will take the field against UAB on Thursday, September 3rd."
+            },
+            {
+              "player": "T. Hollinger",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Hollinger has been out of commission due to an undisclosed injury, and he will be idle for the remainder of the season"
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -777,18 +996,115 @@
         "latitude": 42.256126,
         "longitude": -83.647285,
         "forecast_time_unix": 1788559200,
-        "temperature_f": 75.4,
-        "humidity_pct": 82,
+        "temperature_f": 80.6,
+        "humidity_pct": 60,
         "precipitation_probability_pct": 36,
-        "precipitation_in": 0.008,
-        "weather_code": 51,
-        "condition": "Light Drizzle",
-        "wind_mph": 9.9,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.6,
         "wind_gust_mph": 12.5,
-        "wind_direction_deg": 65,
-        "wind_direction": "ENE",
+        "wind_direction_deg": 350,
+        "wind_direction": "N",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/san-jose-state-spartans/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/eastern-michigan-eagles/injuries",
+          "players": [
+            {
+              "player": "A. Turner",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Turner is dealing with an undisclosed injury, and it has yet to be determined if he will suit up against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "P. Kokaly",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Kokaly is managing with an undisclosed injury, and it remains to be seen if he will be available against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "B. Shelton",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Shelton is tending to an undisclosed injury, and it is up in the air if he will take the field against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "S. Fishwick",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Fishwick is tending to an undisclosed injury, and it is up in the air if he will take the field against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "N. Jones-Davis",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Jones-Davis is dealing with an undisclosed injury, and it has yet to be determined if he will suit up against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "N. Lyman",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Lyman is hampered by an undisclosed injury, and it is unclear if he will be active against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "B. Minner",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Minner is tending to an undisclosed injury, and it is up in the air if he will take the field against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "J. Holt",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Holt is managing with an undisclosed injury, and it remains to be seen if he will be available against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "C. Miller",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Miller is hampered by an undisclosed injury, and it is unclear if he will be active against San Jose St. on Friday, September 4th."
+            },
+            {
+              "player": "N. Kinsey",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Kinsey is dealing with an undisclosed injury, and it has yet to be determined if he will suit up against San Jose St. on Friday, September 4th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -934,18 +1250,34 @@
         "latitude": 42.7281474,
         "longitude": -84.4848526,
         "forecast_time_unix": 1788566400,
-        "temperature_f": 68.6,
-        "humidity_pct": 92,
+        "temperature_f": 73.8,
+        "humidity_pct": 78,
         "precipitation_probability_pct": 25,
-        "precipitation_in": 0.008,
-        "weather_code": 51,
-        "condition": "Light Drizzle",
-        "wind_mph": 6.0,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 7.3,
         "wind_gust_mph": 13.9,
-        "wind_direction_deg": 48,
+        "wind_direction_deg": 47,
         "wind_direction": "NE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/toledo-rockets/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/michigan-state-spartans/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -1091,21 +1423,62 @@
         "latitude": 35.2058537,
         "longitude": -97.4423145,
         "forecast_time_unix": 1788566400,
-        "temperature_f": 95.9,
-        "humidity_pct": 32,
+        "temperature_f": 97.7,
+        "humidity_pct": 29,
         "precipitation_probability_pct": 1,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 18.5,
+        "weather_code": 1,
+        "condition": "Mostly Clear",
+        "wind_mph": 18.3,
         "wind_gust_mph": 18.3,
-        "wind_direction_deg": 159,
+        "wind_direction_deg": 156,
         "wind_direction": "SSE",
         "impact": "HIGH",
         "impact_reasons": [
-          "Sustained wind 18.5 mph",
-          "Temperature 96 F"
+          "Sustained wind 18.3 mph",
+          "Temperature 98 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/utep-miners/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/oklahoma-sooners/injuries",
+          "players": [
+            {
+              "player": "J. Hatton Jr.",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Hatton Jr. is managing with an undisclosed injury, and it has yet to be established if he will take the field against UTEP on Friday, September 4th."
+            },
+            {
+              "player": "A. Bass",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Tue, Aug 11",
+              "note": "Bass is managing with a knee injury, and it has yet to be established if he will take the field against UTEP on Friday, September 4th."
+            },
+            {
+              "player": "T. Blaylock",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Hamstring",
+              "updated": "Tue, Aug 11",
+              "note": "Blaylock is managing with a hamstring injury, and it has yet to be established if he will take the field against UTEP on Friday, September 4th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -1250,18 +1623,94 @@
         "latitude": 34.014167,
         "longitude": -118.287778,
         "forecast_time_unix": 1788570000,
-        "temperature_f": 81.0,
-        "humidity_pct": 45,
+        "temperature_f": 78.8,
+        "humidity_pct": 51,
         "precipitation_probability_pct": 0,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 9.8,
+        "wind_mph": 10.4,
         "wind_gust_mph": 5.6,
-        "wind_direction_deg": 227,
+        "wind_direction_deg": 235,
         "wind_direction": "SW",
-        "impact": "LOW",
-        "impact_reasons": []
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Sustained wind 10.4 mph"
+        ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/fresno-state-bulldogs/injuries",
+          "players": [
+            {
+              "player": "B. Ramirez",
+              "position": "RB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Ramirez is out of action due to an undisclosed injury, and he is projected to miss the remainder of the season."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/usc-trojans/injuries",
+          "players": [
+            {
+              "player": "R. Tezeno",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Sat, Aug 29",
+              "note": "Tezeno is dealing with a foot injury, and it remains to be seen if he will play against Fresno St. on Friday, September 4th."
+            },
+            {
+              "player": "T. Hines",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Hines is dealing with an undisclosed injury, and it has yet to be determined if he will participate against Fresno St. on Friday, September 4th."
+            },
+            {
+              "player": "T. Anderson",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Anderson is dealing with an undisclosed injury, and it has yet to be determined if he will participate against Fresno St. on Friday, September 4th."
+            },
+            {
+              "player": "R. Ison",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Ison is dealing with a foot injury, and it remains to be seen if he will suit up against Fresno St. on Friday, September 4th."
+            },
+            {
+              "player": "S. Huard",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Huard sat out the game due to an undisclosed injury, and it has yet to be determined if he will suit up against Fresno St. on Friday, September 4th."
+            },
+            {
+              "player": "K. O'Connor",
+              "position": "OG",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "O'Connor has been sidelined due to an undisclosed injury, and he has been shut down for the remainder of the season."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -1406,18 +1855,60 @@
         "latitude": 37.4345556,
         "longitude": -122.1611271,
         "forecast_time_unix": 1788570000,
-        "temperature_f": 72.7,
-        "humidity_pct": 39,
+        "temperature_f": 73.3,
+        "humidity_pct": 35,
         "precipitation_probability_pct": 0,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
         "wind_mph": 8.8,
         "wind_gust_mph": 11.2,
-        "wind_direction_deg": 297,
+        "wind_direction_deg": 302,
         "wind_direction": "WNW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/miami-fl-hurricanes/injuries",
+          "players": [
+            {
+              "player": "L. Gilbert",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Gilbert has been out of commission due to an undisclosed injury, and he will be idle for the remainder of the season"
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/stanford-cardinal/injuries",
+          "players": [
+            {
+              "player": "N. Brown",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 30",
+              "note": "Brown is dealing with an undisclosed injury, and it remains to be seen if he will be available against Miami on Friday."
+            },
+            {
+              "player": "C. High",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 30",
+              "note": "High is dealing with an undisclosed injury, and it remains to be seen if he will be available against Miami on Friday."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -1563,18 +2054,67 @@
         "latitude": 39.6502744,
         "longitude": -79.9551873,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 74.8,
-        "humidity_pct": 58,
+        "temperature_f": 74.3,
+        "humidity_pct": 64,
         "precipitation_probability_pct": 22,
         "precipitation_in": 0.0,
-        "weather_code": 2,
-        "condition": "Partly Cloudy",
-        "wind_mph": 5.9,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.1,
         "wind_gust_mph": 8.5,
-        "wind_direction_deg": 342,
+        "wind_direction_deg": 336,
         "wind_direction": "NNW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/coastal-carolina-chanticleers/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/west-virginia-mountaineers/injuries",
+          "players": [
+            {
+              "player": "C. Ball",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 26",
+              "note": "Ball is fighting off an undisclosed injury, and it remains to be seen if he will partake in season opening contest against the Coastal Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "L. Autry",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 26",
+              "note": "Autry is dealing with an undisclosed injury, and it has yet to be determined if he will kit up against the Coastal Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "R. Ward",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 14",
+              "note": "Ward is hampered by an undisclosed injury, and it remains to be seen if he will be available against C. Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "P. Strachan",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Strachan is hampered by an undisclosed injury, and it remains to be seen if he will be available against C. Carolina on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -1720,18 +2260,118 @@
         "latitude": 33.2082752,
         "longitude": -87.5503836,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 94.5,
-        "humidity_pct": 46,
+        "temperature_f": 96.7,
+        "humidity_pct": 40,
         "precipitation_probability_pct": 8,
         "precipitation_in": 0.0,
-        "weather_code": 3,
-        "condition": "Overcast",
-        "wind_mph": 0.2,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 3.2,
         "wind_gust_mph": 2.5,
-        "wind_direction_deg": 180,
-        "wind_direction": "S",
-        "impact": "LOW",
-        "impact_reasons": []
+        "wind_direction_deg": 278,
+        "wind_direction": "W",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Temperature 97 F"
+        ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/east-carolina-pirates/injuries",
+          "players": [
+            {
+              "player": "K. Pearson",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Sun, Aug 16",
+              "note": "Pearson is dealing with a foot injury, and it has yet to be established if he will be available against Alabama on Saturday, September 5th."
+            },
+            {
+              "player": "M. Allen",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Leg",
+              "updated": "Sun, Aug 16",
+              "note": "Allen is nursing with a leg injury, and it has yet to be established if he will be available against Alabama on Saturday, September 5th."
+            },
+            {
+              "player": "J. Hamilton",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Hamilton is dealing with an undisclosed injury, and it remains to be seen if he will suit up against Alabama on Saturday, September 5th."
+            },
+            {
+              "player": "M. McGowan",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "McGowan is dealing with an undisclosed injury, and it remains to be seen if he will suit up against Alabama on Saturday, September 5th."
+            },
+            {
+              "player": "L. Sides",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Sides is dealing with an undisclosed injury, and it remains to be seen if he will suit up against Alabama on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/alabama-crimson-tide/injuries",
+          "players": [
+            {
+              "player": "N. Rogers",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Leg",
+              "updated": "Sun, Aug 23",
+              "note": "Rogers is fighting off a leg injury, and it has yet to be determined if he will play against East Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "L. Brooks",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 21",
+              "note": "Brooks is dealing with an undisclosed injury, and it is unclear if he will be available against East Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "A. Dear",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Leg",
+              "updated": "Fri, Aug 14",
+              "note": "Dear is dealing with a lower leg injury, and it is unclear if he will be available against East Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "E. Crowell",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Thu, Aug 13",
+              "note": "Crowell is nursing with an undisclosed injury, and it remains to be seen if he will play against East Carolina on Saturday, September 5th."
+            },
+            {
+              "player": "D. Lewis Jr.",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Tue, Aug 11",
+              "note": "Lewis Jr. is fighting off foot injury, and it has yet to be determined if he will play against East Carolina on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -1877,18 +2517,34 @@
         "latitude": 38.4352919,
         "longitude": -78.8729349,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 83.4,
-        "humidity_pct": 44,
+        "temperature_f": 83.6,
+        "humidity_pct": 45,
         "precipitation_probability_pct": 19,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 9.2,
+        "weather_code": 1,
+        "condition": "Mostly Clear",
+        "wind_mph": 9.4,
         "wind_gust_mph": 14.5,
-        "wind_direction_deg": 14,
-        "wind_direction": "NNE",
+        "wind_direction_deg": 357,
+        "wind_direction": "N",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/liberty-flames/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/james-madison-dukes/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -2034,18 +2690,43 @@
         "latitude": 39.1808959,
         "longitude": -86.5256217,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 90.1,
-        "humidity_pct": 55,
+        "temperature_f": 91.0,
+        "humidity_pct": 51,
         "precipitation_probability_pct": 14,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 1.3,
+        "weather_code": 1,
+        "condition": "Mostly Clear",
+        "wind_mph": 3.3,
         "wind_gust_mph": 1.3,
-        "wind_direction_deg": 90,
-        "wind_direction": "E",
+        "wind_direction_deg": 48,
+        "wind_direction": "NE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/north-texas-mean-green/injuries",
+          "players": [
+            {
+              "player": "J. White",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Tue, Aug 11",
+              "note": "White is managing with a knee injury, and it remains to be seen if he will be available against Indiana on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/indiana-hoosiers/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -2191,21 +2872,53 @@
         "latitude": 40.820682,
         "longitude": -96.705594,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 96.0,
+        "temperature_f": 95.5,
         "humidity_pct": 33,
         "precipitation_probability_pct": 4,
         "precipitation_in": 0.0,
-        "weather_code": 2,
-        "condition": "Partly Cloudy",
-        "wind_mph": 11.8,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 9.9,
         "wind_gust_mph": 12.5,
-        "wind_direction_deg": 199,
-        "wind_direction": "SSW",
+        "wind_direction_deg": 188,
+        "wind_direction": "S",
         "impact": "MODERATE",
         "impact_reasons": [
-          "Sustained wind 11.8 mph",
           "Temperature 96 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/ohio-bobcats/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/nebraska-cornhuskers/injuries",
+          "players": [
+            {
+              "player": "D. Bell",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Sat, Aug 15",
+              "note": "Bell is hampered by a knee injury, and it is up in the air if he will take the field against Ohio Bobcats on Saturday, September 5th."
+            },
+            {
+              "player": "L. Miles",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Tue, Aug 11",
+              "note": "Miles is hampered by a foot injury, and it is up in the air if he will take the field against Ohio Bobcats on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -2351,18 +3064,60 @@
         "latitude": 29.7219885,
         "longitude": -95.3491623,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 91.2,
+        "temperature_f": 89.8,
         "humidity_pct": 56,
         "precipitation_probability_pct": 18,
-        "precipitation_in": 0.004,
-        "weather_code": 51,
-        "condition": "Light Drizzle",
-        "wind_mph": 1.9,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 3.5,
         "wind_gust_mph": 2.5,
-        "wind_direction_deg": 159,
+        "wind_direction_deg": 162,
         "wind_direction": "SSE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/oregon-state-beavers/injuries",
+          "players": [
+            {
+              "player": "A. McDaniel",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "McDaniel is nursing with an undisclosed injury, and it has yet to be established if he will play against Houston on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/houston-cougars/injuries",
+          "players": [
+            {
+              "player": "M. Tounkara",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Foot",
+              "updated": "Tue, Aug 11",
+              "note": "Tounkara is nursing with a foot injury, and team officials have yet to provide an exact return date."
+            },
+            {
+              "player": "L. McGary",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Shoulder",
+              "updated": "Tue, Aug 11",
+              "note": "McGary has been sidelined due to shoulder injury, and he will miss an undetermined length of time."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -2508,18 +3263,51 @@
         "latitude": 40.0016447,
         "longitude": -83.0197266,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 78.4,
-        "humidity_pct": 54,
+        "temperature_f": 79.0,
+        "humidity_pct": 59,
         "precipitation_probability_pct": 19,
         "precipitation_in": 0.0,
-        "weather_code": 3,
-        "condition": "Overcast",
-        "wind_mph": 6.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 7.4,
         "wind_gust_mph": 6.9,
-        "wind_direction_deg": 42,
-        "wind_direction": "NE",
+        "wind_direction_deg": 21,
+        "wind_direction": "NNE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/ball-state-cardinals/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/ohio-state-buckeyes/injuries",
+          "players": [
+            {
+              "player": "B. Jackson",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Shoulder",
+              "updated": "Tue, Aug 11",
+              "note": "Jackson is tending to a shoulder injury, and it remains to be seen if he will play against Ball St. on Saturday, September 5th."
+            },
+            {
+              "player": "K. Parker",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Parker is dealing with an undisclosed injury, and it remains to be seen if he will play against Ball St. on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -2657,18 +3445,43 @@
         "latitude": 40.4467648,
         "longitude": -80.0157603,
         "forecast_time_unix": 1788624000,
-        "temperature_f": 73.8,
-        "humidity_pct": 53,
+        "temperature_f": 74.1,
+        "humidity_pct": 55,
         "precipitation_probability_pct": 13,
         "precipitation_in": 0.0,
         "weather_code": 3,
         "condition": "Overcast",
-        "wind_mph": 4.9,
+        "wind_mph": 6.3,
         "wind_gust_mph": 9.2,
-        "wind_direction_deg": 3,
+        "wind_direction_deg": 358,
         "wind_direction": "N",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/miami-oh-redhawks/injuries",
+          "players": [
+            {
+              "player": "T. Gotkowski",
+              "position": "QB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Mon, Aug 24",
+              "note": "Gotkowski is battling with an undisclosed injury, and he will be idle for the remainder of the season."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/pittsburgh-panthers/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -2814,20 +3627,69 @@
         "latitude": 33.9730239,
         "longitude": -81.0191726,
         "forecast_time_unix": 1788627600,
-        "temperature_f": 100.5,
-        "humidity_pct": 32,
+        "temperature_f": 102.7,
+        "humidity_pct": 29,
         "precipitation_probability_pct": 0,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 4.4,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 4.3,
         "wind_gust_mph": 6.0,
-        "wind_direction_deg": 246,
-        "wind_direction": "WSW",
+        "wind_direction_deg": 321,
+        "wind_direction": "NW",
         "impact": "HIGH",
         "impact_reasons": [
-          "Extreme temperature 100 F"
+          "Extreme temperature 103 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/kent-state-golden-flashes/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/south-carolina-gamecocks/injuries",
+          "players": [
+            {
+              "player": "D. Stewart",
+              "position": "DL",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Tue, Aug 25",
+              "note": "Stewart is dealing with a foot injury, and his participation against the Kent State on Saturday, September 5th remains to be seen."
+            },
+            {
+              "player": "B. Hunt",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 25",
+              "note": "Hunt is managing with an undisclosed injury, and it remains to be seen if he will participate against the Kent State on Saturday, September 5th."
+            },
+            {
+              "player": "J. Sellers",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Lower Body",
+              "updated": "Mon, Aug 17",
+              "note": "Sellers is fighting off a lower body injury, and he has been shut down for the remainder of the season."
+            },
+            {
+              "player": "J. Gibson",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Lower Body",
+              "updated": "Mon, Aug 17",
+              "note": "Gibson is batting with a lower body injury, and he will be idle for the remainder of the season."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -2976,6 +3838,96 @@
         "impact_reasons": [
           "Indoor venue - no weather impact"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/baylor-bears/injuries",
+          "players": [
+            {
+              "player": "T. Williams Jr.",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Collarbone",
+              "updated": "Fri, Aug 21",
+              "note": "Williams who is dealing with a collarbone injury, and he will miss an extended period."
+            },
+            {
+              "player": "T. Livingston",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Fri, Aug 21",
+              "note": "Livingston is hampered by a right knee injury, and it remains to be seen if he will play against Auburn on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/auburn-tigers/injuries",
+          "players": [
+            {
+              "player": "T. Meadows",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 25",
+              "note": "Meadows is dealing with an undisclosed injury, and it is uncertain if he will suit up against the Baylor on Saturday, September 5th."
+            },
+            {
+              "player": "B. Williams Jr.",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Lower Body",
+              "updated": "Tue, Aug 25",
+              "note": "Williams Jr. is dealing with a lower body injury, and it is uncertain if he will kit up against the Baylor on Saturday, September 5th."
+            },
+            {
+              "player": "E. Smith",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Smith is hobbled by an undisclosed injury, and it has yet to be determined if he will be active against Baylor on Sunday, September 5th."
+            },
+            {
+              "player": "C. Neptune",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Shoulder",
+              "updated": "Sat, Aug 15",
+              "note": "Neptune is managing with a shoulder injury, and it is unknown if he will participate against the Baylor on Saturday, September 5th."
+            },
+            {
+              "player": "N. Davenport",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 15",
+              "note": "Davenport is managing with an undisclosed injury, and it is unknown if he will participate against the Baylor on Saturday, September 5th."
+            },
+            {
+              "player": "J. Echols",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 12",
+              "note": "Echols is managing with an undisclosed injury, and it is uncertain if he will play against Baylor on Sunday, September 5th."
+            },
+            {
+              "player": "B. Washington",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Washington is hobbled by an undisclosed injury, and it has yet to be determined if he will be active against Baylor on Sunday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -3121,18 +4073,52 @@
         "latitude": 44.0582712,
         "longitude": -123.0684883,
         "forecast_time_unix": 1788634800,
-        "temperature_f": 67.9,
-        "humidity_pct": 54,
+        "temperature_f": 66.3,
+        "humidity_pct": 59,
         "precipitation_probability_pct": 19,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 3.0,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 5.1,
         "wind_gust_mph": 1.8,
-        "wind_direction_deg": 287,
-        "wind_direction": "WNW",
+        "wind_direction_deg": 311,
+        "wind_direction": "NW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/boise-state-broncos/injuries",
+          "players": [
+            {
+              "player": "B. Ford",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Tue, Aug 11",
+              "note": "Ford is dealing with a knee injury, and it has yet to be established if he will be active against the Oregon on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/oregon-ducks/injuries",
+          "players": [
+            {
+              "player": "J. Davison",
+              "position": "RB",
+              "status": "Out",
+              "detail": "Collarbone",
+              "updated": "Wed, Aug 12",
+              "note": "Davison is batting with a collarbone injury, and he is without a definitive timetable for return."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -3278,18 +4264,34 @@
         "latitude": 39.1312495,
         "longitude": -84.5161913,
         "forecast_time_unix": 1788634800,
-        "temperature_f": 88.5,
+        "temperature_f": 88.1,
         "humidity_pct": 50,
         "precipitation_probability_pct": 20,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 6.4,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 5.7,
         "wind_gust_mph": 7.8,
-        "wind_direction_deg": 25,
+        "wind_direction_deg": 31,
         "wind_direction": "NNE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/boston-college-eagles/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/cincinnati-bearcats/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -3435,18 +4437,109 @@
         "latitude": 40.8121958,
         "longitude": -77.8561023,
         "forecast_time_unix": 1788634800,
-        "temperature_f": 76.3,
-        "humidity_pct": 46,
+        "temperature_f": 75.2,
+        "humidity_pct": 48,
         "precipitation_probability_pct": 5,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 8.3,
+        "wind_mph": 10.1,
         "wind_gust_mph": 11.4,
-        "wind_direction_deg": 360,
-        "wind_direction": "N",
-        "impact": "LOW",
-        "impact_reasons": []
+        "wind_direction_deg": 346,
+        "wind_direction": "NNW",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Sustained wind 10.1 mph"
+        ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/marshall-thundering-herd/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/penn-state-nittany-lions/injuries",
+          "players": [
+            {
+              "player": "G. Burkle",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Tue, Sep 1",
+              "note": "Burkle who is hampered by a knee injury, and will miss the season opener on September 5th, Saturday against Marshall."
+            },
+            {
+              "player": "B. Kortovich",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Kortovich is hobbled by an undisclosed injury, and it remains to be seen if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "C. Alexander",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Alexander is hobbled by an undisclosed injury, and it remains to be seen if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "A. Rappleyea",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Rappleyea is tending to an undisclosed injury, and it remains to be seen if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "Z. Robinson",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Robinson is tending to an undisclosed injury, and it remains to be seen if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "B. Eskildsen",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Eskildsen is bothered by an undisclosed injury, and it has yet to be established if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "D. Sheffey",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Sheffey is bothered by an undisclosed injury, and it has yet to be established if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "C. Hansen",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Hansen is bothered by an undisclosed injury, and it is up in the air if he will be available against Marshall on Saturday, September 5th."
+            },
+            {
+              "player": "K. Brookins",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Personal",
+              "updated": "Tue, Aug 11",
+              "note": "Brookins is dealing with some personal reasons, and it is up in the air if he will be available against Marshall on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -3592,20 +4685,53 @@
         "latitude": 30.2836813,
         "longitude": -97.7325345,
         "forecast_time_unix": 1788634800,
-        "temperature_f": 99.3,
-        "humidity_pct": 31,
+        "temperature_f": 95.5,
+        "humidity_pct": 39,
         "precipitation_probability_pct": 9,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 3.7,
+        "wind_mph": 6.2,
         "wind_gust_mph": 5.4,
-        "wind_direction_deg": 123,
-        "wind_direction": "ESE",
+        "wind_direction_deg": 134,
+        "wind_direction": "SE",
         "impact": "MODERATE",
         "impact_reasons": [
-          "Temperature 99 F"
+          "Temperature 96 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/texas-state-bobcats/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/texas-longhorns/injuries",
+          "players": [
+            {
+              "player": "T. Goosby",
+              "position": "OG",
+              "status": "Questionable",
+              "detail": "Knee",
+              "updated": "Wed, Aug 19",
+              "note": "Goosby is managing with a knee injury, and it remains to be seen if he will suit up against Texas St. on Saturday, September 5th."
+            },
+            {
+              "player": "D. McCutcheon",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Illness",
+              "updated": "Sat, Aug 15",
+              "note": "McCutcheon is ailing from an illness, and it remains to be seen if he will suit up against Texas St. on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -3751,21 +4877,46 @@
         "latitude": 35.9953688,
         "longitude": -78.9417564,
         "forecast_time_unix": 1788634800,
-        "temperature_f": 96.9,
-        "humidity_pct": 33,
+        "temperature_f": 95.1,
+        "humidity_pct": 35,
         "precipitation_probability_pct": 48,
         "precipitation_in": 0.0,
-        "weather_code": 1,
-        "condition": "Mostly Clear",
-        "wind_mph": 3.6,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 7.1,
         "wind_gust_mph": 12.3,
-        "wind_direction_deg": 338,
-        "wind_direction": "NNW",
+        "wind_direction_deg": 349,
+        "wind_direction": "N",
         "impact": "MODERATE",
         "impact_reasons": [
           "Precipitation probability 48%",
-          "Temperature 97 F"
+          "Temperature 95 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/tulane-green-wave/injuries",
+          "players": [
+            {
+              "player": "J. McClure",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Tue, Aug 11",
+              "note": "McClure is managing a foot injury, and it remains to be seen if he will be available against Duke on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/duke-blue-devils/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -3911,20 +5062,53 @@
         "latitude": 36.1489175,
         "longitude": -95.9437853,
         "forecast_time_unix": 1788638400,
-        "temperature_f": 103.4,
+        "temperature_f": 101.9,
         "humidity_pct": 24,
         "precipitation_probability_pct": 1,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 5.6,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 7.8,
         "wind_gust_mph": 8.9,
-        "wind_direction_deg": 164,
-        "wind_direction": "SSE",
+        "wind_direction_deg": 180,
+        "wind_direction": "S",
         "impact": "HIGH",
         "impact_reasons": [
-          "Extreme temperature 103 F"
+          "Extreme temperature 102 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/oklahoma-state-cowboys/injuries",
+          "players": [
+            {
+              "player": "D. Green",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 26",
+              "note": "Green is fighting off an undisclosed injury, and it is uncertain if he will return to the lineup against the Tulsa on Saturday, September 5th."
+            },
+            {
+              "player": "O. Hammond",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 26",
+              "note": "Hammond is managing with an undisclosed injury, and it is uncertain if he will return to the lineup against the Tulsa on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/tulsa-golden-hurricane/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -4070,18 +5254,36 @@
         "latitude": 41.6586045,
         "longitude": -91.5510829,
         "forecast_time_unix": 1788638400,
-        "temperature_f": 94.2,
-        "humidity_pct": 45,
+        "temperature_f": 96.7,
+        "humidity_pct": 38,
         "precipitation_probability_pct": 10,
         "precipitation_in": 0.0,
-        "weather_code": 3,
-        "condition": "Overcast",
-        "wind_mph": 5.1,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 4.7,
         "wind_gust_mph": 5.6,
-        "wind_direction_deg": 128,
-        "wind_direction": "SE",
-        "impact": "LOW",
-        "impact_reasons": []
+        "wind_direction_deg": 155,
+        "wind_direction": "SSE",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Temperature 97 F"
+        ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/northern-illinois-huskies/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/iowa-hawkeyes/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -4227,18 +5429,51 @@
         "latitude": 40.570015,
         "longitude": -105.088435,
         "forecast_time_unix": 1788645600,
-        "temperature_f": 91.9,
-        "humidity_pct": 17,
+        "temperature_f": 88.6,
+        "humidity_pct": 19,
         "precipitation_probability_pct": 7,
         "precipitation_in": 0.0,
         "weather_code": 3,
         "condition": "Overcast",
-        "wind_mph": 6.5,
+        "wind_mph": 2.0,
         "wind_gust_mph": 6.3,
-        "wind_direction_deg": 74,
-        "wind_direction": "ENE",
+        "wind_direction_deg": 276,
+        "wind_direction": "W",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/wyoming-cowboys/injuries",
+          "players": [
+            {
+              "player": "T. Nystrom",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Knee",
+              "updated": "Tue, Aug 11",
+              "note": "Nystrom has been out of lineup due to knee injury, and he is likely to miss the remainder of the season."
+            },
+            {
+              "player": "T. Hasselbeck",
+              "position": "QB",
+              "status": "Out",
+              "detail": "Knee",
+              "updated": "Tue, Aug 11",
+              "note": "Hasselbeck has been out of commission due to knee injury, and he is likely to miss the remainder of the season."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/colorado-state-rams/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -4383,20 +5618,45 @@
         "latitude": 35.1209429,
         "longitude": -89.977147,
         "forecast_time_unix": 1788649200,
-        "temperature_f": 102.2,
-        "humidity_pct": 24,
+        "temperature_f": 99.9,
+        "humidity_pct": 27,
         "precipitation_probability_pct": 10,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 3.5,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 5.1,
         "wind_gust_mph": 6.0,
-        "wind_direction_deg": 162,
-        "wind_direction": "SSE",
-        "impact": "HIGH",
+        "wind_direction_deg": 229,
+        "wind_direction": "SW",
+        "impact": "MODERATE",
         "impact_reasons": [
-          "Extreme temperature 102 F"
+          "Temperature 100 F"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/arkansas-state-red-wolves/injuries",
+          "players": [
+            {
+              "player": "D. Spencer",
+              "position": "RB",
+              "status": "Out",
+              "detail": "Knee",
+              "updated": "Mon, Aug 17",
+              "note": "Spencer is dealing with a knee injury, and he is projected to miss the remainder of the season."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/memphis-tigers/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -4543,19 +5803,36 @@
         "longitude": -82.5033344,
         "forecast_time_unix": 1788649200,
         "temperature_f": 87.4,
-        "humidity_pct": 59,
+        "humidity_pct": 58,
         "precipitation_probability_pct": 69,
         "precipitation_in": 0.0,
-        "weather_code": 3,
-        "condition": "Overcast",
-        "wind_mph": 8.9,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 10.1,
         "wind_gust_mph": 8.7,
-        "wind_direction_deg": 302,
+        "wind_direction_deg": 288,
         "wind_direction": "WNW",
         "impact": "MODERATE",
         "impact_reasons": [
+          "Sustained wind 10.1 mph",
           "Precipitation probability 69%"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/florida-international-panthers/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/south-florida-bulls/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -4702,17 +5979,67 @@
         "longitude": -96.3403828,
         "forecast_time_unix": 1788649200,
         "temperature_f": 92.0,
-        "humidity_pct": 41,
+        "humidity_pct": 47,
         "precipitation_probability_pct": 19,
-        "precipitation_in": 0.008,
-        "weather_code": 51,
-        "condition": "Light Drizzle",
-        "wind_mph": 9.0,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 5.9,
         "wind_gust_mph": 10.5,
-        "wind_direction_deg": 120,
-        "wind_direction": "ESE",
+        "wind_direction_deg": 189,
+        "wind_direction": "S",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/missouri-state-bears/injuries",
+          "players": [
+            {
+              "player": "I. Myers",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 23",
+              "note": "Myers is battling due to an undisclosed injury, and it remains to be seen if he will suit up against Texas A&M on Sunday, September 5th."
+            },
+            {
+              "player": "H. Belin IV",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Shoulder",
+              "updated": "Sun, Aug 16",
+              "note": "Belin IV is tending to a shoulder soreness, and it remains to be seen if he will suit up against Texas A&M on Sunday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/texas-a-m-aggies/injuries",
+          "players": [
+            {
+              "player": "T. Riden Jr.",
+              "position": "RB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Thu, Aug 27",
+              "note": "Riden Jr. has suffered an undisclosed injury, and it is anticipated that he will miss the remainder of the season."
+            },
+            {
+              "player": "J. Myles",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Leg",
+              "updated": "Tue, Aug 11",
+              "note": "Myles is dealing with a leg injury, and it remains to be seen if he will play against Missouri St. on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -4858,18 +6185,34 @@
         "latitude": 31.7995565,
         "longitude": -85.9518328,
         "forecast_time_unix": 1788649200,
-        "temperature_f": 88.0,
-        "humidity_pct": 57,
+        "temperature_f": 94.7,
+        "humidity_pct": 39,
         "precipitation_probability_pct": 23,
         "precipitation_in": 0.0,
         "weather_code": 3,
         "condition": "Overcast",
-        "wind_mph": 3.9,
+        "wind_mph": 4.5,
         "wind_gust_mph": 5.8,
-        "wind_direction_deg": 193,
-        "wind_direction": "SSW",
+        "wind_direction_deg": 217,
+        "wind_direction": "SW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/sam-houston-bearkats/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/troy-trojans/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -5015,20 +6358,62 @@
         "latitude": 30.412035,
         "longitude": -91.1838163,
         "forecast_time_unix": 1788649200,
-        "temperature_f": 93.2,
-        "humidity_pct": 45,
+        "temperature_f": 89.2,
+        "humidity_pct": 56,
         "precipitation_probability_pct": 56,
         "precipitation_in": 0.0,
-        "weather_code": 2,
-        "condition": "Partly Cloudy",
-        "wind_mph": 1.3,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.2,
         "wind_gust_mph": 4.5,
-        "wind_direction_deg": 270,
-        "wind_direction": "W",
+        "wind_direction_deg": 221,
+        "wind_direction": "SW",
         "impact": "MODERATE",
         "impact_reasons": [
           "Precipitation probability 56%"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/clemson-tigers/injuries",
+          "players": [
+            {
+              "player": "C. Turner",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Personal",
+              "updated": "Fri, Aug 21",
+              "note": "Turner is dealing with some personal reasons, and he is without a definitive timetable for return."
+            },
+            {
+              "player": "P. Streko",
+              "position": "RB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Streko has been out of commission due to an undisclosed injury, and he has been shut down for the remainder of the season."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/lsu-tigers/injuries",
+          "players": [
+            {
+              "player": "W. Watkins Jr.",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 12",
+              "note": "Watkins is battling with an undisclosed injury, and it is uncertain if he will play against Clemson on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -5174,20 +6559,43 @@
         "latitude": 33.4563403,
         "longitude": -88.7933652,
         "forecast_time_unix": 1788649200,
-        "temperature_f": 86.9,
-        "humidity_pct": 57,
+        "temperature_f": 87.9,
+        "humidity_pct": 48,
         "precipitation_probability_pct": 30,
-        "precipitation_in": 0.0,
-        "weather_code": 3,
-        "condition": "Overcast",
-        "wind_mph": 14.3,
+        "precipitation_in": 0.004,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 3.0,
         "wind_gust_mph": 17.9,
-        "wind_direction_deg": 228,
-        "wind_direction": "SW",
-        "impact": "MODERATE",
-        "impact_reasons": [
-          "Sustained wind 14.3 mph"
-        ]
+        "wind_direction_deg": 324,
+        "wind_direction": "NW",
+        "impact": "LOW",
+        "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/louisiana-monroe-warhawks/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/mississippi-state-bulldogs/injuries",
+          "players": [
+            {
+              "player": "B. Mitchell",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 14",
+              "note": "Mitchell is nursing with an undisclosed injury, and it remains to be seen if he will be available against UL-Monroe on Sunday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -5333,18 +6741,43 @@
         "latitude": 42.2658365,
         "longitude": -83.7486956,
         "forecast_time_unix": 1788649200,
-        "temperature_f": 76.4,
+        "temperature_f": 76.9,
         "humidity_pct": 49,
         "precipitation_probability_pct": 9,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 5.6,
+        "wind_mph": 5.9,
         "wind_gust_mph": 7.6,
-        "wind_direction_deg": 119,
+        "wind_direction_deg": 110,
         "wind_direction": "ESE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/western-michigan-broncos/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/michigan-wolverines/injuries",
+          "players": [
+            {
+              "player": "S. Hiter",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 22",
+              "note": "Hiter is battling with an undisclosed injury, and it is unclear whether he will play against Western Michigan on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -5490,20 +6923,36 @@
         "latitude": 29.6499357,
         "longitude": -82.3485788,
         "forecast_time_unix": 1788652800,
-        "temperature_f": 87.4,
-        "humidity_pct": 55,
+        "temperature_f": 82.6,
+        "humidity_pct": 71,
         "precipitation_probability_pct": 55,
         "precipitation_in": 0.0,
         "weather_code": 3,
         "condition": "Overcast",
-        "wind_mph": 5.4,
+        "wind_mph": 5.2,
         "wind_gust_mph": 8.5,
-        "wind_direction_deg": 263,
-        "wind_direction": "W",
+        "wind_direction_deg": 227,
+        "wind_direction": "SW",
         "impact": "MODERATE",
         "impact_reasons": [
           "Precipitation probability 55%"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/florida-atlantic-owls/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/florida-gators/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -5649,18 +7098,59 @@
         "latitude": 35.0669479,
         "longitude": -106.6283225,
         "forecast_time_unix": 1788660000,
-        "temperature_f": 85.6,
+        "temperature_f": 86.7,
         "humidity_pct": 29,
         "precipitation_probability_pct": 11,
         "precipitation_in": 0.0,
-        "weather_code": 0,
-        "condition": "Clear",
-        "wind_mph": 3.7,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.4,
         "wind_gust_mph": 2.0,
-        "wind_direction_deg": 232,
-        "wind_direction": "SW",
+        "wind_direction_deg": 295,
+        "wind_direction": "WNW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/central-michigan-chippewas/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/new-mexico-lobos/injuries",
+          "players": [
+            {
+              "player": "J. Layne",
+              "position": "QB",
+              "status": "Out",
+              "detail": "Elbow",
+              "updated": "Thu, Aug 27",
+              "note": "Layne is laid up with an elbow injury, and he will miss an undetermined length of time."
+            },
+            {
+              "player": "J. Olsen",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Knee",
+              "updated": "Tue, Aug 11",
+              "note": "Olsen is battling with a knee ACL injury, and he will miss an undetermined length of time."
+            },
+            {
+              "player": "A. Williams",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Williams is laid up with an undisclosed injury, and it has yet to be determined if he will play against C. Michigan on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -5804,21 +7294,71 @@
         "latitude": 21.294294,
         "longitude": -157.819338,
         "forecast_time_unix": 1788660000,
-        "temperature_f": 82.4,
-        "humidity_pct": 65,
-        "precipitation_probability_pct": 9,
-        "precipitation_in": 0.0,
-        "weather_code": 2,
-        "condition": "Partly Cloudy",
-        "wind_mph": 12.9,
-        "wind_gust_mph": 34.9,
-        "wind_direction_deg": 55,
+        "temperature_f": 81.9,
+        "humidity_pct": 69,
+        "precipitation_probability_pct": 16,
+        "precipitation_in": 0.004,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 12.5,
+        "wind_gust_mph": 33.1,
+        "wind_direction_deg": 56,
         "wind_direction": "NE",
         "impact": "HIGH",
         "impact_reasons": [
-          "Sustained wind 12.9 mph",
-          "Gusts 34.9 mph"
+          "Sustained wind 12.5 mph",
+          "Gusts 33.1 mph"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/unlv-rebels/injuries",
+          "players": [
+            {
+              "player": "T. Stellato",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Mon, Aug 31",
+              "note": "Stellato who is bothered by an undisclosed injury, and it is to be seen if he will play against the Rainbow Warriors on Saturday, September 5."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/hawai-i-rainbow-warriors/injuries",
+          "players": [
+            {
+              "player": "D. Heimuli",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 30",
+              "note": "Heimuli sat out the last game due to an undisclosed injury, and it has yet to be established if he will be active against the UNLV on Saturday, September 5th."
+            },
+            {
+              "player": "C. Barfield",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Ankle",
+              "updated": "Sun, Aug 30",
+              "note": "Ashlock left the last game due to an ankle injury, and it has yet to be determined if he will be active against the UNLV on Saturday, September 5th."
+            },
+            {
+              "player": "P. Ashlock",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 29",
+              "note": "Ashlock is nursing an undisclosed injury, nd it is uncertain if he will kit up against the UNLV on Saturday."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -5964,18 +7504,43 @@
         "latitude": 37.8710434,
         "longitude": -122.2507729,
         "forecast_time_unix": 1788660000,
-        "temperature_f": 62.5,
-        "humidity_pct": 62,
+        "temperature_f": 62.1,
+        "humidity_pct": 68,
         "precipitation_probability_pct": 1,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 6.9,
+        "wind_mph": 7.4,
         "wind_gust_mph": 11.0,
-        "wind_direction_deg": 216,
+        "wind_direction_deg": 221,
         "wind_direction": "SW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/ucla-bruins/injuries",
+          "players": [
+            {
+              "player": "T. Dieffenbach",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Fri, Aug 28",
+              "note": "Dieffenbach is dealing with an undisclosed injury, and it remains to be seen if he will suit up against California on Saturday, September 5th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/california-golden-bears/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -6121,18 +7686,43 @@
         "latitude": 39.5469459,
         "longitude": -119.8175435,
         "forecast_time_unix": 1788660000,
-        "temperature_f": 72.5,
-        "humidity_pct": 25,
+        "temperature_f": 69.8,
+        "humidity_pct": 28,
         "precipitation_probability_pct": 0,
         "precipitation_in": 0.0,
         "weather_code": 0,
         "condition": "Clear",
-        "wind_mph": 7.4,
+        "wind_mph": 9.7,
         "wind_gust_mph": 7.8,
-        "wind_direction_deg": 277,
+        "wind_direction_deg": 261,
         "wind_direction": "W",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/western-kentucky-hilltoppers/injuries",
+          "players": [
+            {
+              "player": "B. Glenn",
+              "position": "QB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Mon, Aug 31",
+              "note": "Glenn is hampered by an undisclosed injury, and will not take part against Nevada Wolf Pack on Saturday, 5th September."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/nevada-wolf-pack/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -6278,18 +7868,108 @@
         "latitude": 47.6503235,
         "longitude": -122.3015746,
         "forecast_time_unix": 1788724800,
-        "temperature_f": 74.2,
-        "humidity_pct": 42,
+        "temperature_f": 74.3,
+        "humidity_pct": 36,
         "precipitation_probability_pct": 8,
         "precipitation_in": 0.0,
-        "weather_code": 2,
-        "condition": "Partly Cloudy",
-        "wind_mph": 9.2,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 9.6,
         "wind_gust_mph": 9.6,
-        "wind_direction_deg": 347,
+        "wind_direction_deg": 348,
         "wind_direction": "NNW",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/washington-state-cougars/injuries",
+          "players": [
+            {
+              "player": "J. Dugger",
+              "position": "QB",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Mon, Aug 24",
+              "note": "Dugger, will miss an extended period due to an undisclosed injury, and a timetable for return has yet to be established."
+            },
+            {
+              "player": "H. Cedarland",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Leg",
+              "updated": "Sun, Aug 23",
+              "note": "Cedarland is bothered by a leg injury, and he will miss an extended period."
+            },
+            {
+              "player": "R. McKendry",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "McKendry is tending to an undisclosed injury, and it has yet to be established if he will take the field against Washington on Sunday, September 6th."
+            },
+            {
+              "player": "C. Toney",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Toney is tending to an undisclosed injury, and it has yet to be established if he will take the field against Washington on Sunday, September 6th."
+            },
+            {
+              "player": "T. Leckner",
+              "position": "TE",
+              "status": "Out",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Leckner will miss an extended period due to an undisclosed injury, and a timetable for return has yet to be established."
+            },
+            {
+              "player": "B. Baker",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Foot",
+              "updated": "Sun, Aug 16",
+              "note": "Baker is bothered by a foot injury, and it is up in the air if he will take the field against Washington on Sunday, September 6th."
+            },
+            {
+              "player": "K. Vorhees",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Vorhees is bothered by an undisclosed injury, and it is up in the air if he will take the field against Washington on Sunday, September 6th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/washington-huskies/injuries",
+          "players": [
+            {
+              "player": "J. Washington",
+              "position": "RB",
+              "status": "Doubtful",
+              "detail": "Neck",
+              "updated": "Wed, Aug 26",
+              "note": "Washington, is dealing with neck injury, and he is unlikely to be available against Washington St. on Sunday, September 6th."
+            },
+            {
+              "player": "D. Roebuck",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Personal",
+              "updated": "Wed, Aug 19",
+              "note": "Roebuck is dealing with some personal reasons, and it remains to be seen if he will be back in action against Washington St. on Sunday, September 6th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -6435,18 +8115,67 @@
         "latitude": 36.166479,
         "longitude": -86.7712898,
         "forecast_time_unix": 1788735600,
-        "temperature_f": 94.0,
+        "temperature_f": 94.7,
         "humidity_pct": 39,
         "precipitation_probability_pct": 17,
         "precipitation_in": 0.0,
         "weather_code": 1,
         "condition": "Mostly Clear",
-        "wind_mph": 3.7,
+        "wind_mph": 5.3,
         "wind_gust_mph": 4.5,
-        "wind_direction_deg": 73,
+        "wind_direction_deg": 75,
         "wind_direction": "ENE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/louisville-cardinals/injuries",
+          "players": [
+            {
+              "player": "M. Davis",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Lower Body",
+              "updated": "Fri, Aug 14",
+              "note": "Davis is dealing with a lower body injury, and it remains to be seen if he will be available against Ole Miss on Sunday, September 6th."
+            },
+            {
+              "player": "M. Quisenberry",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Lower Body",
+              "updated": "Fri, Aug 14",
+              "note": "Quisenberry is dealing with a lower body injury, and he will miss an undetermined length of time."
+            },
+            {
+              "player": "I. Brown",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Brown is dealing with an undisclosed injury, and it remains to be seen if he will be available against Ole Miss on Sunday, September 6th."
+            },
+            {
+              "player": "K. Hughes",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Lower Body",
+              "updated": "Tue, Aug 11",
+              "note": "Huges has been out of commission due to lower body injury, and it is anticipated that he will miss the remainder of the season."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "NO_REPORTED_INJURIES",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/mississippi-rebels/injuries",
+          "players": [],
+          "message": "No injuries to report"
+        }
       }
     },
     {
@@ -6592,18 +8321,116 @@
         "latitude": 44.50131,
         "longitude": -88.062273,
         "forecast_time_unix": 1788735600,
-        "temperature_f": 79.6,
-        "humidity_pct": 70,
+        "temperature_f": 70.8,
+        "humidity_pct": 86,
         "precipitation_probability_pct": 16,
         "precipitation_in": 0.0,
         "weather_code": 3,
         "condition": "Overcast",
-        "wind_mph": 6.8,
+        "wind_mph": 9.6,
         "wind_gust_mph": 9.2,
-        "wind_direction_deg": 191,
-        "wind_direction": "S",
+        "wind_direction_deg": 144,
+        "wind_direction": "SE",
         "impact": "LOW",
         "impact_reasons": []
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/wisconsin-badgers/injuries",
+          "players": [
+            {
+              "player": "E. Hilton Jr.",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 23",
+              "note": "Hilton Jr. is hampered by an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "J. Domingeaux",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sat, Aug 22",
+              "note": "Domingeaux is tending to an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "J. Pope",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Pope is tending to an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "N. Palmer",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Sun, Aug 16",
+              "note": "Palmer is hampered by an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "M. Coleman",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Thu, Aug 13",
+              "note": "Coleman is laid up with an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "B. Jackson II",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Jackson is dealing with an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "S. Rigby",
+              "position": "WR",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Rigby is hampered by an undisclosed injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            },
+            {
+              "player": "D. O'Neil",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Lower Body",
+              "updated": "Tue, Aug 11",
+              "note": "O'Neil is managing with a lower body injury, and it has yet to be determined if he will be active against Notre Dame on Sunday, September 6th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/notre-dame-fighting-irish/injuries",
+          "players": [
+            {
+              "player": "Q. Porter",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Knee",
+              "updated": "Mon, Aug 31",
+              "note": "Porter is dealing with a knee injury, and will not play the opening matchup against Wisconsin on Sunday, September 6th."
+            },
+            {
+              "player": "B. Hebert",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 12",
+              "note": "Hebert is bothered by an undisclosed injury, and it is unclear whether he will play against Wisconsin on Sunday, September 6th."
+            }
+          ],
+          "message": null
+        }
       }
     },
     {
@@ -6748,20 +8575,78 @@
         "latitude": 30.4381692,
         "longitude": -84.3044032,
         "forecast_time_unix": 1788822000,
-        "temperature_f": 84.3,
-        "humidity_pct": 67,
+        "temperature_f": 81.9,
+        "humidity_pct": 76,
         "precipitation_probability_pct": 55,
-        "precipitation_in": 0.008,
+        "precipitation_in": 0.004,
         "weather_code": 51,
         "condition": "Light Drizzle",
-        "wind_mph": 2.7,
+        "wind_mph": 4.0,
         "wind_gust_mph": 5.4,
-        "wind_direction_deg": 90,
-        "wind_direction": "E",
+        "wind_direction_deg": 137,
+        "wind_direction": "SE",
         "impact": "MODERATE",
         "impact_reasons": [
           "Precipitation probability 55%"
         ]
+      },
+      "player_availability": {
+        "away": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/smu-mustangs/injuries",
+          "players": [
+            {
+              "player": "L. Rhodes",
+              "position": "RB",
+              "status": "Out",
+              "detail": "Knee",
+              "updated": "Wed, Aug 26",
+              "note": "Rhodes has been out of the lineup with a tore ACL injury, and he will be out of commission for the remainder of the season."
+            },
+            {
+              "player": "K. Jennings",
+              "position": "QB",
+              "status": "Questionable",
+              "detail": "Finger",
+              "updated": "Fri, Aug 21",
+              "note": "Jennings is laid up with a finger injury, and it is unclear whether he will play against Florida State on Monday, September 7th."
+            },
+            {
+              "player": "C. Rhodes",
+              "position": "RB",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Wed, Aug 19",
+              "note": "Rhodes is nursing with an undisclosed injury, and it has yet to be determined if he will be available against Florida State on Monday, September 7th."
+            },
+            {
+              "player": "M. Uter",
+              "position": "TE",
+              "status": "Questionable",
+              "detail": "Undisclosed",
+              "updated": "Tue, Aug 11",
+              "note": "Uter is nursing with an undisclosed injury, and it has yet to be determined if he will be available against Florida State on Monday, September 7th."
+            }
+          ],
+          "message": null
+        },
+        "home": {
+          "state": "REPORTED",
+          "source": "Covers",
+          "source_url": "https://www.covers.com/sport/football/ncaaf/teams/main/florida-state-seminoles/injuries",
+          "players": [
+            {
+              "player": "D. Carter",
+              "position": "WR",
+              "status": "Out",
+              "detail": "Back",
+              "updated": "Wed, Aug 26",
+              "note": "Carter is sidelined with a back injury, and he is set to miss an undetermined length of time."
+            }
+          ],
+          "message": null
+        }
       }
     }
   ]
