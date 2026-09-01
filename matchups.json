@@ -2,7 +2,7 @@
   "season": 2026,
   "week": 1,
   "power_rating_week": 1,
-  "updated": "2026-08-31T21:14:38.046416",
+  "updated": "2026-08-31T21:54:18.755023",
   "count": 43,
   "games": [
     {
@@ -121,6 +121,20 @@
             "tfl_per_game": 3.92
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -241,6 +255,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -359,6 +387,20 @@
             "tfl_per_game": 4.85
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -479,6 +521,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -595,6 +651,20 @@
             "sacks_per_game": 2.0,
             "tfl_per_game": 5.0
           }
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 1,
+          "ties": 0,
+          "display": "0-1"
+        },
+        "home": {
+          "wins": 1,
+          "losses": 0,
+          "ties": 0,
+          "display": "1-0"
         }
       }
     },
@@ -715,6 +785,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -834,6 +918,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -952,6 +1050,20 @@
             "tfl_per_game": 5.0
           }
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 1,
+          "losses": 0,
+          "ties": 0,
+          "display": "1-0"
+        }
       }
     },
     {
@@ -1069,6 +1181,20 @@
             "sacks_per_game": 2.0,
             "tfl_per_game": 7.0
           }
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 1,
+          "losses": 0,
+          "ties": 0,
+          "display": "1-0"
         }
       }
     },
@@ -1189,6 +1315,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -1307,6 +1447,20 @@
             "tfl_per_game": 5.73
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -1427,6 +1581,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -1545,6 +1713,20 @@
             "tfl_per_game": 8.06
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -1665,6 +1847,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -1783,6 +1979,20 @@
             "tfl_per_game": 4.69
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -1903,6 +2113,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -2013,6 +2237,20 @@
             "tfl_per_game": 7.69
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -2133,6 +2371,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -2251,6 +2503,20 @@
             "tfl_per_game": 6.58
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -2371,6 +2637,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -2489,6 +2769,20 @@
             "tfl_per_game": 4.23
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -2609,6 +2903,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -2727,6 +3035,20 @@
             "tfl_per_game": 6.31
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -2847,6 +3169,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -2965,6 +3301,20 @@
             "tfl_per_game": 5.33
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -3085,6 +3435,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -3204,6 +3568,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -3321,6 +3699,20 @@
             "sacks_per_game": 6.0,
             "tfl_per_game": 11.0
           }
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 1,
+          "losses": 0,
+          "ties": 0,
+          "display": "1-0"
         }
       }
     },
@@ -3441,6 +3833,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -3559,6 +3965,20 @@
             "tfl_per_game": 8.46
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -3679,6 +4099,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -3797,6 +4231,20 @@
             "tfl_per_game": 5.23
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -3917,6 +4365,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -4035,6 +4497,20 @@
             "tfl_per_game": 5.85
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -4155,6 +4631,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -4274,6 +4764,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -4390,6 +4894,20 @@
             "sacks_per_game": 0.0,
             "tfl_per_game": 4.0
           }
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 1,
+          "ties": 0,
+          "display": "0-1"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 1,
+          "ties": 0,
+          "display": "0-1"
         }
       }
     },
@@ -4510,6 +5028,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -4628,6 +5160,20 @@
             "tfl_per_game": 5.25
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -4748,6 +5294,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -4866,6 +5426,20 @@
             "tfl_per_game": 5.53
           },
           "fallback": true
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
         }
       }
     },
@@ -4986,6 +5560,20 @@
           },
           "fallback": true
         }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        }
       }
     },
     {
@@ -5103,6 +5691,20 @@
             "sacks_per_game": 3.0,
             "tfl_per_game": 4.0
           }
+        }
+      },
+      "records": {
+        "away": {
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "display": "0-0"
+        },
+        "home": {
+          "wins": 1,
+          "losses": 0,
+          "ties": 0,
+          "display": "1-0"
         }
       }
     }
