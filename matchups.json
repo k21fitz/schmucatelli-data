@@ -2,7 +2,7 @@
   "season": 2026,
   "week": 1,
   "power_rating_week": 1,
-  "updated": "2026-08-31T21:54:18.755023",
+  "updated": "2026-09-01T13:34:11.751318",
   "count": 43,
   "games": [
     {
@@ -136,6 +136,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 6577,
+        "venue": "SHI Stadium",
+        "city": "Piscataway",
+        "state": "NJ",
+        "kickoff_utc": "2026-09-03T22:00:00.000Z",
+        "indoor": false,
+        "latitude": 40.513611,
+        "longitude": -74.465278,
+        "forecast_time_unix": 1788472800,
+        "temperature_f": 81.2,
+        "humidity_pct": 70,
+        "precipitation_probability_pct": 29,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.1,
+        "wind_gust_mph": 15.0,
+        "wind_direction_deg": 260,
+        "wind_direction": "W",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -269,6 +293,33 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3630,
+        "venue": "Allegacy Federal Credit Union Stadium",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "kickoff_utc": "2026-09-03T23:00:00.000Z",
+        "indoor": false,
+        "latitude": 36.1305507,
+        "longitude": -80.2545851,
+        "forecast_time_unix": 1788476400,
+        "temperature_f": 85.0,
+        "humidity_pct": 54,
+        "precipitation_probability_pct": 4,
+        "precipitation_in": 0.004,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 11.8,
+        "wind_gust_mph": 23.3,
+        "wind_direction_deg": 295,
+        "wind_direction": "WNW",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Sustained wind 11.8 mph",
+          "Gusts 23.3 mph"
+        ]
       }
     },
     {
@@ -291,10 +342,10 @@
       },
       "market": {
         "open_consensus": -6.5,
-        "current_consensus": -7.0,
+        "current_consensus": -6.5,
         "market_high": -6.5,
-        "market_low": -7.0,
-        "move_from_open": -0.5,
+        "market_low": -6.5,
+        "move_from_open": 0.0,
         "total": 50.5,
         "spread_books": {
           "DraftKings": null,
@@ -402,6 +453,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 721,
+        "venue": "Bobby Dodd Stadium",
+        "city": "Atlanta",
+        "state": "GA",
+        "kickoff_utc": "2026-09-04T00:00:00.000Z",
+        "indoor": false,
+        "latitude": 33.7724449,
+        "longitude": -84.3928054,
+        "forecast_time_unix": 1788480000,
+        "temperature_f": 93.0,
+        "humidity_pct": 36,
+        "precipitation_probability_pct": 3,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 7.8,
+        "wind_gust_mph": 11.4,
+        "wind_direction_deg": 162,
+        "wind_direction": "SSE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -535,6 +610,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3832,
+        "venue": "Memorial Stadium (Champaign, IL)",
+        "city": "Champaign",
+        "state": "IL",
+        "kickoff_utc": "2026-09-04T01:00:00.000Z",
+        "indoor": false,
+        "latitude": 40.0993268,
+        "longitude": -88.2359569,
+        "forecast_time_unix": 1788483600,
+        "temperature_f": 81.8,
+        "humidity_pct": 74,
+        "precipitation_probability_pct": 3,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 7.4,
+        "wind_gust_mph": 14.1,
+        "wind_direction_deg": 92,
+        "wind_direction": "E",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -666,6 +765,30 @@
           "ties": 0,
           "display": "1-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3912,
+        "venue": "Rynearson Stadium",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "kickoff_utc": "2026-09-04T22:30:00.000Z",
+        "indoor": false,
+        "latitude": 42.256126,
+        "longitude": -83.647285,
+        "forecast_time_unix": 1788559200,
+        "temperature_f": 75.4,
+        "humidity_pct": 82,
+        "precipitation_probability_pct": 36,
+        "precipitation_in": 0.008,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 9.9,
+        "wind_gust_mph": 12.5,
+        "wind_direction_deg": 65,
+        "wind_direction": "ENE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -799,6 +922,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3936,
+        "venue": "Spartan Stadium",
+        "city": "East Lansing",
+        "state": "MI",
+        "kickoff_utc": "2026-09-05T00:00:00.000Z",
+        "indoor": false,
+        "latitude": 42.7281474,
+        "longitude": -84.4848526,
+        "forecast_time_unix": 1788566400,
+        "temperature_f": 68.6,
+        "humidity_pct": 92,
+        "precipitation_probability_pct": 25,
+        "precipitation_in": 0.008,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 6.0,
+        "wind_gust_mph": 13.9,
+        "wind_direction_deg": 48,
+        "wind_direction": "NE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -932,6 +1079,33 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3835,
+        "venue": "Memorial Stadium (Norman, OK)",
+        "city": "Norman",
+        "state": "OK",
+        "kickoff_utc": "2026-09-05T00:00:00.000Z",
+        "indoor": false,
+        "latitude": 35.2058537,
+        "longitude": -97.4423145,
+        "forecast_time_unix": 1788566400,
+        "temperature_f": 95.9,
+        "humidity_pct": 32,
+        "precipitation_probability_pct": 1,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 18.5,
+        "wind_gust_mph": 18.3,
+        "wind_direction_deg": 159,
+        "wind_direction": "SSE",
+        "impact": "HIGH",
+        "impact_reasons": [
+          "Sustained wind 18.5 mph",
+          "Temperature 96 F"
+        ]
       }
     },
     {
@@ -954,10 +1128,10 @@
       },
       "market": {
         "open_consensus": -22.5,
-        "current_consensus": -22.0,
+        "current_consensus": -21.5,
         "market_high": -21.5,
         "market_low": -22.5,
-        "move_from_open": 0.5,
+        "move_from_open": 1.0,
         "total": 51.5,
         "spread_books": {
           "DraftKings": null,
@@ -1064,6 +1238,30 @@
           "ties": 0,
           "display": "1-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 477,
+        "venue": "Los Angeles Memorial Coliseum",
+        "city": "Los Angeles",
+        "state": "CA",
+        "kickoff_utc": "2026-09-05T01:00:00.000Z",
+        "indoor": false,
+        "latitude": 34.014167,
+        "longitude": -118.287778,
+        "forecast_time_unix": 1788570000,
+        "temperature_f": 81.0,
+        "humidity_pct": 45,
+        "precipitation_probability_pct": 0,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 9.8,
+        "wind_gust_mph": 5.6,
+        "wind_direction_deg": 227,
+        "wind_direction": "SW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -1088,7 +1286,7 @@
         "open_consensus": 24.5,
         "current_consensus": 24.5,
         "market_high": 24.5,
-        "market_low": 24.5,
+        "market_low": 24.0,
         "move_from_open": 0.0,
         "total": 47.5,
         "spread_books": {
@@ -1196,6 +1394,30 @@
           "ties": 0,
           "display": "1-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3940,
+        "venue": "Stanford Stadium",
+        "city": "Stanford",
+        "state": "CA",
+        "kickoff_utc": "2026-09-05T01:00:00.000Z",
+        "indoor": false,
+        "latitude": 37.4345556,
+        "longitude": -122.1611271,
+        "forecast_time_unix": 1788570000,
+        "temperature_f": 72.7,
+        "humidity_pct": 39,
+        "precipitation_probability_pct": 0,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 8.8,
+        "wind_gust_mph": 11.2,
+        "wind_direction_deg": 297,
+        "wind_direction": "WNW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -1329,6 +1551,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3842,
+        "venue": "Milan Puskar Stadium",
+        "city": "Morgantown",
+        "state": "WV",
+        "kickoff_utc": "2026-09-05T16:00:00.000Z",
+        "indoor": false,
+        "latitude": 39.6502744,
+        "longitude": -79.9551873,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 74.8,
+        "humidity_pct": 58,
+        "precipitation_probability_pct": 22,
+        "precipitation_in": 0.0,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 5.9,
+        "wind_gust_mph": 8.5,
+        "wind_direction_deg": 342,
+        "wind_direction": "NNW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -1462,6 +1708,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3657,
+        "venue": "Bryant-Denny Stadium",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "kickoff_utc": "2026-09-05T16:00:00.000Z",
+        "indoor": false,
+        "latitude": 33.2082752,
+        "longitude": -87.5503836,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 94.5,
+        "humidity_pct": 46,
+        "precipitation_probability_pct": 8,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 0.2,
+        "wind_gust_mph": 2.5,
+        "wind_direction_deg": 180,
+        "wind_direction": "S",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -1486,7 +1756,7 @@
         "open_consensus": -6.5,
         "current_consensus": -6.5,
         "market_high": -6.5,
-        "market_low": -7.0,
+        "market_low": -6.5,
         "move_from_open": 0.0,
         "total": 52.5,
         "spread_books": {
@@ -1595,6 +1865,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3651,
+        "venue": "Bridgeforth Stadium",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "kickoff_utc": "2026-09-05T16:00:00.000Z",
+        "indoor": false,
+        "latitude": 38.4352919,
+        "longitude": -78.8729349,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 83.4,
+        "humidity_pct": 44,
+        "precipitation_probability_pct": 19,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 9.2,
+        "wind_gust_mph": 14.5,
+        "wind_direction_deg": 14,
+        "wind_direction": "NNE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -1728,6 +2022,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3830,
+        "venue": "Memorial Stadium (Bloomington, IN)",
+        "city": "Bloomington",
+        "state": "IN",
+        "kickoff_utc": "2026-09-05T16:00:00.000Z",
+        "indoor": false,
+        "latitude": 39.1808959,
+        "longitude": -86.5256217,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 90.1,
+        "humidity_pct": 55,
+        "precipitation_probability_pct": 14,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 1.3,
+        "wind_gust_mph": 1.3,
+        "wind_direction_deg": 90,
+        "wind_direction": "E",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -1861,6 +2179,33 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3834,
+        "venue": "Memorial Stadium (Lincoln, NE)",
+        "city": "Lincoln",
+        "state": "NE",
+        "kickoff_utc": "2026-09-05T16:00:00.000Z",
+        "indoor": false,
+        "latitude": 40.820682,
+        "longitude": -96.705594,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 96.0,
+        "humidity_pct": 33,
+        "precipitation_probability_pct": 4,
+        "precipitation_in": 0.0,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 11.8,
+        "wind_gust_mph": 12.5,
+        "wind_direction_deg": 199,
+        "wind_direction": "SSW",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Sustained wind 11.8 mph",
+          "Temperature 96 F"
+        ]
       }
     },
     {
@@ -1994,6 +2339,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 4728,
+        "venue": "TDECU Stadium",
+        "city": "Houston",
+        "state": "TX",
+        "kickoff_utc": "2026-09-05T16:00:00.000Z",
+        "indoor": false,
+        "latitude": 29.7219885,
+        "longitude": -95.3491623,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 91.2,
+        "humidity_pct": 56,
+        "precipitation_probability_pct": 18,
+        "precipitation_in": 0.004,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 1.9,
+        "wind_gust_mph": 2.5,
+        "wind_direction_deg": 159,
+        "wind_direction": "SSE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -2127,6 +2496,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3861,
+        "venue": "Ohio Stadium",
+        "city": "Columbus",
+        "state": "OH",
+        "kickoff_utc": "2026-09-05T16:30:00.000Z",
+        "indoor": false,
+        "latitude": 40.0016447,
+        "longitude": -83.0197266,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 78.4,
+        "humidity_pct": 54,
+        "precipitation_probability_pct": 19,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.0,
+        "wind_gust_mph": 6.9,
+        "wind_direction_deg": 42,
+        "wind_direction": "NE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -2252,6 +2645,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3752,
+        "venue": "Acrisure Stadium",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "kickoff_utc": "2026-09-05T16:30:00.000Z",
+        "indoor": false,
+        "latitude": 40.4467648,
+        "longitude": -80.0157603,
+        "forecast_time_unix": 1788624000,
+        "temperature_f": 73.8,
+        "humidity_pct": 53,
+        "precipitation_probability_pct": 13,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 4.9,
+        "wind_gust_mph": 9.2,
+        "wind_direction_deg": 3,
+        "wind_direction": "N",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -2385,6 +2802,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3994,
+        "venue": "Williams-Brice Stadium",
+        "city": "Columbia",
+        "state": "SC",
+        "kickoff_utc": "2026-09-05T16:45:00.000Z",
+        "indoor": false,
+        "latitude": 33.9730239,
+        "longitude": -81.0191726,
+        "forecast_time_unix": 1788627600,
+        "temperature_f": 100.5,
+        "humidity_pct": 32,
+        "precipitation_probability_pct": 0,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 4.4,
+        "wind_gust_mph": 6.0,
+        "wind_direction_deg": 246,
+        "wind_direction": "WSW",
+        "impact": "HIGH",
+        "impact_reasons": [
+          "Extreme temperature 100 F"
+        ]
       }
     },
     {
@@ -2518,6 +2961,21 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "INDOOR",
+        "venue_id": 5348,
+        "venue": "Mercedes-Benz Stadium",
+        "city": "Atlanta",
+        "state": "GA",
+        "kickoff_utc": "2026-09-05T19:30:00.000Z",
+        "indoor": true,
+        "latitude": 33.755578,
+        "longitude": -84.400881,
+        "impact": "INDOOR",
+        "impact_reasons": [
+          "Indoor venue - no weather impact"
+        ]
       }
     },
     {
@@ -2651,6 +3109,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3626,
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "kickoff_utc": "2026-09-05T19:30:00.000Z",
+        "indoor": false,
+        "latitude": 44.0582712,
+        "longitude": -123.0684883,
+        "forecast_time_unix": 1788634800,
+        "temperature_f": 67.9,
+        "humidity_pct": 54,
+        "precipitation_probability_pct": 19,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 3.0,
+        "wind_gust_mph": 1.8,
+        "wind_direction_deg": 287,
+        "wind_direction": "WNW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -2784,6 +3266,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3854,
+        "venue": "Nippert Stadium",
+        "city": "Cincinnati",
+        "state": "OH",
+        "kickoff_utc": "2026-09-05T19:30:00.000Z",
+        "indoor": false,
+        "latitude": 39.1312495,
+        "longitude": -84.5161913,
+        "forecast_time_unix": 1788634800,
+        "temperature_f": 88.5,
+        "humidity_pct": 50,
+        "precipitation_probability_pct": 20,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 6.4,
+        "wind_gust_mph": 7.8,
+        "wind_direction_deg": 25,
+        "wind_direction": "NNE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -2797,9 +3303,9 @@
         "home_margin": 26.26,
         "favorite": "Penn State",
         "line": -26.25663454215111,
-        "spread_edge": 1.76,
+        "spread_edge": 2.76,
         "value_side": "Penn State",
-        "spread_action": "PASS \u2014 Penn State -24.5",
+        "spread_action": "PLAY \u2014 Penn State -23.5 (FanDuel)",
         "projected_total": 57.88,
         "total_edge": 5.38,
         "total_action": "PLAY"
@@ -2807,7 +3313,7 @@
       "market": {
         "open_consensus": -24.5,
         "current_consensus": -24.5,
-        "market_high": -24.5,
+        "market_high": -23.5,
         "market_low": -24.5,
         "move_from_open": 0.0,
         "total": 52.5,
@@ -2917,6 +3423,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3632,
+        "venue": "Beaver Stadium",
+        "city": "University Park",
+        "state": "PA",
+        "kickoff_utc": "2026-09-05T19:30:00.000Z",
+        "indoor": false,
+        "latitude": 40.8121958,
+        "longitude": -77.8561023,
+        "forecast_time_unix": 1788634800,
+        "temperature_f": 76.3,
+        "humidity_pct": 46,
+        "precipitation_probability_pct": 5,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 8.3,
+        "wind_gust_mph": 11.4,
+        "wind_direction_deg": 360,
+        "wind_direction": "N",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -3050,6 +3580,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3910,
+        "venue": "DKR-Texas Memorial Stadium",
+        "city": "Austin",
+        "state": "TX",
+        "kickoff_utc": "2026-09-05T19:30:00.000Z",
+        "indoor": false,
+        "latitude": 30.2836813,
+        "longitude": -97.7325345,
+        "forecast_time_unix": 1788634800,
+        "temperature_f": 99.3,
+        "humidity_pct": 31,
+        "precipitation_probability_pct": 9,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 3.7,
+        "wind_gust_mph": 5.4,
+        "wind_direction_deg": 123,
+        "wind_direction": "ESE",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Temperature 99 F"
+        ]
       }
     },
     {
@@ -3183,6 +3739,33 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3982,
+        "venue": "Wallace Wade Stadium",
+        "city": "Durham",
+        "state": "NC",
+        "kickoff_utc": "2026-09-05T19:30:00.000Z",
+        "indoor": false,
+        "latitude": 35.9953688,
+        "longitude": -78.9417564,
+        "forecast_time_unix": 1788634800,
+        "temperature_f": 96.9,
+        "humidity_pct": 33,
+        "precipitation_probability_pct": 48,
+        "precipitation_in": 0.0,
+        "weather_code": 1,
+        "condition": "Mostly Clear",
+        "wind_mph": 3.6,
+        "wind_gust_mph": 12.3,
+        "wind_direction_deg": 338,
+        "wind_direction": "NNW",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Precipitation probability 48%",
+          "Temperature 97 F"
+        ]
       }
     },
     {
@@ -3316,6 +3899,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3674,
+        "venue": "Chapman Stadium",
+        "city": "Tulsa",
+        "state": "OK",
+        "kickoff_utc": "2026-09-05T19:45:00.000Z",
+        "indoor": false,
+        "latitude": 36.1489175,
+        "longitude": -95.9437853,
+        "forecast_time_unix": 1788638400,
+        "temperature_f": 103.4,
+        "humidity_pct": 24,
+        "precipitation_probability_pct": 1,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 5.6,
+        "wind_gust_mph": 8.9,
+        "wind_direction_deg": 164,
+        "wind_direction": "SSE",
+        "impact": "HIGH",
+        "impact_reasons": [
+          "Extreme temperature 103 F"
+        ]
       }
     },
     {
@@ -3449,6 +4058,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3793,
+        "venue": "Kinnick Stadium",
+        "city": "Iowa City",
+        "state": "IA",
+        "kickoff_utc": "2026-09-05T20:15:00.000Z",
+        "indoor": false,
+        "latitude": 41.6586045,
+        "longitude": -91.5510829,
+        "forecast_time_unix": 1788638400,
+        "temperature_f": 94.2,
+        "humidity_pct": 45,
+        "precipitation_probability_pct": 10,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 5.1,
+        "wind_gust_mph": 5.6,
+        "wind_direction_deg": 128,
+        "wind_direction": "SE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -3582,6 +4215,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 5388,
+        "venue": "Canvas Stadium",
+        "city": "Fort Collins",
+        "state": "CO",
+        "kickoff_utc": "2026-09-05T22:00:00.000Z",
+        "indoor": false,
+        "latitude": 40.570015,
+        "longitude": -105.088435,
+        "forecast_time_unix": 1788645600,
+        "temperature_f": 91.9,
+        "humidity_pct": 17,
+        "precipitation_probability_pct": 7,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.5,
+        "wind_gust_mph": 6.3,
+        "wind_direction_deg": 74,
+        "wind_direction": "ENE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -3714,6 +4371,32 @@
           "ties": 0,
           "display": "1-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3805,
+        "venue": "Simmons Bank Liberty Stadium",
+        "city": "Memphis",
+        "state": "TN",
+        "kickoff_utc": "2026-09-05T23:00:00.000Z",
+        "indoor": false,
+        "latitude": 35.1209429,
+        "longitude": -89.977147,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 102.2,
+        "humidity_pct": 24,
+        "precipitation_probability_pct": 10,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 3.5,
+        "wind_gust_mph": 6.0,
+        "wind_direction_deg": 162,
+        "wind_direction": "SSE",
+        "impact": "HIGH",
+        "impact_reasons": [
+          "Extreme temperature 102 F"
+        ]
       }
     },
     {
@@ -3847,6 +4530,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3886,
+        "venue": "Raymond James Stadium",
+        "city": "Tampa",
+        "state": "FL",
+        "kickoff_utc": "2026-09-05T23:00:00.000Z",
+        "indoor": false,
+        "latitude": 27.9758691,
+        "longitude": -82.5033344,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 87.4,
+        "humidity_pct": 59,
+        "precipitation_probability_pct": 69,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 8.9,
+        "wind_gust_mph": 8.7,
+        "wind_direction_deg": 302,
+        "wind_direction": "WNW",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Precipitation probability 69%"
+        ]
       }
     },
     {
@@ -3980,6 +4689,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3795,
+        "venue": "Kyle Field",
+        "city": "College Station",
+        "state": "TX",
+        "kickoff_utc": "2026-09-05T23:00:00.000Z",
+        "indoor": false,
+        "latitude": 30.6098891,
+        "longitude": -96.3403828,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 92.0,
+        "humidity_pct": 41,
+        "precipitation_probability_pct": 19,
+        "precipitation_in": 0.008,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 9.0,
+        "wind_gust_mph": 10.5,
+        "wind_direction_deg": 120,
+        "wind_direction": "ESE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -4113,6 +4846,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3975,
+        "venue": "Veterans Memorial Stadium (AL)",
+        "city": "Troy",
+        "state": "AL",
+        "kickoff_utc": "2026-09-05T23:00:00.000Z",
+        "indoor": false,
+        "latitude": 31.7995565,
+        "longitude": -85.9518328,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 88.0,
+        "humidity_pct": 57,
+        "precipitation_probability_pct": 23,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 3.9,
+        "wind_gust_mph": 5.8,
+        "wind_direction_deg": 193,
+        "wind_direction": "SSW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -4246,6 +5003,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3958,
+        "venue": "Tiger Stadium (LA)",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "kickoff_utc": "2026-09-05T23:30:00.000Z",
+        "indoor": false,
+        "latitude": 30.412035,
+        "longitude": -91.1838163,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 93.2,
+        "humidity_pct": 45,
+        "precipitation_probability_pct": 56,
+        "precipitation_in": 0.0,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 1.3,
+        "wind_gust_mph": 4.5,
+        "wind_direction_deg": 270,
+        "wind_direction": "W",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Precipitation probability 56%"
+        ]
       }
     },
     {
@@ -4379,6 +5162,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3693,
+        "venue": "Davis Wade Stadium",
+        "city": "Starkville",
+        "state": "MS",
+        "kickoff_utc": "2026-09-05T23:30:00.000Z",
+        "indoor": false,
+        "latitude": 33.4563403,
+        "longitude": -88.7933652,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 86.9,
+        "humidity_pct": 57,
+        "precipitation_probability_pct": 30,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 14.3,
+        "wind_gust_mph": 17.9,
+        "wind_direction_deg": 228,
+        "wind_direction": "SW",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Sustained wind 14.3 mph"
+        ]
       }
     },
     {
@@ -4512,6 +5321,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3558,
+        "venue": "Michigan Stadium",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "kickoff_utc": "2026-09-05T23:30:00.000Z",
+        "indoor": false,
+        "latitude": 42.2658365,
+        "longitude": -83.7486956,
+        "forecast_time_unix": 1788649200,
+        "temperature_f": 76.4,
+        "humidity_pct": 49,
+        "precipitation_probability_pct": 9,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 5.6,
+        "wind_gust_mph": 7.6,
+        "wind_direction_deg": 119,
+        "wind_direction": "ESE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -4645,6 +5478,32 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3634,
+        "venue": "Ben Hill Griffin Stadium",
+        "city": "Gainesville",
+        "state": "FL",
+        "kickoff_utc": "2026-09-05T23:45:00.000Z",
+        "indoor": false,
+        "latitude": 29.6499357,
+        "longitude": -82.3485788,
+        "forecast_time_unix": 1788652800,
+        "temperature_f": 87.4,
+        "humidity_pct": 55,
+        "precipitation_probability_pct": 55,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 5.4,
+        "wind_gust_mph": 8.5,
+        "wind_direction_deg": 263,
+        "wind_direction": "W",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Precipitation probability 55%"
+        ]
       }
     },
     {
@@ -4778,6 +5637,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3971,
+        "venue": "University Stadium (NM)",
+        "city": "Albuquerque",
+        "state": "NM",
+        "kickoff_utc": "2026-09-06T02:00:00.000Z",
+        "indoor": false,
+        "latitude": 35.0669479,
+        "longitude": -106.6283225,
+        "forecast_time_unix": 1788660000,
+        "temperature_f": 85.6,
+        "humidity_pct": 29,
+        "precipitation_probability_pct": 11,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 3.7,
+        "wind_gust_mph": 2.0,
+        "wind_direction_deg": 232,
+        "wind_direction": "SW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -4909,6 +5792,33 @@
           "ties": 0,
           "display": "0-1"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 7220,
+        "venue": "Clarence T.C. Ching Athletics Complex",
+        "city": "Honolulu",
+        "state": "HI",
+        "kickoff_utc": "2026-09-06T02:00:00.000Z",
+        "indoor": false,
+        "latitude": 21.294294,
+        "longitude": -157.819338,
+        "forecast_time_unix": 1788660000,
+        "temperature_f": 82.4,
+        "humidity_pct": 65,
+        "precipitation_probability_pct": 9,
+        "precipitation_in": 0.0,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 12.9,
+        "wind_gust_mph": 34.9,
+        "wind_direction_deg": 55,
+        "wind_direction": "NE",
+        "impact": "HIGH",
+        "impact_reasons": [
+          "Sustained wind 12.9 mph",
+          "Gusts 34.9 mph"
+        ]
       }
     },
     {
@@ -5042,6 +5952,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3831,
+        "venue": "California Memorial Stadium",
+        "city": "Berkeley",
+        "state": "CA",
+        "kickoff_utc": "2026-09-06T02:30:00.000Z",
+        "indoor": false,
+        "latitude": 37.8710434,
+        "longitude": -122.2507729,
+        "forecast_time_unix": 1788660000,
+        "temperature_f": 62.5,
+        "humidity_pct": 62,
+        "precipitation_probability_pct": 1,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 6.9,
+        "wind_gust_mph": 11.0,
+        "wind_direction_deg": 216,
+        "wind_direction": "SW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -5175,6 +6109,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3816,
+        "venue": "Mackay Stadium",
+        "city": "Reno",
+        "state": "NV",
+        "kickoff_utc": "2026-09-06T02:30:00.000Z",
+        "indoor": false,
+        "latitude": 39.5469459,
+        "longitude": -119.8175435,
+        "forecast_time_unix": 1788660000,
+        "temperature_f": 72.5,
+        "humidity_pct": 25,
+        "precipitation_probability_pct": 0,
+        "precipitation_in": 0.0,
+        "weather_code": 0,
+        "condition": "Clear",
+        "wind_mph": 7.4,
+        "wind_gust_mph": 7.8,
+        "wind_direction_deg": 277,
+        "wind_direction": "W",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -5308,6 +6266,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3765,
+        "venue": "Husky Stadium",
+        "city": "Seattle",
+        "state": "WA",
+        "kickoff_utc": "2026-09-06T20:00:00.000Z",
+        "indoor": false,
+        "latitude": 47.6503235,
+        "longitude": -122.3015746,
+        "forecast_time_unix": 1788724800,
+        "temperature_f": 74.2,
+        "humidity_pct": 42,
+        "precipitation_probability_pct": 8,
+        "precipitation_in": 0.0,
+        "weather_code": 2,
+        "condition": "Partly Cloudy",
+        "wind_mph": 9.2,
+        "wind_gust_mph": 9.6,
+        "wind_direction_deg": 347,
+        "wind_direction": "NNW",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -5441,6 +6423,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3810,
+        "venue": "Nissan Stadium",
+        "city": "Nashville",
+        "state": "TN",
+        "kickoff_utc": "2026-09-06T23:30:00.000Z",
+        "indoor": false,
+        "latitude": 36.166479,
+        "longitude": -86.7712898,
+        "forecast_time_unix": 1788735600,
+        "temperature_f": 94.0,
+        "humidity_pct": 39,
+        "precipitation_probability_pct": 17,
+        "precipitation_in": 0.0,
+        "weather_code": 1,
+        "condition": "Mostly Clear",
+        "wind_mph": 3.7,
+        "wind_gust_mph": 4.5,
+        "wind_direction_deg": 73,
+        "wind_direction": "ENE",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -5574,6 +6580,30 @@
           "ties": 0,
           "display": "0-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3798,
+        "venue": "Lambeau Field",
+        "city": "Greenbay",
+        "state": "WI",
+        "kickoff_utc": "2026-09-06T23:30:00.000Z",
+        "indoor": false,
+        "latitude": 44.50131,
+        "longitude": -88.062273,
+        "forecast_time_unix": 1788735600,
+        "temperature_f": 79.6,
+        "humidity_pct": 70,
+        "precipitation_probability_pct": 16,
+        "precipitation_in": 0.0,
+        "weather_code": 3,
+        "condition": "Overcast",
+        "wind_mph": 6.8,
+        "wind_gust_mph": 9.2,
+        "wind_direction_deg": 191,
+        "wind_direction": "S",
+        "impact": "LOW",
+        "impact_reasons": []
       }
     },
     {
@@ -5706,6 +6736,32 @@
           "ties": 0,
           "display": "1-0"
         }
+      },
+      "weather": {
+        "status": "FORECAST",
+        "venue_id": 3697,
+        "venue": "Doak Campbell Stadium",
+        "city": "Tallahassee",
+        "state": "FL",
+        "kickoff_utc": "2026-09-07T23:30:00.000Z",
+        "indoor": false,
+        "latitude": 30.4381692,
+        "longitude": -84.3044032,
+        "forecast_time_unix": 1788822000,
+        "temperature_f": 84.3,
+        "humidity_pct": 67,
+        "precipitation_probability_pct": 55,
+        "precipitation_in": 0.008,
+        "weather_code": 51,
+        "condition": "Light Drizzle",
+        "wind_mph": 2.7,
+        "wind_gust_mph": 5.4,
+        "wind_direction_deg": 90,
+        "wind_direction": "E",
+        "impact": "MODERATE",
+        "impact_reasons": [
+          "Precipitation probability 55%"
+        ]
       }
     }
   ]
