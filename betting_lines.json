@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-08-31T17:35:24+00:00",
+  "updated": "2026-09-05T11:44:32+00:00",
   "games": [
     {
       "date": "9/3",
@@ -86,55 +86,55 @@
         "openHome": -24.5,
         "books": {
           "DK": {
-            "away": 24.5,
-            "home": -24.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 24.5,
-            "home": -24.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 24,
-            "home": -24
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Wake Forest -24"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 48.5,
         "books": {
-          "DK": 48.5,
-          "FD": 48.5,
-          "MGM": 48.5,
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 50.5,
           "CZR": null
         },
         "model": 52.24,
-        "action": "LEAN - OVER 48.5"
+        "action": "PASS - OVER 50.5"
       },
       "moneyline": {
-        "away": 1500,
-        "home": -3000,
+        "away": 2000,
+        "home": -3600,
         "awayProb": 0.184,
         "homeProb": 0.816,
-        "edge": -0.121,
-        "ev": -0.156,
-        "action": "PASS - Wake Forest -3000",
+        "edge": -0.132,
+        "ev": -0.161,
+        "action": "PASS - Wake Forest -3600",
         "books": {
           "DK": {
-            "away": 1400,
-            "home": -3200
+            "away": 1500,
+            "home": -3600
           },
           "FD": {
-            "away": 1400,
-            "home": -4000
+            "away": 2000,
+            "home": -7000
           },
           "MGM": {
-            "away": 1500,
-            "home": -3000
+            "away": 1900,
+            "home": -5000
           },
           "CZR": {
             "away": null,
@@ -155,55 +155,55 @@
         "openHome": -6.5,
         "books": {
           "DK": {
-            "away": 6.5,
-            "home": -6.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 6.5,
-            "home": -6.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 6.5,
-            "home": -6.5
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Georgia Tech -6.5"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 50.5,
         "books": {
-          "DK": 50.5,
-          "FD": 50.5,
-          "MGM": 50.5,
+          "DK": 52.5,
+          "FD": 52.5,
+          "MGM": 52.5,
           "CZR": null
         },
         "model": 53.79,
-        "action": "LEAN - OVER 50.5"
+        "action": "PASS - OVER 52.5"
       },
       "moneyline": {
-        "away": 220,
-        "home": -250,
+        "away": 195,
+        "home": -235,
         "awayProb": 0.182,
         "homeProb": 0.818,
-        "edge": 0.129,
-        "ev": 0.146,
-        "action": "PLAY - Georgia Tech -250",
+        "edge": 0.143,
+        "ev": 0.166,
+        "action": "PLAY - Georgia Tech -235",
         "books": {
           "DK": {
-            "away": 220,
-            "home": -270
+            "away": 195,
+            "home": -238
           },
           "FD": {
-            "away": 205,
-            "home": -255
+            "away": 195,
+            "home": -240
           },
           "MGM": {
-            "away": 200,
-            "home": -250
+            "away": 195,
+            "home": -235
           },
           "CZR": {
             "away": null,
@@ -224,55 +224,55 @@
         "openHome": -28.5,
         "books": {
           "DK": {
-            "away": 27.5,
-            "home": -27.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 27.5,
-            "home": -27.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 27.5,
-            "home": -27.5
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Illinois -27.5"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 55.5,
         "books": {
-          "DK": 55.5,
-          "FD": 55.5,
-          "MGM": 55.5,
+          "DK": 54.5,
+          "FD": 54.5,
+          "MGM": 54.5,
           "CZR": null
         },
         "model": 55.03,
-        "action": "PASS - UNDER 55.5"
+        "action": "PASS - OVER 54.5"
       },
       "moneyline": {
-        "away": 2200,
-        "home": -5000,
+        "away": 1700,
+        "home": -3000,
         "awayProb": 0.142,
         "homeProb": 0.858,
-        "edge": -0.097,
-        "ev": -0.125,
-        "action": "PASS - Illinois -5000",
+        "edge": -0.085,
+        "ev": -0.113,
+        "action": "PASS - Illinois -3000",
         "books": {
           "DK": {
-            "away": 2000,
-            "home": -6500
+            "away": 1700,
+            "home": -4500
           },
           "FD": {
-            "away": 2000,
-            "home": -7000
+            "away": 1400,
+            "home": -4000
           },
           "MGM": {
-            "away": 2200,
-            "home": -5000
+            "away": 1700,
+            "home": -3000
           },
           "CZR": {
             "away": null,
@@ -293,55 +293,55 @@
         "openHome": -3.5,
         "books": {
           "DK": {
-            "away": 3.5,
-            "home": -3.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 3.5,
-            "home": -3.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 3.5,
-            "home": -3.5
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Eastern Michigan -3.5"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 54.5,
         "books": {
-          "DK": 55.5,
-          "FD": 55.5,
-          "MGM": 56.5,
+          "DK": 45.5,
+          "FD": 46.5,
+          "MGM": 44.5,
           "CZR": null
         },
         "model": 50.9,
-        "action": "LEAN - UNDER 55.5"
+        "action": "PLAY - OVER 45.5"
       },
       "moneyline": {
-        "away": 146,
-        "home": -175,
+        "away": 120,
+        "home": -135,
         "awayProb": 0.264,
         "homeProb": 0.736,
-        "edge": 0.127,
-        "ev": 0.156,
-        "action": "PLAY - Eastern Michigan -175",
+        "edge": 0.183,
+        "ev": 0.281,
+        "action": "PLAY - Eastern Michigan -135",
         "books": {
           "DK": {
-            "away": 145,
-            "home": -175
+            "away": 105,
+            "home": -135
           },
           "FD": {
-            "away": 146,
-            "home": -178
+            "away": 120,
+            "home": -154
           },
           "MGM": {
-            "away": 140,
-            "home": -175
+            "away": 110,
+            "home": -135
           },
           "CZR": {
             "away": null,
@@ -362,55 +362,55 @@
         "openHome": -10,
         "books": {
           "DK": {
-            "away": 10,
-            "home": -10
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 10.5,
-            "home": -10.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 10,
-            "home": -10
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Michigan State -10"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 49.5,
         "books": {
-          "DK": 47.5,
-          "FD": 46.5,
-          "MGM": 46.5,
+          "DK": 48.5,
+          "FD": 48.5,
+          "MGM": 48.5,
           "CZR": null
         },
         "model": 52.39,
-        "action": "PLAY - OVER 46.5"
+        "action": "LEAN - OVER 48.5"
       },
       "moneyline": {
-        "away": 333,
-        "home": -425,
+        "away": 340,
+        "home": -395,
         "awayProb": 0.42,
         "homeProb": 0.58,
-        "edge": -0.198,
-        "ev": -0.284,
-        "action": "PASS - Michigan State -425",
+        "edge": -0.196,
+        "ev": -0.273,
+        "action": "PASS - Michigan State -395",
         "books": {
           "DK": {
-            "away": 330,
-            "home": -425
+            "away": 310,
+            "home": -395
           },
           "FD": {
-            "away": 330,
-            "home": -430
+            "away": 340,
+            "home": -450
           },
           "MGM": {
             "away": 333,
-            "home": -450
+            "home": -425
           },
           "CZR": {
             "away": null,
@@ -431,51 +431,51 @@
         "openHome": -41.5,
         "books": {
           "DK": {
-            "away": 41.5,
-            "home": -41.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 41.5,
-            "home": -41.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 42,
-            "home": -42
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - UTEP +42"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 50.5,
         "books": {
-          "DK": 50.5,
+          "DK": 51.5,
           "FD": 50.5,
-          "MGM": 50.5,
+          "MGM": 51.5,
           "CZR": null
         },
         "model": 53.54,
-        "action": "LEAN - OVER 50.5"
+        "action": "PASS - OVER 51.5"
       },
       "moneyline": {
-        "away": null,
-        "home": null,
+        "away": 4000,
+        "home": -30000,
         "awayProb": 0.07,
         "homeProb": 0.93,
-        "edge": null,
-        "ev": null,
-        "action": "NO MARKET",
+        "edge": -0.047,
+        "ev": -0.067,
+        "action": "PASS - Oklahoma -30000",
         "books": {
           "DK": {
             "away": null,
             "home": null
           },
           "FD": {
-            "away": null,
-            "home": null
+            "away": 4000,
+            "home": -30000
           },
           "MGM": {
             "away": null,
@@ -500,23 +500,23 @@
         "openHome": -22.5,
         "books": {
           "DK": {
-            "away": 22.5,
-            "home": -22.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": 21.5,
-            "home": -21.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": 22,
-            "home": -22
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - USC -21.5 (FanDuel)"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 51.5,
@@ -530,25 +530,25 @@
         "action": "PASS - OVER 51.5"
       },
       "moneyline": {
-        "away": 1350,
-        "home": -2500,
+        "away": 1200,
+        "home": -1800,
         "awayProb": 0.104,
         "homeProb": 0.896,
-        "edge": -0.034,
-        "ev": -0.068,
-        "action": "PASS - USC -2500",
+        "edge": -0.025,
+        "ev": -0.054,
+        "action": "PASS - USC -1800",
         "books": {
           "DK": {
-            "away": 1300,
-            "home": -2800
+            "away": 1000,
+            "home": -1800
           },
           "FD": {
             "away": 1200,
             "home": -3000
           },
           "MGM": {
-            "away": 1350,
-            "home": -2500
+            "away": 1200,
+            "home": -2000
           },
           "CZR": {
             "away": null,
@@ -569,47 +569,47 @@
         "openHome": 24.5,
         "books": {
           "DK": {
-            "away": -24.5,
-            "home": 24.5
+            "away": null,
+            "home": null
           },
           "FD": {
-            "away": -24.5,
-            "home": 24.5
+            "away": null,
+            "home": null
           },
           "MGM": {
-            "away": -24.5,
-            "home": 24.5
+            "away": null,
+            "home": null
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW - Stanford +24.5 (DraftKings)"
+        "action": "NO MARKET"
       },
       "total": {
         "open": 47.5,
         "books": {
-          "DK": 47.5,
-          "FD": 47.5,
-          "MGM": 47.5,
+          "DK": 46.5,
+          "FD": 46.5,
+          "MGM": 46.5,
           "CZR": null
         },
         "model": 50.59,
-        "action": "LEAN - OVER 47.5"
+        "action": "LEAN - OVER 46.5"
       },
       "moneyline": {
         "away": -3000,
-        "home": 1700,
+        "home": 1600,
         "awayProb": 0.824,
         "homeProb": 0.176,
-        "edge": -0.119,
+        "edge": -0.117,
         "ev": -0.149,
         "action": "PASS - Miami -3000",
         "books": {
           "DK": {
-            "away": -4500,
-            "home": 1700
+            "away": -4000,
+            "home": 1600
           },
           "FD": {
             "away": -4000,
@@ -617,7 +617,7 @@
           },
           "MGM": {
             "away": -3000,
-            "home": 1700
+            "home": 1600
           },
           "CZR": {
             "away": null,
@@ -638,55 +638,55 @@
         "openHome": -21.5,
         "books": {
           "DK": {
-            "away": 21.5,
-            "home": -21.5
+            "away": 21,
+            "home": -21
           },
           "FD": {
-            "away": 21.5,
-            "home": -21.5
+            "away": 20.5,
+            "home": -20.5
           },
           "MGM": {
-            "away": 21.5,
-            "home": -21.5
+            "away": 21,
+            "home": -21
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - Coastal Carolina +21.5 (DraftKings)"
+        "action": "PLAY - Coastal Carolina +21 (DraftKings)"
       },
       "total": {
         "open": 56.5,
         "books": {
-          "DK": 55.5,
-          "FD": 56.5,
-          "MGM": 56.5,
+          "DK": 54.5,
+          "FD": 54.5,
+          "MGM": 54.5,
           "CZR": null
         },
         "model": 56.33,
-        "action": "PASS - UNDER 56.5"
+        "action": "PASS - OVER 54.5"
       },
       "moneyline": {
-        "away": 1100,
-        "home": -1800,
+        "away": 1050,
+        "home": -1600,
         "awayProb": 0.231,
         "homeProb": 0.769,
-        "edge": -0.146,
-        "ev": -0.188,
-        "action": "PASS - West Virginia -1800",
+        "edge": -0.138,
+        "ev": -0.183,
+        "action": "PASS - West Virginia -1600",
         "books": {
           "DK": {
-            "away": 1000,
-            "home": -1800
+            "away": 900,
+            "home": -1600
           },
           "FD": {
-            "away": 1000,
-            "home": -2100
+            "away": 890,
+            "home": -1700
           },
           "MGM": {
-            "away": 1100,
-            "home": -2000
+            "away": 1050,
+            "home": -1600
           },
           "CZR": {
             "away": null,
@@ -707,55 +707,55 @@
         "openHome": -28.5,
         "books": {
           "DK": {
-            "away": 28.5,
-            "home": -28.5
+            "away": 27.5,
+            "home": -27.5
           },
           "FD": {
             "away": 28.5,
             "home": -28.5
           },
           "MGM": {
-            "away": 28.5,
-            "home": -28.5
+            "away": 28,
+            "home": -28
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - East Carolina +28.5 (DraftKings)"
+        "action": "PLAY - East Carolina +28.5 (FanDuel)"
       },
       "total": {
         "open": 54.5,
         "books": {
-          "DK": 53.5,
-          "FD": 53.5,
-          "MGM": 53.5,
+          "DK": 52.5,
+          "FD": 52.5,
+          "MGM": 52.5,
           "CZR": null
         },
         "model": 54.42,
-        "action": "PASS - OVER 53.5"
+        "action": "PASS - OVER 52.5"
       },
       "moneyline": {
-        "away": 3000,
-        "home": -10000,
+        "away": 2000,
+        "home": -4500,
         "awayProb": 0.1,
         "homeProb": 0.9,
-        "edge": -0.065,
-        "ev": -0.091,
-        "action": "PASS - Alabama -10000",
+        "edge": -0.049,
+        "ev": -0.08,
+        "action": "PASS - Alabama -4500",
         "books": {
           "DK": {
-            "away": 3000,
-            "home": -10000
+            "away": 1800,
+            "home": -5000
           },
           "FD": {
-            "away": 2400,
-            "home": -10000
+            "away": 1600,
+            "home": -4500
           },
           "MGM": {
-            "away": 2800,
-            "home": -10000
+            "away": 2000,
+            "home": -5000
           },
           "CZR": {
             "away": null,
@@ -776,8 +776,8 @@
         "openHome": -6.5,
         "books": {
           "DK": {
-            "away": 6.5,
-            "home": -6.5
+            "away": 6,
+            "home": -6
           },
           "FD": {
             "away": 6.5,
@@ -792,39 +792,39 @@
             "home": null
           }
         },
-        "action": "REVIEW - James Madison -6.5 (DraftKings)"
+        "action": "REVIEW - James Madison -6 (DraftKings)"
       },
       "total": {
         "open": 52.5,
         "books": {
-          "DK": 52.5,
-          "FD": 52.5,
-          "MGM": 52.5,
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 50.5,
           "CZR": null
         },
         "model": 53.96,
-        "action": "PASS - OVER 52.5"
+        "action": "LEAN - OVER 50.5"
       },
       "moneyline": {
-        "away": 225,
-        "home": -258,
+        "away": 190,
+        "home": -225,
         "awayProb": 0.22,
         "homeProb": 0.78,
-        "edge": 0.083,
-        "ev": 0.082,
-        "action": "LEAN - James Madison -258",
+        "edge": 0.115,
+        "ev": 0.127,
+        "action": "PLAY - James Madison -225",
         "books": {
           "DK": {
-            "away": 210,
-            "home": -258
+            "away": 185,
+            "home": -225
           },
           "FD": {
-            "away": 225,
-            "home": -280
+            "away": 190,
+            "home": -230
           },
           "MGM": {
-            "away": 210,
-            "home": -275
+            "away": 185,
+            "home": -225
           },
           "CZR": {
             "away": null,
@@ -866,13 +866,13 @@
       "total": {
         "open": 55.5,
         "books": {
-          "DK": 55.5,
-          "FD": 55.5,
-          "MGM": 55.5,
+          "DK": 56.5,
+          "FD": 56.5,
+          "MGM": 56.5,
           "CZR": null
         },
         "model": 60.47,
-        "action": "LEAN - OVER 55.5"
+        "action": "LEAN - OVER 56.5"
       },
       "moneyline": {
         "away": null,
@@ -914,55 +914,55 @@
         "openHome": -23.5,
         "books": {
           "DK": {
-            "away": 24.5,
-            "home": -24.5
+            "away": 23.5,
+            "home": -23.5
           },
           "FD": {
-            "away": 24.5,
-            "home": -24.5
+            "away": 23.5,
+            "home": -23.5
           },
           "MGM": {
-            "away": 24.5,
-            "home": -24.5
+            "away": 24,
+            "home": -24
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - Ohio +24.5 (DraftKings)"
+        "action": "PASS - Ohio +24"
       },
       "total": {
         "open": 47.5,
         "books": {
-          "DK": 47.5,
-          "FD": 47.5,
-          "MGM": 47.5,
+          "DK": 46.5,
+          "FD": 46.5,
+          "MGM": 46.5,
           "CZR": null
         },
         "model": 51.43,
-        "action": "LEAN - OVER 47.5"
+        "action": "LEAN - OVER 46.5"
       },
       "moneyline": {
-        "away": 1600,
-        "home": -2800,
+        "away": 1400,
+        "home": -2500,
         "awayProb": 0.124,
         "homeProb": 0.876,
-        "edge": -0.059,
-        "ev": -0.093,
-        "action": "PASS - Nebraska -2800",
+        "edge": -0.06,
+        "ev": -0.089,
+        "action": "PASS - Nebraska -2500",
         "books": {
           "DK": {
-            "away": 1300,
-            "home": -2800
+            "away": 1400,
+            "home": -3200
           },
           "FD": {
-            "away": 1600,
-            "home": -4500
+            "away": 1400,
+            "home": -4000
           },
           "MGM": {
-            "away": 1300,
-            "home": -3000
+            "away": 1400,
+            "home": -2500
           },
           "CZR": {
             "away": null,
@@ -983,23 +983,23 @@
         "openHome": -20.5,
         "books": {
           "DK": {
-            "away": 20.5,
-            "home": -20.5
+            "away": 21,
+            "home": -21
           },
           "FD": {
             "away": 20.5,
             "home": -20.5
           },
           "MGM": {
-            "away": 20.5,
-            "home": -20.5
+            "away": 21,
+            "home": -21
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Houston -20.5"
+        "action": "PASS - Oregon State +21"
       },
       "total": {
         "open": 50.5,
@@ -1017,7 +1017,7 @@
         "home": -1600,
         "awayProb": 0.152,
         "homeProb": 0.848,
-        "edge": -0.065,
+        "edge": -0.063,
         "ev": -0.099,
         "action": "PASS - Houston -1600",
         "books": {
@@ -1026,8 +1026,8 @@
             "home": -1800
           },
           "FD": {
-            "away": 1000,
-            "home": -2100
+            "away": 920,
+            "home": -1800
           },
           "MGM": {
             "away": 1000,
@@ -1052,12 +1052,12 @@
         "openHome": -50.5,
         "books": {
           "DK": {
-            "away": 50.5,
-            "home": -50.5
+            "away": 49.5,
+            "home": -49.5
           },
           "FD": {
-            "away": 50.5,
-            "home": -50.5
+            "away": 49.5,
+            "home": -49.5
           },
           "MGM": {
             "away": 50.5,
@@ -1068,7 +1068,7 @@
             "home": null
           }
         },
-        "action": "PASS - Ohio State -50.5"
+        "action": "PASS - Ohio State -49.5"
       },
       "total": {
         "open": 56.5,
@@ -1142,16 +1142,16 @@
       "total": {
         "open": 49.5,
         "books": {
-          "DK": 48.5,
-          "FD": 48.5,
-          "MGM": 48.5,
+          "DK": 47.5,
+          "FD": 47.5,
+          "MGM": 47.5,
           "CZR": null
         },
         "model": 57.22,
-        "action": "REVIEW - OVER 48.5"
+        "action": "REVIEW - OVER 47.5"
       },
       "moneyline": {
-        "away": 580,
+        "away": 590,
         "home": -750,
         "awayProb": null,
         "homeProb": null,
@@ -1160,12 +1160,12 @@
         "action": "NO MARKET",
         "books": {
           "DK": {
-            "away": 575,
-            "home": -850
+            "away": 550,
+            "home": -800
           },
           "FD": {
-            "away": 580,
-            "home": -880
+            "away": 590,
+            "home": -900
           },
           "MGM": {
             "away": 575,
@@ -1190,23 +1190,23 @@
         "openHome": -36.5,
         "books": {
           "DK": {
-            "away": 36.5,
-            "home": -36.5
+            "away": 35.5,
+            "home": -35.5
           },
           "FD": {
             "away": 36.5,
             "home": -36.5
           },
           "MGM": {
-            "away": 36.5,
-            "home": -36.5
+            "away": 35.5,
+            "home": -35.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW - Kent State +36.5 (DraftKings)"
+        "action": "REVIEW - Kent State +36.5 (FanDuel)"
       },
       "total": {
         "open": 53.5,
@@ -1259,16 +1259,16 @@
         "openHome": -7.5,
         "books": {
           "DK": {
-            "away": 7,
-            "home": -7
+            "away": 7.5,
+            "home": -7.5
           },
           "FD": {
             "away": 7.5,
             "home": -7.5
           },
           "MGM": {
-            "away": 7.5,
-            "home": -7.5
+            "away": 7,
+            "home": -7
           },
           "CZR": {
             "away": null,
@@ -1290,24 +1290,24 @@
       },
       "moneyline": {
         "away": 240,
-        "home": -275,
+        "home": -285,
         "awayProb": 0.213,
         "homeProb": 0.787,
-        "edge": 0.079,
-        "ev": 0.073,
-        "action": "LEAN - Auburn -275",
+        "edge": 0.072,
+        "ev": 0.063,
+        "action": "LEAN - Auburn -285",
         "books": {
           "DK": {
-            "away": 240,
-            "home": -298
+            "away": 230,
+            "home": -285
           },
           "FD": {
-            "away": 220,
-            "home": -275
+            "away": 240,
+            "home": -295
           },
           "MGM": {
-            "away": 225,
-            "home": -275
+            "away": 240,
+            "home": -295
           },
           "CZR": {
             "away": null,
@@ -1358,24 +1358,24 @@
         "action": "LEAN - OVER 51.5"
       },
       "moneyline": {
-        "away": 1650,
+        "away": 1550,
         "home": -3000,
         "awayProb": 0.062,
         "homeProb": 0.938,
-        "edge": -0.003,
+        "edge": -0.001,
         "ev": -0.03,
         "action": "PASS - Oregon -3000",
         "books": {
           "DK": {
-            "away": 1600,
-            "home": -4000
+            "away": 1400,
+            "home": -3200
           },
           "FD": {
-            "away": 1400,
+            "away": 1500,
             "home": -4000
           },
           "MGM": {
-            "away": 1650,
+            "away": 1550,
             "home": -3000
           },
           "CZR": {
@@ -1418,26 +1418,26 @@
       "total": {
         "open": 51.5,
         "books": {
-          "DK": 49.5,
-          "FD": 49.5,
-          "MGM": 49.5,
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 50.5,
           "CZR": null
         },
         "model": 54.41,
-        "action": "LEAN - OVER 49.5"
+        "action": "LEAN - OVER 50.5"
       },
       "moneyline": {
         "away": 245,
-        "home": -295,
+        "home": -300,
         "awayProb": 0.257,
         "homeProb": 0.743,
-        "edge": 0.024,
-        "ev": -0.005,
-        "action": "PASS - Cincinnati -295",
+        "edge": 0.022,
+        "ev": -0.009,
+        "action": "PASS - Cincinnati -300",
         "books": {
           "DK": {
-            "away": 240,
-            "home": -298
+            "away": 245,
+            "home": -305
           },
           "FD": {
             "away": 245,
@@ -1445,7 +1445,7 @@
           },
           "MGM": {
             "away": 240,
-            "home": -295
+            "home": -300
           },
           "CZR": {
             "away": null,
@@ -1466,55 +1466,55 @@
         "openHome": -24.5,
         "books": {
           "DK": {
-            "away": 24.5,
-            "home": -24.5
+            "away": 23.5,
+            "home": -23.5
           },
           "FD": {
-            "away": 24.5,
-            "home": -24.5
+            "away": 23.5,
+            "home": -23.5
           },
           "MGM": {
-            "away": 24.5,
-            "home": -24.5
+            "away": 23.5,
+            "home": -23.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Penn State -24.5"
+        "action": "PLAY - Penn State -23.5 (DraftKings)"
       },
       "total": {
         "open": 54.5,
         "books": {
           "DK": 52.5,
           "FD": 52.5,
-          "MGM": 53.5,
+          "MGM": 52.5,
           "CZR": null
         },
         "model": 57.88,
         "action": "PLAY - OVER 52.5"
       },
       "moneyline": {
-        "away": 1600,
-        "home": -3000,
+        "away": 1400,
+        "home": -2400,
         "awayProb": 0.145,
         "homeProb": 0.855,
-        "edge": -0.086,
-        "ev": -0.117,
-        "action": "PASS - Penn State -3000",
+        "edge": -0.076,
+        "ev": -0.11,
+        "action": "PASS - Penn State -2400",
         "books": {
           "DK": {
-            "away": 1600,
-            "home": -4000
+            "away": 1200,
+            "home": -2400
           },
           "FD": {
-            "away": 1400,
-            "home": -4000
+            "away": 1280,
+            "home": -3500
           },
           "MGM": {
-            "away": 1600,
-            "home": -3000
+            "away": 1400,
+            "home": -2500
           },
           "CZR": {
             "away": null,
@@ -1535,29 +1535,29 @@
         "openHome": -30.5,
         "books": {
           "DK": {
-            "away": 30.5,
-            "home": -30.5
+            "away": 29.5,
+            "home": -29.5
           },
           "FD": {
-            "away": 30.5,
-            "home": -30.5
+            "away": 29.5,
+            "home": -29.5
           },
           "MGM": {
-            "away": 30.5,
-            "home": -30.5
+            "away": 29.5,
+            "home": -29.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - Texas -30.5 (DraftKings)"
+        "action": "REVIEW - Texas -29.5 (DraftKings)"
       },
       "total": {
         "open": 60.5,
         "books": {
           "DK": 59.5,
-          "FD": 60.5,
+          "FD": 59.5,
           "MGM": 59.5,
           "CZR": null
         },
@@ -1565,25 +1565,25 @@
         "action": "PASS - UNDER 59.5"
       },
       "moneyline": {
-        "away": 3000,
-        "home": -10000,
+        "away": 2500,
+        "home": -8000,
         "awayProb": 0.076,
         "homeProb": 0.924,
-        "edge": -0.041,
-        "ev": -0.067,
-        "action": "PASS - Texas -10000",
+        "edge": -0.037,
+        "ev": -0.065,
+        "action": "PASS - Texas -8000",
         "books": {
           "DK": {
-            "away": 3000,
-            "home": -10000
+            "away": 2200,
+            "home": -8000
           },
           "FD": {
             "away": 2400,
             "home": -10000
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 2500,
+            "home": -10000
           },
           "CZR": {
             "away": null,
@@ -1604,28 +1604,28 @@
         "openHome": -9.5,
         "books": {
           "DK": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 7.5,
+            "home": -7.5
           },
           "FD": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 7.5,
+            "home": -7.5
           },
           "MGM": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 7.5,
+            "home": -7.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - Tulane +9.5 (DraftKings)"
+        "action": "PASS - Tulane +7.5"
       },
       "total": {
         "open": 50.5,
         "books": {
-          "DK": 50.5,
+          "DK": 51.5,
           "FD": 51.5,
           "MGM": 51.5,
           "CZR": null
@@ -1634,25 +1634,25 @@
         "action": "LEAN - OVER 51.5"
       },
       "moneyline": {
-        "away": 300,
-        "home": -350,
+        "away": 270,
+        "home": -320,
         "awayProb": 0.346,
         "homeProb": 0.654,
-        "edge": -0.097,
-        "ev": -0.159,
-        "action": "PASS - Duke -350",
+        "edge": -0.081,
+        "ev": -0.141,
+        "action": "PASS - Duke -320",
         "books": {
           "DK": {
-            "away": 300,
-            "home": -380
+            "away": 260,
+            "home": -325
           },
           "FD": {
-            "away": 280,
-            "home": -360
+            "away": 260,
+            "home": -320
           },
           "MGM": {
-            "away": 275,
-            "home": -350
+            "away": 270,
+            "home": -325
           },
           "CZR": {
             "away": null,
@@ -1673,30 +1673,30 @@
         "openHome": 14,
         "books": {
           "DK": {
-            "away": -14,
-            "home": 14
+            "away": -13.5,
+            "home": 13.5
           },
           "FD": {
             "away": -13.5,
             "home": 13.5
           },
           "MGM": {
-            "away": -14,
-            "home": 14
+            "away": -13.5,
+            "home": 13.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "REVIEW - Tulsa +14 (DraftKings)"
+        "action": "REVIEW - Tulsa +13.5 (DraftKings)"
       },
       "total": {
         "open": 59.5,
         "books": {
           "DK": 59.5,
           "FD": 59.5,
-          "MGM": 59.5,
+          "MGM": 58.5,
           "CZR": null
         },
         "model": 50.61,
@@ -1704,10 +1704,10 @@
       },
       "moneyline": {
         "away": -550,
-        "home": 460,
+        "home": 440,
         "awayProb": 0.309,
         "homeProb": 0.691,
-        "edge": -0.512,
+        "edge": -0.509,
         "ev": -0.634,
         "action": "PASS - Oklahoma State -550",
         "books": {
@@ -1716,8 +1716,8 @@
             "home": 425
           },
           "FD": {
-            "away": -650,
-            "home": 460
+            "away": -550,
+            "home": 440
           },
           "MGM": {
             "away": -550,
@@ -1763,22 +1763,22 @@
       "total": {
         "open": 46.5,
         "books": {
-          "DK": 45.5,
-          "FD": 45.5,
-          "MGM": 46.5,
+          "DK": 44.5,
+          "FD": 44.5,
+          "MGM": 44.5,
           "CZR": null
         },
         "model": 45.06,
-        "action": "PASS - UNDER 45.5"
+        "action": "PASS - OVER 44.5"
       },
       "moneyline": {
         "away": 5000,
-        "home": -100000,
+        "home": -50000,
         "awayProb": 0.093,
         "homeProb": 0.907,
         "edge": -0.074,
-        "ev": -0.092,
-        "action": "PASS - Iowa -100000",
+        "ev": -0.091,
+        "action": "PASS - Iowa -50000",
         "books": {
           "DK": {
             "away": 5000,
@@ -1789,8 +1789,8 @@
             "home": null
           },
           "MGM": {
-            "away": null,
-            "home": null
+            "away": 5000,
+            "home": -50000
           },
           "CZR": {
             "away": null,
@@ -1819,8 +1819,8 @@
             "home": -3.5
           },
           "MGM": {
-            "away": 3.5,
-            "home": -3.5
+            "away": 3,
+            "home": -3
           },
           "CZR": {
             "away": null,
@@ -1841,24 +1841,24 @@
         "action": "PASS - UNDER 46.5"
       },
       "moneyline": {
-        "away": 136,
-        "home": -154,
+        "away": 130,
+        "home": -155,
         "awayProb": 0.297,
         "homeProb": 0.703,
-        "edge": 0.114,
-        "ev": 0.159,
-        "action": "PLAY - Colorado State -154",
+        "edge": 0.118,
+        "ev": 0.156,
+        "action": "PLAY - Colorado State -155",
         "books": {
           "DK": {
-            "away": 136,
-            "home": -162
+            "away": 130,
+            "home": -155
           },
           "FD": {
-            "away": 128,
-            "home": -154
+            "away": 130,
+            "home": -156
           },
           "MGM": {
-            "away": 135,
+            "away": 130,
             "home": -160
           },
           "CZR": {
@@ -1880,55 +1880,55 @@
         "openHome": -9.5,
         "books": {
           "DK": {
-            "away": 10.5,
-            "home": -10.5
+            "away": 11.5,
+            "home": -11.5
           },
           "FD": {
-            "away": 9.5,
-            "home": -9.5
+            "away": 11.5,
+            "home": -11.5
           },
           "MGM": {
-            "away": 10.5,
-            "home": -10.5
+            "away": 11,
+            "home": -11
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - Memphis -9.5 (FanDuel)"
+        "action": "PASS - Memphis -11"
       },
       "total": {
         "open": 53.5,
         "books": {
-          "DK": 52.5,
+          "DK": 53.5,
           "FD": 52.5,
-          "MGM": 52.5,
+          "MGM": 53.5,
           "CZR": null
         },
         "model": 53.85,
-        "action": "PASS - OVER 52.5"
+        "action": "PASS - OVER 53.5"
       },
       "moneyline": {
-        "away": 310,
-        "home": -395,
+        "away": 350,
+        "home": -430,
         "awayProb": 0.178,
         "homeProb": 0.822,
-        "edge": 0.056,
-        "ev": 0.03,
-        "action": "LEAN - Memphis -395",
+        "edge": 0.04,
+        "ev": 0.013,
+        "action": "LEAN - Memphis -430",
         "books": {
           "DK": {
-            "away": 310,
-            "home": -395
+            "away": 350,
+            "home": -455
           },
           "FD": {
-            "away": 310,
-            "home": -400
+            "away": 330,
+            "home": -430
           },
           "MGM": {
-            "away": 310,
-            "home": -400
+            "away": 340,
+            "home": -450
           },
           "CZR": {
             "away": null,
@@ -2018,12 +2018,12 @@
         "openHome": -41.5,
         "books": {
           "DK": {
-            "away": 41.5,
-            "home": -41.5
+            "away": 40.5,
+            "home": -40.5
           },
           "FD": {
-            "away": 41.5,
-            "home": -41.5
+            "away": 40.5,
+            "home": -40.5
           },
           "MGM": {
             "away": 41,
@@ -2034,14 +2034,14 @@
             "home": null
           }
         },
-        "action": "REVIEW - Missouri State +41.5 (DraftKings)"
+        "action": "REVIEW - Missouri State +41 (BetMGM)"
       },
       "total": {
         "open": 53.5,
         "books": {
           "DK": 53.5,
           "FD": 53.5,
-          "MGM": 53.5,
+          "MGM": 54.5,
           "CZR": null
         },
         "model": 55.03,
@@ -2109,7 +2109,7 @@
         "open": 53.5,
         "books": {
           "DK": 53.5,
-          "FD": 53.5,
+          "FD": 54.5,
           "MGM": 53.5,
           "CZR": null
         },
@@ -2117,21 +2117,21 @@
         "action": "PASS - OVER 53.5"
       },
       "moneyline": {
-        "away": 650,
+        "away": 600,
         "home": -800,
         "awayProb": 0.165,
         "homeProb": 0.835,
-        "edge": -0.033,
+        "edge": -0.025,
         "ev": -0.061,
         "action": "PASS - Troy -800",
         "books": {
           "DK": {
-            "away": 650,
-            "home": -1000
+            "away": 575,
+            "home": -850
           },
           "FD": {
-            "away": 640,
-            "home": -1000
+            "away": 590,
+            "home": -900
           },
           "MGM": {
             "away": 600,
@@ -2156,55 +2156,55 @@
         "openHome": -10.5,
         "books": {
           "DK": {
-            "away": 10.5,
-            "home": -10.5
+            "away": 10,
+            "home": -10
           },
           "FD": {
             "away": 10.5,
             "home": -10.5
           },
           "MGM": {
-            "away": 10.5,
-            "home": -10.5
+            "away": 10,
+            "home": -10
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - LSU -10.5"
+        "action": "PASS - LSU -10"
       },
       "total": {
         "open": 51.5,
         "books": {
-          "DK": 51.5,
-          "FD": 51.5,
-          "MGM": 51.5,
+          "DK": 50.5,
+          "FD": 50.5,
+          "MGM": 50.5,
           "CZR": null
         },
         "model": 48.16,
-        "action": "LEAN - UNDER 51.5"
+        "action": "PASS - UNDER 50.5"
       },
       "moneyline": {
         "away": 320,
-        "home": -380,
+        "home": -375,
         "awayProb": 0.33,
         "homeProb": 0.67,
-        "edge": -0.099,
-        "ev": -0.154,
-        "action": "PASS - LSU -380",
+        "edge": -0.098,
+        "ev": -0.152,
+        "action": "PASS - LSU -375",
         "books": {
           "DK": {
-            "away": 300,
-            "home": -380
+            "away": 320,
+            "home": -410
           },
           "FD": {
-            "away": 320,
-            "home": -420
+            "away": 315,
+            "home": -400
           },
           "MGM": {
-            "away": 320,
-            "home": -425
+            "away": 310,
+            "home": -375
           },
           "CZR": {
             "away": null,
@@ -2315,34 +2315,34 @@
       "total": {
         "open": 48.5,
         "books": {
-          "DK": 48.5,
-          "FD": 48.5,
-          "MGM": 48.5,
+          "DK": 49.5,
+          "FD": 49.5,
+          "MGM": 49.5,
           "CZR": null
         },
         "model": 46.92,
-        "action": "PASS - UNDER 48.5"
+        "action": "PASS - UNDER 49.5"
       },
       "moneyline": {
-        "away": 2500,
+        "away": 2000,
         "home": -5000,
         "awayProb": 0.1,
         "homeProb": 0.9,
-        "edge": -0.056,
+        "edge": -0.053,
         "ev": -0.082,
         "action": "PASS - Michigan -5000",
         "books": {
           "DK": {
-            "away": 1800,
-            "home": -5000
+            "away": 2000,
+            "home": -6500
           },
           "FD": {
-            "away": 2200,
-            "home": -8000
+            "away": 2000,
+            "home": -7000
           },
           "MGM": {
-            "away": 2500,
-            "home": -10000
+            "away": 1900,
+            "home": -5000
           },
           "CZR": {
             "away": null,
@@ -2363,23 +2363,23 @@
         "openHome": -27.5,
         "books": {
           "DK": {
-            "away": 27.5,
-            "home": -27.5
+            "away": 26.5,
+            "home": -26.5
           },
           "FD": {
             "away": 26.5,
             "home": -26.5
           },
           "MGM": {
-            "away": 27.5,
-            "home": -27.5
+            "away": 26.5,
+            "home": -26.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - Florida Atlantic +27.5"
+        "action": "PASS - Florida -26.5"
       },
       "total": {
         "open": 59.5,
@@ -2394,16 +2394,16 @@
       },
       "moneyline": {
         "away": 1800,
-        "home": -4500,
+        "home": -2800,
         "awayProb": 0.111,
         "homeProb": 0.889,
-        "edge": -0.058,
-        "ev": -0.091,
-        "action": "PASS - Florida -4500",
+        "edge": -0.052,
+        "ev": -0.079,
+        "action": "PASS - Florida -2800",
         "books": {
           "DK": {
-            "away": 1800,
-            "home": -5000
+            "away": 1300,
+            "home": -2800
           },
           "FD": {
             "away": 1600,
@@ -2432,8 +2432,8 @@
         "openHome": -10.5,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 10.5,
+            "home": -10.5
           },
           "FD": {
             "away": 10.5,
@@ -2448,13 +2448,13 @@
             "home": null
           }
         },
-        "action": "PLAY - New Mexico -10.5 (FanDuel)"
+        "action": "PLAY - New Mexico -10.5 (DraftKings)"
       },
       "total": {
         "open": 46.5,
         "books": {
-          "DK": null,
-          "FD": 46.5,
+          "DK": 46.5,
+          "FD": 47.5,
           "MGM": 46.5,
           "CZR": null
         },
@@ -2462,25 +2462,25 @@
         "action": "LEAN - OVER 46.5"
       },
       "moneyline": {
-        "away": 333,
+        "away": 340,
         "home": -420,
         "awayProb": 0.272,
         "homeProb": 0.728,
-        "edge": -0.047,
+        "edge": -0.052,
         "ev": -0.099,
         "action": "PASS - New Mexico -420",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 340,
+            "home": -440
           },
           "FD": {
-            "away": 320,
+            "away": 330,
             "home": -420
           },
           "MGM": {
-            "away": 333,
-            "home": -425
+            "away": 340,
+            "home": -450
           },
           "CZR": {
             "away": null,
@@ -2501,8 +2501,8 @@
         "openHome": 3.25,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -3,
+            "home": 3
           },
           "FD": {
             "away": -3.5,
@@ -2522,34 +2522,34 @@
       "total": {
         "open": 58.5,
         "books": {
-          "DK": null,
-          "FD": 58.5,
-          "MGM": 58.5,
+          "DK": 55.5,
+          "FD": 56.5,
+          "MGM": 55.5,
           "CZR": null
         },
         "model": 56.33,
-        "action": "PASS - UNDER 58.5"
+        "action": "PASS - OVER 55.5"
       },
       "moneyline": {
-        "away": -142,
-        "home": 120,
+        "away": -150,
+        "home": 130,
         "awayProb": 0.518,
         "homeProb": 0.482,
-        "edge": -0.045,
-        "ev": -0.117,
-        "action": "PASS - UNLV -142",
+        "edge": -0.06,
+        "ev": -0.136,
+        "action": "PASS - UNLV -150",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -155,
+            "home": 130
           },
           "FD": {
-            "away": -142,
-            "home": 118
+            "away": -152,
+            "home": 126
           },
           "MGM": {
-            "away": -145,
-            "home": 120
+            "away": -150,
+            "home": 125
           },
           "CZR": {
             "away": null,
@@ -2570,28 +2570,28 @@
         "openHome": 1.5,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -2.5,
+            "home": 2.5
           },
           "FD": {
-            "away": -1.5,
-            "home": 1.5
+            "away": -2.5,
+            "home": 2.5
           },
           "MGM": {
-            "away": -1.5,
-            "home": 1.5
+            "away": -2.5,
+            "home": 2.5
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PLAY - California +1.5 (FanDuel)"
+        "action": "REVIEW - California +2.5 (DraftKings)"
       },
       "total": {
         "open": 53.5,
         "books": {
-          "DK": null,
+          "DK": 53.5,
           "FD": 53.5,
           "MGM": 53.5,
           "CZR": null
@@ -2600,25 +2600,25 @@
         "action": "PASS - UNDER 53.5"
       },
       "moneyline": {
-        "away": -120,
-        "home": 104,
+        "away": -124,
+        "home": 114,
         "awayProb": 0.248,
         "homeProb": 0.752,
-        "edge": -0.278,
-        "ev": -0.545,
-        "action": "PASS - UCLA -120",
+        "edge": -0.294,
+        "ev": -0.551,
+        "action": "PASS - UCLA -124",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -135,
+            "home": 114
           },
           "FD": {
-            "away": -125,
-            "home": 104
+            "away": -124,
+            "home": 106
           },
           "MGM": {
-            "away": -120,
-            "home": 100
+            "away": -130,
+            "home": 110
           },
           "CZR": {
             "away": null,
@@ -2639,55 +2639,55 @@
         "openHome": 2.5,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -1.5,
+            "home": 1.5
           },
           "FD": {
-            "away": -2.5,
-            "home": 2.5
+            "away": -1.5,
+            "home": 1.5
           },
           "MGM": {
-            "away": -2.5,
-            "home": 2.5
+            "away": -1,
+            "home": 1
           },
           "CZR": {
             "away": null,
             "home": null
           }
         },
-        "action": "PASS - WKU -2.5"
+        "action": "PASS - WKU -1"
       },
       "total": {
         "open": 52.5,
         "books": {
-          "DK": null,
-          "FD": 52.5,
-          "MGM": 52.5,
+          "DK": 51.5,
+          "FD": 51.5,
+          "MGM": 51.5,
           "CZR": null
         },
         "model": 50.93,
-        "action": "PASS - UNDER 52.5"
+        "action": "PASS - UNDER 51.5"
       },
       "moneyline": {
-        "away": -135,
-        "home": 115,
+        "away": -108,
+        "home": -108,
         "awayProb": 0.576,
         "homeProb": 0.424,
-        "edge": 0.025,
-        "ev": 0.002,
-        "action": "LEAN - WKU -135",
+        "edge": 0.075,
+        "ev": 0.109,
+        "action": "PLAY - WKU -108",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -108,
+            "home": -112
           },
           "FD": {
-            "away": -138,
-            "home": 115
+            "away": -111,
+            "home": -108
           },
           "MGM": {
-            "away": -135,
-            "home": 110
+            "away": -110,
+            "home": -108
           },
           "CZR": {
             "away": null,
@@ -2708,8 +2708,8 @@
         "openHome": -23.5,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 23.5,
+            "home": -23.5
           },
           "FD": {
             "away": 23.5,
@@ -2729,7 +2729,7 @@
       "total": {
         "open": 50.5,
         "books": {
-          "DK": null,
+          "DK": 51.5,
           "FD": 50.5,
           "MGM": 50.5,
           "CZR": null
@@ -2738,24 +2738,24 @@
         "action": "PASS - UNDER 50.5"
       },
       "moneyline": {
-        "away": 1500,
-        "home": -3000,
+        "away": 1300,
+        "home": -2400,
         "awayProb": 0.149,
         "homeProb": 0.851,
-        "edge": -0.084,
-        "ev": -0.121,
-        "action": "PASS - Washington -3000",
+        "edge": -0.076,
+        "ev": -0.113,
+        "action": "PASS - Washington -2400",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1200,
+            "home": -2400
           },
           "FD": {
-            "away": 1280,
-            "home": -3500
+            "away": 1160,
+            "home": -2800
           },
           "MGM": {
-            "away": 1500,
+            "away": 1300,
             "home": -3000
           },
           "CZR": {
@@ -2777,8 +2777,8 @@
         "openHome": -6.5,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 6.5,
+            "home": -6.5
           },
           "FD": {
             "away": 6.5,
@@ -2798,30 +2798,30 @@
       "total": {
         "open": 55.5,
         "books": {
-          "DK": null,
-          "FD": 55.5,
+          "DK": 54.5,
+          "FD": 54.5,
           "MGM": 55.5,
           "CZR": null
         },
         "model": 53.14,
-        "action": "PASS - UNDER 55.5"
+        "action": "PASS - UNDER 54.5"
       },
       "moneyline": {
         "away": 220,
-        "home": -265,
+        "home": -240,
         "awayProb": 0.165,
         "homeProb": 0.835,
-        "edge": 0.136,
-        "ev": 0.15,
-        "action": "PLAY - Ole Miss -265",
+        "edge": 0.142,
+        "ev": 0.183,
+        "action": "PLAY - Ole Miss -240",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 220,
+            "home": -270
           },
           "FD": {
-            "away": 215,
-            "home": -265
+            "away": 198,
+            "home": -240
           },
           "MGM": {
             "away": 220,
@@ -2846,8 +2846,8 @@
         "openHome": -20.5,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 20.5,
+            "home": -20.5
           },
           "FD": {
             "away": 20.5,
@@ -2862,35 +2862,35 @@
             "home": null
           }
         },
-        "action": "PLAY - Wisconsin +20.5 (FanDuel)"
+        "action": "PLAY - Wisconsin +20.5 (DraftKings)"
       },
       "total": {
         "open": 47.5,
         "books": {
-          "DK": null,
-          "FD": 47.5,
-          "MGM": 47.5,
+          "DK": 46.5,
+          "FD": 46.5,
+          "MGM": 46.5,
           "CZR": null
         },
         "model": 46.21,
-        "action": "PASS - UNDER 47.5"
+        "action": "PASS - UNDER 46.5"
       },
       "moneyline": {
-        "away": 1000,
+        "away": 1100,
         "home": -1400,
         "awayProb": 0.062,
         "homeProb": 0.938,
-        "edge": 0.028,
+        "edge": 0.025,
         "ev": 0.005,
         "action": "LEAN - Notre Dame -1400",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": 1100,
+            "home": -2100
           },
           "FD": {
-            "away": 1000,
-            "home": -2100
+            "away": 980,
+            "home": -1800
           },
           "MGM": {
             "away": 950,
@@ -2915,12 +2915,12 @@
         "openHome": 3.25,
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -3,
+            "home": 3
           },
           "FD": {
-            "away": -3.5,
-            "home": 3.5
+            "away": -2.5,
+            "home": 2.5
           },
           "MGM": {
             "away": -3,
@@ -2931,12 +2931,12 @@
             "home": null
           }
         },
-        "action": "PASS - Florida State +3.5"
+        "action": "PASS - Florida State +3"
       },
       "total": {
         "open": 53.5,
         "books": {
-          "DK": null,
+          "DK": 53.5,
           "FD": 53.5,
           "MGM": 53.5,
           "CZR": null
@@ -2945,25 +2945,25 @@
         "action": "PASS - OVER 53.5"
       },
       "moneyline": {
-        "away": -160,
-        "home": 135,
+        "away": -150,
+        "home": 130,
         "awayProb": 0.303,
         "homeProb": 0.697,
-        "edge": -0.288,
-        "ev": -0.508,
-        "action": "PASS - SMU -160",
+        "edge": -0.274,
+        "ev": -0.495,
+        "action": "PASS - SMU -150",
         "books": {
           "DK": {
-            "away": null,
-            "home": null
+            "away": -155,
+            "home": 130
           },
           "FD": {
-            "away": -162,
-            "home": 134
+            "away": -150,
+            "home": 125
           },
           "MGM": {
-            "away": -160,
-            "home": 135
+            "away": -150,
+            "home": 125
           },
           "CZR": {
             "away": null,
