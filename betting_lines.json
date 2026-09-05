@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 1,
   "status": "live",
-  "updated": "2026-09-05T11:44:32+00:00",
+  "updated": "2026-09-05T11:46:50+00:00",
   "games": [
     {
       "date": "9/3",
@@ -1151,8 +1151,8 @@
         "action": "REVIEW - OVER 47.5"
       },
       "moneyline": {
-        "away": 590,
-        "home": -750,
+        "away": 600,
+        "home": -800,
         "awayProb": null,
         "homeProb": null,
         "edge": null,
@@ -1168,8 +1168,8 @@
             "home": -900
           },
           "MGM": {
-            "away": 575,
-            "home": -750
+            "away": 600,
+            "home": -800
           },
           "CZR": {
             "away": null,
