@@ -3,7 +3,7 @@
   "season": 2026,
   "week": 2,
   "status": "live",
-  "updated": "2026-09-12T14:59:53+00:00",
+  "updated": "2026-09-12T15:02:04+00:00",
   "games": [
     {
       "date": "9/12",
@@ -33,7 +33,7 @@
             "home": null
           }
         },
-        "action": "PASS - App State +6.5"
+        "action": "PASS \u2014 App State +6.5"
       },
       "total": {
         "open": 55.5,
@@ -43,8 +43,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 56.7,
+        "action": "PASS \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": 205,
@@ -102,7 +102,7 @@
             "home": null
           }
         },
-        "action": "PASS - Texas A&M -14.5"
+        "action": "PASS \u2014 Texas A&M -14.5"
       },
       "total": {
         "open": 50.5,
@@ -112,8 +112,8 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 55,
+        "action": "LEAN \u2014 OVER 50.5"
       },
       "moneyline": {
         "away": 550,
@@ -171,7 +171,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Michigan +5.5 (DraftKings)"
+        "action": "PLAY \u2014 Michigan +5.5 (DraftKings)"
       },
       "total": {
         "open": 43.5,
@@ -181,8 +181,8 @@
           "MGM": 43.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 47.7,
+        "action": "LEAN \u2014 OVER 43.5"
       },
       "moneyline": {
         "away": -205,
@@ -240,7 +240,7 @@
             "home": null
           }
         },
-        "action": "PASS - Old Dominion +19.5"
+        "action": "PASS \u2014 Old Dominion +19.5"
       },
       "total": {
         "open": 47.5,
@@ -250,8 +250,8 @@
           "MGM": 47.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 51.5,
+        "action": "LEAN \u2014 OVER 47.5"
       },
       "moneyline": {
         "away": 825,
@@ -309,7 +309,7 @@
             "home": null
           }
         },
-        "action": "PASS - Oklahoma State +23.5"
+        "action": "PASS \u2014 Oklahoma State +23.5"
       },
       "total": {
         "open": 54.5,
@@ -319,8 +319,8 @@
           "MGM": 54.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 51.5,
+        "action": "LEAN \u2014 UNDER 54.5"
       },
       "moneyline": {
         "away": -2000,
@@ -378,7 +378,7 @@
             "home": null
           }
         },
-        "action": "REVIEW - Temple +24 (BetMGM)"
+        "action": "REVIEW \u2014 Temple +24 (BetMGM)"
       },
       "total": {
         "open": 50.5,
@@ -388,8 +388,8 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 54.1,
+        "action": "LEAN \u2014 OVER 50.5"
       },
       "moneyline": {
         "away": -2500,
@@ -447,7 +447,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Army -3 (BetMGM)"
+        "action": "PLAY \u2014 Army -3 (BetMGM)"
       },
       "total": {
         "open": 45.5,
@@ -457,8 +457,8 @@
           "MGM": 45.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 54.7,
+        "action": "REVIEW \u2014 OVER 45.5"
       },
       "moneyline": {
         "away": 140,
@@ -516,7 +516,7 @@
             "home": null
           }
         },
-        "action": "PASS - Purdue +3"
+        "action": "PASS \u2014 Purdue +3"
       },
       "total": {
         "open": 50.5,
@@ -526,8 +526,8 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 50.4,
+        "action": "PASS \u2014 UNDER 50.5"
       },
       "moneyline": {
         "away": -148,
@@ -585,7 +585,7 @@
             "home": null
           }
         },
-        "action": "PASS - Kansas State -17.5"
+        "action": "PASS \u2014 Kansas State -17.5"
       },
       "total": {
         "open": 49.5,
@@ -595,8 +595,8 @@
           "MGM": 49.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 50.7,
+        "action": "PASS \u2014 OVER 49.5"
       },
       "moneyline": {
         "away": 740,
@@ -654,7 +654,7 @@
             "home": null
           }
         },
-        "action": "PASS - WKU +40.5"
+        "action": "PASS \u2014 WKU +40.5"
       },
       "total": {
         "open": 55.5,
@@ -664,8 +664,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 52.3,
+        "action": "LEAN \u2014 UNDER 55.5"
       },
       "moneyline": {
         "away": null,
@@ -723,7 +723,7 @@
             "home": null
           }
         },
-        "action": "PASS - Kentucky +10.5"
+        "action": "PASS \u2014 Kentucky +10.5"
       },
       "total": {
         "open": 48.5,
@@ -733,8 +733,8 @@
           "MGM": 48.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 51.3,
+        "action": "PASS \u2014 OVER 48.5"
       },
       "moneyline": {
         "away": -365,
@@ -792,7 +792,7 @@
             "home": null
           }
         },
-        "action": "PASS - BYU -7"
+        "action": "PASS \u2014 BYU -7"
       },
       "total": {
         "open": 48.5,
@@ -802,8 +802,8 @@
           "MGM": 48.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 54.1,
+        "action": "PLAY \u2014 OVER 48.5"
       },
       "moneyline": {
         "away": 230,
@@ -861,7 +861,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Syracuse -3.5 (DraftKings)"
+        "action": "PLAY \u2014 Syracuse -3.5 (DraftKings)"
       },
       "total": {
         "open": 56.5,
@@ -871,8 +871,8 @@
           "MGM": 56.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 53.4,
+        "action": "LEAN \u2014 UNDER 56.5"
       },
       "moneyline": {
         "away": 150,
@@ -930,7 +930,7 @@
             "home": null
           }
         },
-        "action": "PASS - Illinois -5.5"
+        "action": "PASS \u2014 Illinois -5.5"
       },
       "total": {
         "open": 51.5,
@@ -940,8 +940,8 @@
           "MGM": 51.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 55.1,
+        "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
         "away": 200,
@@ -999,7 +999,7 @@
             "home": null
           }
         },
-        "action": "PASS - Michigan State -17"
+        "action": "PASS \u2014 Michigan State -17"
       },
       "total": {
         "open": 49.5,
@@ -1009,8 +1009,8 @@
           "MGM": 49.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 52,
+        "action": "PASS \u2014 OVER 49.5"
       },
       "moneyline": {
         "away": 650,
@@ -1078,7 +1078,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 54,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -1147,7 +1147,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 55.7,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -1206,7 +1206,7 @@
             "home": null
           }
         },
-        "action": "REVIEW - Minnesota +1.5 (DraftKings)"
+        "action": "REVIEW \u2014 Minnesota +1.5 (DraftKings)"
       },
       "total": {
         "open": 54.5,
@@ -1216,8 +1216,8 @@
           "MGM": 54.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 53.8,
+        "action": "PASS \u2014 UNDER 54.5"
       },
       "moneyline": {
         "away": -108,
@@ -1275,7 +1275,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Rice +45.5 (DraftKings)"
+        "action": "PLAY \u2014 Rice +45.5 (DraftKings)"
       },
       "total": {
         "open": 55.5,
@@ -1285,8 +1285,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 57.1,
+        "action": "PASS \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": null,
@@ -1344,7 +1344,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Pittsburgh -7 (DraftKings)"
+        "action": "PLAY \u2014 Pittsburgh -7 (DraftKings)"
       },
       "total": {
         "open": 55.5,
@@ -1354,8 +1354,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 56.7,
+        "action": "PASS \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": 235,
@@ -1413,7 +1413,7 @@
             "home": null
           }
         },
-        "action": "REVIEW - UTSA +2.5 (DraftKings)"
+        "action": "REVIEW \u2014 UTSA +2.5 (DraftKings)"
       },
       "total": {
         "open": 66.5,
@@ -1423,8 +1423,8 @@
           "MGM": 66.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 64.2,
+        "action": "PASS \u2014 UNDER 66.5"
       },
       "moneyline": {
         "away": 105,
@@ -1482,7 +1482,7 @@
             "home": null
           }
         },
-        "action": "PASS - Washington -27.5"
+        "action": "PASS \u2014 Washington -27.5"
       },
       "total": {
         "open": 55.5,
@@ -1492,8 +1492,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 56.2,
+        "action": "PASS \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": 2000,
@@ -1551,7 +1551,7 @@
             "home": null
           }
         },
-        "action": "PASS - North Texas +3.5"
+        "action": "PASS \u2014 North Texas +3.5"
       },
       "total": {
         "open": 58.5,
@@ -1561,8 +1561,8 @@
           "MGM": 58.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 63.8,
+        "action": "PLAY \u2014 OVER 58.5"
       },
       "moneyline": {
         "away": -162,
@@ -1630,7 +1630,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 57.8,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -1699,7 +1699,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 54.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -1758,7 +1758,7 @@
             "home": null
           }
         },
-        "action": "PASS - Jax State +2.5"
+        "action": "PASS \u2014 Jax State +2.5"
       },
       "total": {
         "open": 49.5,
@@ -1768,8 +1768,8 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 53.3,
+        "action": "LEAN \u2014 OVER 49.5"
       },
       "moneyline": {
         "away": 110,
@@ -1827,7 +1827,7 @@
             "home": null
           }
         },
-        "action": "PASS - Memphis +9.5"
+        "action": "PASS \u2014 Memphis +9.5"
       },
       "total": {
         "open": 55.5,
@@ -1837,8 +1837,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 56,
+        "action": "PASS \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": 295,
@@ -1896,7 +1896,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Bowling Green +30.5 (DraftKings)"
+        "action": "PLAY \u2014 Bowling Green +30.5 (DraftKings)"
       },
       "total": {
         "open": 49.5,
@@ -1906,8 +1906,8 @@
           "MGM": 49.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 49.5,
+        "action": "PASS \u2014 NO EDGE 49.5"
       },
       "moneyline": {
         "away": 3500,
@@ -1965,7 +1965,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Kennesaw State -7.5 (FanDuel)"
+        "action": "PLAY \u2014 Kennesaw State -7.5 (FanDuel)"
       },
       "total": {
         "open": 54.5,
@@ -1975,8 +1975,8 @@
           "MGM": 54.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 53.4,
+        "action": "PASS \u2014 UNDER 54.5"
       },
       "moneyline": {
         "away": 270,
@@ -2044,7 +2044,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 56.7,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -2103,7 +2103,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Tulane -9.5 (DraftKings)"
+        "action": "PLAY \u2014 Tulane -9.5 (DraftKings)"
       },
       "total": {
         "open": 49.5,
@@ -2113,8 +2113,8 @@
           "MGM": 49.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 52.8,
+        "action": "LEAN \u2014 OVER 49.5"
       },
       "moneyline": {
         "away": 300,
@@ -2172,7 +2172,7 @@
             "home": null
           }
         },
-        "action": "REVIEW - Georgia Tech +12.5 (DraftKings)"
+        "action": "REVIEW \u2014 Georgia Tech +12.5 (DraftKings)"
       },
       "total": {
         "open": 55.5,
@@ -2182,8 +2182,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 61.8,
+        "action": "PLAY \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": -475,
@@ -2241,7 +2241,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Sam Houston +12.5 (DraftKings)"
+        "action": "PLAY \u2014 Sam Houston +12.5 (DraftKings)"
       },
       "total": {
         "open": 51.5,
@@ -2251,8 +2251,8 @@
           "MGM": 51.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 55,
+        "action": "LEAN \u2014 OVER 51.5"
       },
       "moneyline": {
         "away": -490,
@@ -2310,7 +2310,7 @@
             "home": null
           }
         },
-        "action": "PASS - San Diego State +12.5"
+        "action": "PASS \u2014 San Diego State +12.5"
       },
       "total": {
         "open": 54.5,
@@ -2320,8 +2320,8 @@
           "MGM": 54.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 46.5,
+        "action": "REVIEW \u2014 UNDER 54.5"
       },
       "moneyline": {
         "away": 400,
@@ -2379,7 +2379,7 @@
             "home": null
           }
         },
-        "action": "PASS - Georgia Southern +19.5"
+        "action": "PASS \u2014 Georgia Southern +19.5"
       },
       "total": {
         "open": 55.5,
@@ -2389,8 +2389,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 54.8,
+        "action": "PASS \u2014 UNDER 55.5"
       },
       "moneyline": {
         "away": 825,
@@ -2448,7 +2448,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Iowa -14 (DraftKings)"
+        "action": "PLAY \u2014 Iowa -14 (DraftKings)"
       },
       "total": {
         "open": 41.5,
@@ -2458,8 +2458,8 @@
           "MGM": 41.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 48.6,
+        "action": "REVIEW \u2014 OVER 41.5"
       },
       "moneyline": {
         "away": 480,
@@ -2517,7 +2517,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Louisiana Tech +35.5 (DraftKings)"
+        "action": "PLAY \u2014 Louisiana Tech +35.5 (DraftKings)"
       },
       "total": {
         "open": 55.5,
@@ -2527,8 +2527,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 48.9,
+        "action": "PLAY \u2014 UNDER 55.5"
       },
       "moneyline": {
         "away": 5000,
@@ -2586,7 +2586,7 @@
             "home": null
           }
         },
-        "action": "PASS - Navy -4"
+        "action": "PASS \u2014 Navy -4"
       },
       "total": {
         "open": 58.5,
@@ -2596,8 +2596,8 @@
           "MGM": 58.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 57.9,
+        "action": "PASS \u2014 UNDER 58.5"
       },
       "moneyline": {
         "away": -194,
@@ -2655,7 +2655,7 @@
             "home": null
           }
         },
-        "action": "PASS - Texas -1.5"
+        "action": "PASS \u2014 Texas -1.5"
       },
       "total": {
         "open": 49.5,
@@ -2665,8 +2665,8 @@
           "MGM": 49.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 49,
+        "action": "PASS \u2014 UNDER 49.5"
       },
       "moneyline": {
         "away": 105,
@@ -2724,7 +2724,7 @@
             "home": null
           }
         },
-        "action": "REVIEW - Oregon State +26.5 (FanDuel)"
+        "action": "REVIEW \u2014 Oregon State +26.5 (FanDuel)"
       },
       "total": {
         "open": 53.5,
@@ -2734,8 +2734,8 @@
           "MGM": 53.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 54.5,
+        "action": "PASS \u2014 OVER 53.5"
       },
       "moneyline": {
         "away": -3000,
@@ -2793,7 +2793,7 @@
             "home": null
           }
         },
-        "action": "PASS - Charlotte +45.5"
+        "action": "PASS \u2014 Charlotte +45.5"
       },
       "total": {
         "open": 59.5,
@@ -2803,8 +2803,8 @@
           "MGM": 60.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 54.4,
+        "action": "PLAY \u2014 UNDER 59.5"
       },
       "moneyline": {
         "away": null,
@@ -2872,7 +2872,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 55.1,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -2931,7 +2931,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Air Force +2.5 (FanDuel)"
+        "action": "PLAY \u2014 Air Force +2.5 (FanDuel)"
       },
       "total": {
         "open": 47.5,
@@ -3000,7 +3000,7 @@
             "home": null
           }
         },
-        "action": "PASS - Utah -12.5"
+        "action": "PASS \u2014 Utah -12.5"
       },
       "total": {
         "open": 55.5,
@@ -3010,8 +3010,8 @@
           "MGM": 55.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 60.7,
+        "action": "PLAY \u2014 OVER 55.5"
       },
       "moneyline": {
         "away": 390,
@@ -3069,7 +3069,7 @@
             "home": null
           }
         },
-        "action": "PASS - Fresno State -17.5"
+        "action": "PASS \u2014 Fresno State -17.5"
       },
       "total": {
         "open": 44.5,
@@ -3079,8 +3079,8 @@
           "MGM": 44.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 42.9,
+        "action": "PASS \u2014 UNDER 44.5"
       },
       "moneyline": {
         "away": 720,
@@ -3148,7 +3148,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 56.8,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3207,7 +3207,7 @@
             "home": null
           }
         },
-        "action": "PLAY - Hawaii -7 (DraftKings)"
+        "action": "PLAY \u2014 Hawaii -7 (DraftKings)"
       },
       "total": {
         "open": 50.5,
@@ -3217,8 +3217,8 @@
           "MGM": 50.5,
           "CZR": null
         },
-        "model": null,
-        "action": "NO MODEL"
+        "model": 52.7,
+        "action": "PASS \u2014 OVER 50.5"
       },
       "moneyline": {
         "away": 260,
@@ -3276,7 +3276,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3286,7 +3286,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 68.4,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3345,7 +3345,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3355,7 +3355,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 65.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3414,7 +3414,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3424,7 +3424,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 58.1,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3483,7 +3483,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3493,7 +3493,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 56.5,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3552,7 +3552,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3562,7 +3562,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 49.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3621,7 +3621,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3631,7 +3631,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 70.5,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3690,7 +3690,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3700,7 +3700,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 42.7,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3759,7 +3759,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3769,7 +3769,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 51.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3828,7 +3828,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3838,7 +3838,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 44.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3897,7 +3897,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3907,7 +3907,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 61.5,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -3966,7 +3966,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -3976,7 +3976,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 49.4,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4035,7 +4035,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4104,7 +4104,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4114,7 +4114,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 52.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4173,7 +4173,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4183,7 +4183,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 74.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4242,7 +4242,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4311,7 +4311,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4321,7 +4321,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 38.9,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4380,7 +4380,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4390,7 +4390,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 68.7,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4449,7 +4449,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4459,7 +4459,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 54.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4518,7 +4518,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4528,7 +4528,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 62.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4587,7 +4587,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4597,7 +4597,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 39.3,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4656,7 +4656,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4666,7 +4666,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 42.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4725,7 +4725,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4735,7 +4735,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 58.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4794,7 +4794,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4863,7 +4863,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -4873,7 +4873,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 55.1,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -4932,7 +4932,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5001,7 +5001,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5011,7 +5011,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 52.1,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5070,7 +5070,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5080,7 +5080,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 43.8,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5139,7 +5139,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5149,7 +5149,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 67.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5208,7 +5208,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5218,7 +5218,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 63.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5277,7 +5277,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5287,7 +5287,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 59.1,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5346,7 +5346,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5356,7 +5356,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 62.2,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5415,7 +5415,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5425,7 +5425,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 47.8,
         "action": "NO MODEL"
       },
       "moneyline": {
@@ -5484,7 +5484,7 @@
             "home": null
           }
         },
-        "action": "NO META - UNRATED OPPONENT"
+        "action": "NO META \u2014 UNRATED OPPONENT"
       },
       "total": {
         "open": null,
@@ -5494,7 +5494,7 @@
           "MGM": null,
           "CZR": null
         },
-        "model": null,
+        "model": 59.4,
         "action": "NO MODEL"
       },
       "moneyline": {
